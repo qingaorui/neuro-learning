@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>神经生物学学习</title>
+<meta name="description" content="每天一篇神经生物学论文：保留排版与插图的中文对照译文、结构化解读、随时提问。纯浏览器运行，数据不上传。" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="app">
+
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-title">神经生物学学习</div>
+      <div class="brand-sub" id="brandSub">加载中…</div>
+    </div>
+
+    <div class="progress-box">
+      <div class="progress-bar"><i id="progBar" style="width:0%"></i></div>
+      <div class="progress-meta">
+        <span id="progText">0 / 0</span>
+        <span id="streakText"></span>
+      </div>
+    </div>
+
+    <nav class="plan" id="plan"></nav>
+
+    <div class="sidebar-foot">
+      <button class="btn ghost" id="btnToday">回到今日</button>
+      <button class="btn ghost" id="btnSettings">设置</button>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <div class="today-tag">
+        <span class="pill" id="dayPill">D001</span>
+        <span class="muted" id="dateText"></span>
+      </div>
+      <div class="topbar-actions">
+        <span class="status-dot" id="statusDot"></span>
+        <span class="muted" id="jobText"></span>
+      </div>
+    </header>
+
+    <div class="banner" id="noKeyBanner" hidden>
+      还没配置大模型 API Key，译文与解读会显示为占位内容。
+      <button class="link" id="btnBannerSettings">现在配置</button>
+    </div>
+
+    <div class="banner info" id="localBanner" hidden>
+      本地预览模式：请通过网页访问（http://…），直接双击打开文件无法加载语料。
+    </div>
+
+    <section class="paper-card" id="paperCard">
+      <div class="paper-meta" id="paperMeta"></div>
+      <h1 class="paper-title" id="paperTitle">—</h1>
+      <div class="paper-sub" id="paperSub"></div>
+      <p class="paper-note" id="paperNote"></p>
+
+      <div class="actions">
+        <a class="btn primary" id="btnPubmed" target="_blank" rel="noopener">在 PubMed 打开</a>
+        <button class="btn" id="btnPrepare">生成译文与解读</button>
+        <button class="btn" id="btnUpload">拖入 / 选择 PDF</button>
+        <button class="btn ghost" id="btnRead">标记已读</button>
+        <button class="btn ghost" id="btnClearCache" title="清除这篇在本机缓存的 PDF、译文与对话">清除本篇缓存</button>
+      </div>
+      <input type="file" id="fileInput" accept="application/pdf" hidden />
+
+      <div class="drop-hint" id="dropHint">把论文 PDF 拖到这里，即可获得逐页对照译文（保留原版排版与插图）</div>
+
+      <div class="jobbar" id="jobBar" hidden>
+        <div class="jobbar-fill" id="jobFill"></div>
+        <span id="jobLabel"></span>
+      </div>
+    </section>
+
+    <nav class="tabs">
+      <button class="tab active" data-tab="abstract">摘要</button>
+      <button class="tab" data-tab="translation">译文</button>
+      <button class="tab" data-tab="interpret">图文解读</button>
+    </nav>
+
+    <section class="panel active" id="panel-abstract">
+      <div class="abstract" id="abstractBody"></div>
+      <div class="meta-grid" id="metaGrid"></div>
+    </section>
+
+    <section class="panel" id="panel-translation">
+      <div class="tl-toolbar" id="tlToolbar" hidden>
+        <div class="seg" id="modeSeg">
+          <button data-mode="translated" class="on">译文</button>
+          <button data-mode="original">原文</button>
+        </div>
+        <div class="pager">
+          <button class="btn tiny" id="btnPrev">上一页</button>
+          <span id="pageLabel">1 / 1</span>
+          <button class="btn tiny" id="btnNext">下一页</button>
+        </div>
+        <label class="zoom">
+          缩放 <input type="range" id="zoom" min="60" max="200" value="100" />
+        </label>
+        <button class="btn tiny" id="btnSavePng">保存本页图片</button>
+      </div>
+      <div class="tl-empty" id="tlEmpty">
+        还没有译文。<button class="link" id="btnPrepare2">生成译文与解读</button>
+        <div class="hint">有 PMC 全文的文献会自动抓取正文；要「保留排版和图片」，请拖入 PDF。</div>
+      </div>
+      <div class="pageview" id="pageView" hidden><canvas id="pageCanvas"></canvas></div>
+      <div class="textview" id="textView" hidden></div>
+    </section>
+
+    <section class="panel" id="panel-interpret">
+      <div class="tl-empty" id="ipEmpty">
+        还没有解读。<button class="link" id="btnPrepare3">生成译文与解读</button>
+      </div>
+      <div class="interp" id="interpBody"></div>
+    </section>
+  </main>
+</div>
+
+<button class="chat-fab" id="chatFab" title="就当前论文提问">💬 提问</button>
+
+<aside class="chat-drawer" id="chatDrawer" aria-hidden="true">
+  <header class="chat-head">
+    <div class="chat-title">对话 · <b id="chatPaperId">—</b></div>
+    <div class="chat-tools">
+      <button class="btn tiny" id="chatClear">清空</button>
+      <button class="chat-close" id="chatClose" title="收起">×</button>
+    </div>
+  </header>
+  <div class="chat-log" id="chatLog"></div>
+  <div class="chat-quick" id="chatQuick"></div>
+  <form class="chat-input" id="chatForm">
+    <textarea id="chatText" rows="1" placeholder="就这篇论文提问…（Enter 发送，Shift+Enter 换行）"></textarea>
+    <button type="submit" id="chatSend">发送</button>
+  </form>
+</aside>
+
+<dialog id="settingsDlg">
+  <form method="dialog" class="dlg">
+    <h2>设置</h2>
+    <p class="dlg-note">
+      API Key 只保存在你自己的浏览器里（localStorage），不会上传到任何服务器。
+      本项目为纯静态页面，所有请求由你的浏览器直接发往模型接口。
+    </p>
+    <label>
+      <span>模型接口地址</span>
+      <input id="cfgBaseUrl" placeholder="https://api.deepseek.com" />
+    </label>
+    <label>
+      <span>模型名称</span>
+      <input id="cfgModel" placeholder="deepseek-chat" />
+    </label>
+    <label>
+      <span>API Key <em id="keyHint"></em></span>
+      <input id="cfgKey" type="password" placeholder="sk-..." autocomplete="off" />
+    </label>
+    <label class="inline">
+      <input type="checkbox" id="cfgMock" />
+      <span>无 Key 模式（跑通流程，输出占位内容）</span>
+    </label>
+    <label>
+      <span>课程起始日期（决定「今天是第几天」）</span>
+      <input id="cfgStart" type="date" />
+    </label>
+    <div class="dlg-actions">
+      <button class="btn ghost" type="button" id="dlgCancel">取消</button>
+      <button class="btn primary" type="button" id="dlgSave">保存</button>
+    </div>
+  </form>
+</dialog>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

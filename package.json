@@ -1,0 +1,14 @@
+{
+  "name": "neuro-learning-tools",
+  "private": true,
+  "description": "开发辅助：无头浏览器验收脚本与 pdf.js 取包，不参与线上部署（线上是 docs/ 静态站）",
+  "scripts": {
+    "e2e": "node scripts/e2e_test.mjs 8899",
+    "canvas": "node scripts/canvas_dump.mjs",
+    "serve": "python -m http.server 8899 --directory docs"
+  },
+  "devDependencies": {
+    "pdfjs-dist": "^6.4.299",
+    "playwright": "^1.64.1"
+  }
+}

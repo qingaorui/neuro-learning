@@ -25,3 +25,10 @@ Thumbs.db
 .DS_Store
 .vscode/
 .idea/
+
+# npm（仅用于本地无头测试）
+node_modules/
+package-lock.json
+
+
+data/e2e/
