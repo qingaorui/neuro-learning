@@ -101,7 +101,8 @@
         <label class="zoom">
           缩放 <input type="range" id="zoom" min="60" max="200" value="100" />
         </label>
-        <button class="btn tiny" id="btnSavePng">保存本页图片</button>
+        <button class="btn tiny primary" id="btnExportPdf">导出整份 PDF</button>
+        <button class="btn tiny" id="btnSavePng">本页图片</button>
       </div>
       <div class="tl-empty" id="tlEmpty">
         还没有译文。<button class="link" id="btnPrepare2">生成译文与解读</button>
@@ -172,6 +173,7 @@
   </form>
 </dialog>
 
+<script src="vendor/fontkit.umd.min.js"></script>
 <script type="module" src="app.js"></script>
 </body>
 </html>

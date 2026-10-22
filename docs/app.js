@@ -495,42 +495,52 @@ function renderPage(scaleHint = 1) {
 async function doRenderPage(scaleHint = 1) {
   if (!S.pdfDoc) return;
   const canvas = $("#pageCanvas");
-  const ctx = canvas.getContext("2d");
   const page = await S.pdfDoc.getPage(S.page);
-
   const base = page.getViewport({ scale: 1 });
   const wrap = $("#pageView");
   const cssWidth = Math.max(320, Math.min(wrap.clientWidth - 24 || 800, 1100)) * scaleHint;
   const dpr = window.devicePixelRatio || 1;
-  const S_ = (cssWidth / base.width) * dpr;
-  const vp = page.getViewport({ scale: S_ });
+
+  await drawPageTo(canvas, S.page, S.mode, cssWidth * dpr);
+  canvas.style.width = cssWidth + "px";
+  canvas.style.height = Math.floor((canvas.height / dpr)) + "px";
+}
+
+/** 把某一页画到指定 canvas。targetWidthPx 决定分辨率，mode 决定是否叠中文。
+ *  屏幕显示和 PDF 导出共用这一段，保证「所见即所得」。 */
+async function drawPageTo(canvas, pageNum, mode, targetWidthPx) {
+  const page = await S.pdfDoc.getPage(pageNum);
+  const base = page.getViewport({ scale: 1 });
+  const scale = targetWidthPx / base.width;
+  const vp = page.getViewport({ scale });
 
   canvas.width = Math.floor(vp.width);
   canvas.height = Math.floor(vp.height);
-  canvas.style.width = cssWidth + "px";
-  canvas.style.height = Math.floor(vp.height / dpr) + "px";
-
+  const ctx = canvas.getContext("2d");
   ctx.fillStyle = "#fff";
   ctx.fillRect(0, 0, canvas.width, canvas.height);
   await page.render({ canvasContext: ctx, viewport: vp, canvas }).promise;
 
-  if (S.mode !== "translated") return;
-  const blocks = S.blocks[S.page - 1] || [];
+  if (mode !== "translated") return;
+  const blocks = S.blocks[pageNum - 1] || [];
   const map = S.translations || {};
+  const px = scale;                       // 1 个 PDF 点 = px 像素
+  const minFont = Math.max(5.5, 6.5 * scale / 1.67);
+
   for (const b of blocks) {
     const zh = (map[b.id] || "").trim();
     if (!zh) continue;
-    const x0 = b.x0 * S_, y0 = b.y0 * S_, x1 = b.x1 * S_;
-    const bottom = (b.bottom || b.y1) * S_;
+    const x0 = b.x0 * px, y0 = b.y0 * px, x1 = b.x1 * px;
+    const bottom = (b.bottom || b.y1) * px;
+    // 白色遮盖只覆盖原文字块，不动插图
     ctx.fillStyle = "#fff";
-    ctx.fillRect(x0 - 1, y0 - 1, x1 - x0 + 2, (b.y1 - b.y0) * S_ + 2);
+    ctx.fillRect(x0 - 1, y0 - 1, x1 - x0 + 2, (b.y1 - b.y0) * px + 2);
 
     const maxW = Math.max(x1 - x0 - 1, 12);
     const maxH = Math.max(bottom - y0, 10);
-    // 从原文字号起步，装不下再缩；上限放宽到 40px，否则标题会被压成小字
-    const start = Math.min(b.h * S_ * 0.95, 40 * dpr);
-    const min = 6.5 * dpr;
-    const { size, lines, family } = fitText(ctx, zh, maxW, maxH, start, min);
+    // 从原文字号起步，装不下再缩；上限放宽，否则标题会被压成小字
+    const start = Math.min(b.h * px * 0.95, 40 * scale / 1.67);
+    const { size, lines, family } = fitText(ctx, zh, maxW, maxH, start, minFont);
     ctx.fillStyle = "#111";
     ctx.font = `${size}px ${family}`;
     ctx.textBaseline = "top";
@@ -541,6 +551,169 @@ async function doRenderPage(scaleHint = 1) {
       y += size * 1.3;
     }
   }
+}
+
+/* ============================ 导出整份 PDF ============================ */
+function downloadBlob(blob, filename) {
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 8000);
+}
+
+async function exportPdf() {
+  if (!S.pdfDoc || !S.pageCount) return toast("请先拖入 PDF 并生成译文");
+
+  const btn = $("#btnExportPdf");
+  const old = btn.textContent;
+  btn.disabled = true;
+  const bar = $("#jobBar");
+  const fill = $("#jobFill");
+  const label = $("#jobLabel");
+  bar.hidden = false;
+  label.textContent = "导出 PDF · 准备中…";
+
+  try {
+    let bytes, mode;
+    try {
+      // 首选：把原 PDF 的页面整页搬过来（插图仍是矢量），再盖中文文字层
+      bytes = await exportPdfVector(fill, label);
+      mode = "矢量";
+    } catch (e) {
+      console.warn("矢量导出失败，回退到图片模式：", e);
+      bytes = await exportPdfRaster(fill, label);
+      mode = "图片";
+    }
+
+    fill.style.width = "100%";
+    const mb = (bytes.length / 1048576).toFixed(2);
+    const name = `${S.paper.id}-${S.mode === "translated" ? "译文" : "原文"}.pdf`;
+    downloadBlob(new Blob([bytes], { type: "application/pdf" }), name);
+    label.textContent = `已导出 ${name}（${mode}模式，${mb} MB）`;
+    setTimeout(() => { bar.hidden = true; }, 5000);
+  } catch (e) {
+    console.error(e);
+    label.textContent = "导出失败：" + e.message;
+    toast("导出 PDF 失败：" + e.message, 6000);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = old;
+  }
+}
+
+let _cjkFontBytes = null;
+function wrapPdf(font, text, size, maxW) {
+  const lines = [];
+  let cur = "";
+  for (const ch of text) {
+    if (ch === "\n") { lines.push(cur); cur = ""; continue; }
+    const cand = cur + ch;
+    if (cur && font.widthOfTextAtSize(cand, size) > maxW) { lines.push(cur); cur = ch; }
+    else cur = cand;
+  }
+  if (cur) lines.push(cur);
+  return lines;
+}
+
+/** 矢量导出：复制原页 → 白底遮盖原文字块 → 用内嵌中文字体写译文。
+ *  插图与线条保持矢量，另附可选中/可搜索的中文文字层。 */
+async function exportPdfVector(fill, label) {
+  const { PDFDocument, rgb } = await import("./vendor/pdf-lib.esm.min.js");
+  const fontkit = window.fontkit;
+  if (!fontkit) throw new Error("fontkit 未加载（vendor/fontkit.umd.min.js）");
+
+  const blob = await IDB.get(`pdf:${S.paper.pmid}`);
+  if (!blob) throw new Error("本机没有缓存原始 PDF");
+
+  if (!_cjkFontBytes) {
+    label.textContent = "导出 PDF · 加载中文字体（约 2 MB，仅首次）…";
+    const r = await fetch("vendor/NotoSansSC.ttf");
+    if (!r.ok) throw new Error("中文字体加载失败 " + r.status);
+    _cjkFontBytes = new Uint8Array(await r.arrayBuffer());
+  }
+
+  label.textContent = "导出 PDF · 解析原始文件…";
+  const src = await PDFDocument.load(await blob.arrayBuffer(), { ignoreEncryption: true });
+  const out = await PDFDocument.create();
+  out.registerFontkit(fontkit);
+  out.setTitle(S.paper.title || "");
+  out.setSubject(`${S.paper.journal} ${S.paper.year} · 机器辅助翻译，仅供个人学习`);
+  out.setCreator("神经生物学学习");
+  out.setProducer("神经生物学学习 · pdf-lib + Noto Sans SC");
+
+  // 注意：pdf-lib 对这款 CJK 字体做 subset 会丢失字形（只画出每块头几个字），
+  // 必须整包嵌入；字体已在构建时裁剪到常用字，约 2 MB。
+  const font = await out.embedFont(_cjkFontBytes, { subset: false });
+  const copied = await out.copyPages(src, Array.from({ length: src.getPageCount() }, (_, i) => i));
+  for (const p of copied) out.addPage(p);
+
+  const pages = out.getPageCount();
+  const map = S.translations || {};
+  for (let i = 0; i < pages; i++) {
+    fill.style.width = Math.round(((i + 1) / pages) * 100) + "%";
+    label.textContent = `导出 PDF · 第 ${i + 1}/${pages} 页`;
+    const page = out.getPage(i);
+    const { height } = page.getSize();
+    const blocks = S.blocks[i] || [];
+
+    for (const b of blocks) {
+      const zh = (map[b.id] || "").trim();
+      if (!zh) continue;
+      const x0 = b.x0;
+      const w = Math.max(b.x1 - b.x0, 12);
+      const topY = height - b.y0;            // PDF 坐标（原点左下）
+      const bottomY = height - (b.bottom || b.y1);
+
+      page.drawRectangle({
+        x: x0 - 1, y: height - b.y1 - 1,
+        width: w + 2, height: (b.y1 - b.y0) + 2,
+        color: rgb(1, 1, 1),
+      });
+
+      const maxH = Math.max((b.bottom || b.y1) - b.y0, 8);
+      let size = Math.min(b.h * 0.95, 40);
+      let lines = [];
+      while (size >= 4.5) {
+        lines = wrapPdf(font, zh, size, w - 1);
+        if (lines.length * size * 1.25 <= maxH + 0.5) break;
+        size -= 0.3;
+      }
+      let y = topY - size * 0.82;
+      for (const line of lines) {
+        if (y < bottomY - size * 0.25) break;
+        page.drawText(line, { x: x0, y, size, font, color: rgb(0, 0, 0) });
+        y -= size * 1.25;
+      }
+    }
+  }
+  label.textContent = "导出 PDF · 写入文件…";
+  return await out.save();
+}
+
+/** 兜底导出：每页渲染成图片再装进 PDF。所见即所得，但没有文字层。 */
+async function exportPdfRaster(fill, label) {
+  const { PDFDocument } = await import("./vendor/pdf-lib.esm.min.js");
+  const out = await PDFDocument.create();
+  out.setTitle(S.paper.title || "");
+  out.setCreator("神经生物学学习");
+
+  const canvas = document.createElement("canvas");
+  const TARGET_W = 1600;   // ≈200 DPI
+  for (let p = 1; p <= S.pageCount; p++) {
+    fill.style.width = Math.round(((p - 1) / S.pageCount) * 100) + "%";
+    label.textContent = `导出 PDF（图片模式）· 第 ${p}/${S.pageCount} 页`;
+    await drawPageTo(canvas, p, S.mode, TARGET_W);
+    const blob = await new Promise((res) => canvas.toBlob(res, "image/png"));
+    if (!blob) throw new Error("画布转 PNG 失败");
+    const img = await out.embedPng(new Uint8Array(await blob.arrayBuffer()));
+    const base = (await S.pdfDoc.getPage(p)).getViewport({ scale: 1 });
+    const page = out.addPage([base.width, base.height]);
+    page.drawImage(img, { x: 0, y: 0, width: base.width, height: base.height });
+  }
+  return await out.save();
 }
 
 /* ============================ 翻译流程 ============================ */
@@ -1066,6 +1239,7 @@ function bind() {
     };
   });
   $("#zoom").oninput = (e) => $("#pageCanvas").style.width = e.target.value + "%";
+  $("#btnExportPdf").onclick = exportPdf;
   $("#btnSavePng").onclick = () => {
     const c = $("#pageCanvas");
     if (!c.width) return;

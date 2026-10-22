@@ -32,3 +32,7 @@ package-lock.json
 
 
 data/e2e/
+
+# 字体源文件（体积大，仅本地构建用）
+data/fonts/
+
