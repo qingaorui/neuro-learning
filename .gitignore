@@ -1,0 +1,27 @@
+# 个人配置与密钥（绝不能提交）
+app/config.json
+
+# 个人阅读进度
+data/progress.json
+
+# 运行产物：缓存的 PDF、译文、页面图、对话记录
+data/artifacts/
+data/cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 临时文件
+*.part
+data/test_paper.pdf
+data/shortlist.txt
+
+# 系统 / 编辑器
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

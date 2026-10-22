@@ -1,0 +1,790 @@
+
+====================================================================================================
+## M01
+====================================================================================================
+
+-- TITLE:"dendritic"  [经典]
+8145033 |  3598 | 1994 | J Exp Med              | Efficient presentation of soluble antigen by cultured human dendritic cells is maintained by
+1460426 |  2773 | 1992 | J Exp Med              | Generation of large numbers of dendritic cells from mouse bone marrow cultures supplemented 
+10037236 |  2365 | 1999 | J Immunol Methods      | An advanced culture method for generating large quantities of highly pure dendritic cells fr
+28428369 |  2142 | 2017 | Science                | Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progeni
+15190253 |  1942 | 2004 | Nature                 | Structural basis of long-term potentiation in single dendritic spines
+20628149 |  1909 | 2010 | Blood                  | Nomenclature of monocytes and dendritic cells in blood
+9500607 |  1872 | 1998 | Nat Med                | Vaccination of melanoma patients with peptide- or tumor lysate-pulsed dendritic cells
+19008445 |  1864 | 2008 | Science                | Batf3 deficiency reveals a critical role for CD8alpha+ dendritic cells in cytotoxic T cell i
+
+-- TITLE:"dendritic"  [近年]
+29942093 |   900 | 2018 | Nat Med                | A natural killer-dendritic cell axis defines checkpoint therapy-responsive tumor microenviro
+30552023 |   868 | 2018 | Immunity               | Successful Anti-PD-1 Cancer Immunotherapy Requires T Cell-Dendritic Cell Crosstalk Involving
+30728504 |   848 | 2019 | Nature                 | Anti-tumour immunity controlled through mRNA m<sup>6</sup>A methylation and YTHDF1 in dendri
+32269339 |   836 | 2020 | Nature                 | A conserved dendritic-cell regulatory program limits antitumour immunity
+33481643 |   686 | 2021 | Annu Rev Immunol       | Dendritic Cells Revisited
+31668803 |   563 | 2019 | Cell                   | Transcriptional Basis of Mouse and Human Dendritic Cell Heterogeneity
+
+-- TITLE:"action potential"  [经典]
+7514509 |   823 | 1994 | Circ Res               | A dynamic model of the cardiac ventricular action potential. I. Simulations of ionic current
+21637795 |   807 | 2011 | PLoS Comput Biol       | Simulation of the undiseased human cardiac ventricular action potential: model formulation a
+874889 |   702 | 1977 | J Physiol              | Reconstruction of the action potential of ventricular myocardial fibres
+1709839 |   662 | 1991 | Circ Res               | A model of the ventricular cardiac action potential. Depolarization, repolarization, and the
+9688927 |   659 | 1998 | Am J Physiol           | Ionic mechanisms underlying human atrial action potential properties: insights from a mathem
+19633666 |   614 | 2009 | Nat Neurosci           | Distinct contributions of Na(v)1.6 and Na(v)1.2 in action potential initiation and backpropa
+7716524 |   610 | 1995 | Science                | Activity-dependent action potential invasion and calcium influx into hippocampal CA1 dendrit
+18204443 |   561 | 2008 | Nat Neurosci           | Action potential generation requires a high sodium channel density in the axon initial segme
+
+-- TITLE:"action potential"  [近年]
+35324301 |   209 | 2022 | Science                | An action potential initiation mechanism in distal axons for the control of dopamine release
+30106376 |   123 | 2018 | Elife                  | The adhesion function of the sodium channel beta subunit (β1) contributes to cardiac action 
+31630908 |   115 | 2019 | Neuron                 | TREK-1 and TRAAK Are Principal K<sup>+</sup> Channels at the Nodes of Ranvier for Rapid Acti
+30337521 |   111 | 2018 | Nat Commun             | Astrocytes integrate and drive action potential firing in inhibitory subnetworks
+36056095 |    82 | 2022 | Commun Biol            | Mitochondrial Ca<sup>2+</sup> uptake by the MCU facilitates pyramidal neuron excitability an
+30324358 |    80 | 2019 | Stem Cell Rev Rep      | Human Dental Pulp Stem Cells and Gingival Mesenchymal Stem Cells Display Action Potential Ca
+
+-- TITLE:"axon initial segment"  [经典]
+20543823 |   581 | 2010 | Nature                 | Activity-dependent relocation of the axon initial segment fine-tunes neuronal excitability
+18204443 |   561 | 2008 | Nat Neurosci           | Action potential generation requires a high sodium channel density in the axon initial segme
+20543825 |   381 | 2010 | Nature                 | Presynaptic activity regulates Na(+) channel distribution at the axon initial segment
+17698015 |   364 | 2007 | Neuron                 | Axon initial segment Kv1 channels control axonal action potential waveform and synaptic effi
+19001126 |   343 | 2008 | J Cell Biol            | AnkyrinG is required for maintenance of the axon initial segment and neuronal polarity
+19118165 |   328 | 2008 | J Neurosci             | Cell-type-dependent molecular composition of the axon initial segment
+15479642 |   298 | 2004 | Cell                   | Ankyrin-based subcellular gradient of neurofascin, an immunoglobulin family protein, directs
+19268344 |   273 | 2009 | Cell                   | A selective filter for cytoplasmic transport at the axon initial segment
+
+-- TITLE:"axon initial segment"  [近年]
+31542321 |   150 | 2019 | Neuron                 | Pathogenic Tau Impairs Axon Initial Segment Plasticity and Excitability Homeostasis
+29398366 |   128 | 2018 | Neuron                 | Rbfox Splicing Factors Promote Neuronal Maturation and Axon Initial Segment Assembly
+31900387 |   102 | 2020 | Nat Commun             | Mapping axon initial segment structure and function by multiplexed proximity biotinylation
+33397944 |    91 | 2021 | Nat Commun             | Sensory input drives rapid homeostatic scaling of the axon initial segment in mouse barrel c
+32109363 |    83 | 2020 | Neuron                 | Activity-Dependent Plasticity of Axo-axonic Synapses at the Axon Initial Segment
+29395909 |    81 | 2018 | Neuron                 | Localized Myosin II Activity Regulates Assembly and Plasticity of the Axon Initial Segment
+
+====================================================================================================
+## M02
+====================================================================================================
+
+-- TITLE:"synaptic plasticity"  [经典]
+18568035 |  3003 | 2008 | Nat Med                | Amyloid-beta protein dimers isolated directly from Alzheimer's brains impair synaptic plasti
+26937618 |  1468 | 2016 | Nat Med                | Synaptic plasticity and depression: new insights from stress and rapid-acting antidepressant
+12490942 |  1465 | 2002 | Nature                 | Long-term in vivo imaging of experience-dependent synaptic plasticity in adult cortex
+8980238 |  1354 | 1996 | Cell                   | The essential role of hippocampal CA1 NMDA receptor-dependent synaptic plasticity in spatial
+19424149 |  1324 | 2009 | Nature                 | HDAC2 negatively regulates memory formation and synaptic plasticity
+19242475 |  1273 | 2009 | Nature                 | Cellular prion protein mediates impairment of synaptic plasticity by amyloid-beta oligomers
+10966623 |  1244 | 2000 | Nat Neurosci           | Competitive Hebbian learning through spike-timing-dependent synaptic plasticity
+10331391 |  1241 | 1999 | Nature                 | Dendritic spine changes associated with hippocampal long-term synaptic plasticity
+
+-- TITLE:"synaptic plasticity"  [近年]
+30617325 |   762 | 2019 | Nat Med                | Exercise-linked FNDC5/irisin rescues synaptic plasticity and memory defects in Alzheimer's m
+31604844 |   298 | 2019 | Sci Immunol            | Meningeal γδ T cell-derived IL-17 controls synaptic plasticity and short-term memory
+31636451 |   271 | 2019 | Nat Neurosci           | Noradrenergic signaling in the wakeful state inhibits microglial surveillance and synaptic p
+29669582 |   230 | 2018 | J Neuroinflammation    | Galantamine improves cognition, hippocampal inflammation, and synaptic plasticity impairment
+29396460 |   215 | 2018 | Nat Commun             | Epigenetic modulation of inflammation and synaptic plasticity promotes resilience against st
+33004079 |   213 | 2020 | Microbiome             | Faecal microbiota transplant from aged donor mice affects spatial learning and memory via mo
+
+-- TITLE:"AMPA receptor"  [经典]
+11687814 |  1237 | 2001 | Nat Neurosci           | Dendritic spine geometry is critical for AMPA receptor expression in hippocampal CA1 pyramid
+11348590 |   886 | 2001 | Cell                   | Subunit-specific rules governing AMPA receptor trafficking to synapses in hippocampal pyrami
+10879537 |   854 | 2000 | Nature                 | Regulation of distinct AMPA receptor phosphorylation sites during bidirectional synaptic pla
+1370372 |   820 | 1992 | Neuron                 | Divalent ion permeability of AMPA receptor channels is dominated by the edited form of a sin
+10894545 |   808 | 2000 | Nature                 | Point mutation in an AMPA receptor gene rescues lethality in mice deficient in the RNA-editi
+15788779 |   800 | 2005 | J Neurosci             | Differential regulation of AMPA receptor and GABA receptor trafficking by tumor necrosis fac
+12536214 |   702 | 2003 | Nat Neurosci           | PKA phosphorylation of AMPA receptor subunits controls synaptic trafficking underlying plast
+8604042 |   672 | 1996 | J Neurosci             | Evidence for multiple AMPA receptor complexes in hippocampal CA1/CA2 neurons
+
+-- TITLE:"AMPA receptor"  [近年]
+31300657 |   217 | 2019 | Nat Commun             | AMPA receptor GluA2 subunit defects are a cause of neurodevelopmental disorders
+29367641 |   185 | 2018 | Nat Commun             | C9ORF72 repeat expansion causes vulnerability of motor neurons to Ca<sup>2+</sup>-permeable 
+31492534 |   159 | 2019 | Neuron                 | Phase Separation-Mediated TARP/MAGUK Complex Condensation and AMPA Receptor Synaptic Transmi
+31005376 |   128 | 2019 | Neuron                 | Alternative Splicing of Presynaptic Neurexins Differentially Controls Postsynaptic NMDA and 
+33981040 |   111 | 2021 | Nature                 | Hippocampal AMPA receptor assemblies and mechanism of allosteric inhibition
+30545844 |   107 | 2019 | Science                | Synaptotagmin-3 drives AMPA receptor endocytosis, depression of synapse strength, and forget
+
+-- TITLE:"synaptic vesicle"  [经典]
+4348786 |  1586 | 1973 | J Cell Biol            | Evidence for recycling of synaptic vesicle membrane during transmitter release at the frog n
+8221884 |  1469 | 1993 | Cell                   | A protein assembly-disassembly pathway in vitro that may correspond to sequential steps of s
+15210974 |  1068 | 2004 | Proc Natl Acad Sci U S | The synaptic vesicle protein SV2A is the binding site for the antiepileptic drug levetiracet
+6404912 |   975 | 1983 | J Cell Biol            | Synapsin I (protein I), a nerve terminal-specific phosphoprotein. III. Its association with 
+38256 |   948 | 1979 | J Cell Biol            | Synaptic vesicle exocytosis captured by quick freezing and correlated with quantal transmitt
+20152114 |   914 | 2010 | Neuron                 | Increased expression of alpha-synuclein reduces neurotransmitter release by inhibiting synap
+1589771 |   738 | 1992 | Science                | Synaptotagmin: a calcium sensor on the synaptic vesicle surface
+11078524 |   724 | 2000 | Proc Natl Acad Sci U S | Parkin functions as an E2-dependent ubiquitin- protein ligase and promotes the degradation o
+
+-- TITLE:"synaptic vesicle"  [近年]
+30014145 |   370 | 2018 | JAMA Neurol            | Assessing Synaptic Density in Alzheimer Disease With Synaptic Vesicle Glycoprotein 2A Positr
+29459792 |   305 | 2018 | Nat Commun             | C-terminal calcium binding of α-synuclein modulates synaptic vesicle interaction
+31110017 |   182 | 2019 | Proc Natl Acad Sci U S | Functional cooperation of α-synuclein and VAMP2 in synaptic vesicle recycling
+28792356 |   182 | 2018 | J Cereb Blood Flow Met | Kinetic evaluation and test-retest reproducibility of [<sup>11</sup>C]UCB-J, a novel radioli
+29230057 |   145 | 2018 | Nat Neurosci           | Synaptotagmin-1 drives synchronous Ca&lt;sup&gt;2+&lt;/sup&gt;-triggered fusion by C&lt;sub&
+31558350 |   124 | 2019 | Neuron                 | Distinct Nanoscale Calcium Channel and Synaptic Vesicle Topographies Contribute to the Diver
+
+====================================================================================================
+## M03
+====================================================================================================
+
+-- TITLE:"adult neurogenesis"  [经典]
+10195219 |  1481 | 1999 | Nat Neurosci           | Learning enhances adult neurogenesis in the hippocampal formation
+14574675 |  1287 | 2003 | J Comp Neurol          | Transient expression of doublecortin during adult neurogenesis
+11406822 |  1168 | 2001 | J Comp Neurol          | Adult neurogenesis produces a large pool of new granule cells in the dentate gyrus
+19287386 |   808 | 2009 | Nat Neurosci           | miR-124 regulates adult neurogenesis in the subventricular zone stem cell niche
+11163261 |   787 | 2000 | Neuron                 | Noggin antagonizes BMP signaling to create a niche for adult neurogenesis
+19119186 |   727 | 2009 | Science                | Neuronal activity-induced Gadd45b promotes epigenetic DNA demethylation and adult neurogenes
+7969902 |   723 | 1994 | Neuroscience           | Adult neurogenesis is regulated by adrenal steroids in the dentate gyrus
+26299571 |   681 | 2015 | Cell Stem Cell         | Single-Cell RNA-Seq with Waterfall Reveals Molecular Cascades underlying Adult Neurogenesis
+
+-- TITLE:"adult neurogenesis"  [近年]
+30190379 |   649 | 2018 | Science                | Combined adult neurogenesis and BDNF mimic exercise effects on cognition in an Alzheimer's m
+30929900 |   234 | 2019 | Cell                   | A Common Embryonic Origin of Stem Cells Drives Developmental and Adult Neurogenesis
+29395056 |   207 | 2018 | Cell Stem Cell         | Adult Neurogenesis Is Sustained by Symmetric Self-Renewal and Differentiation
+34210797 |   181 | 2021 | Proc Natl Acad Sci U S | Tryptophan-metabolizing gut microbes regulate adult neurogenesis via the aryl hydrocarbon re
+30485812 |   179 | 2018 | Cell Rep               | Single-Cell Transcriptomics Characterizes Cell Types in the Subventricular Zone and Uncovers
+33675690 |   154 | 2021 | Cell Stem Cell         | In vivo reprogramming of NG2 glia enables adult neurogenesis and functional recovery followi
+
+-- TITLE:"axon guidance"  [经典]
+23103869 |  1726 | 2012 | Nature                 | Pancreatic cancer genomes reveal aberrations in axon guidance pathway genes
+8978605 |  1027 | 1996 | Cell                   | Netrin-1 is required for commissural axon guidance in the developing vertebrate nervous syst
+10102268 |   988 | 1999 | Cell                   | Slit proteins bind Robo receptors and have an evolutionarily conserved role in repulsive axo
+10892653 |   796 | 2000 | Cell                   | Drosophila Dscam is an axon guidance receptor exhibiting extraordinary molecular diversity
+26830461 |   686 | 2016 | Elife                  | A mathematical model explains saturating axon guidance responses to molecular gradients
+10648243 |   573 | 2000 | Development            | Analysis of Drosophila photoreceptor axon guidance in eye-specific mosaics
+12679031 |   535 | 2003 | Cell                   | The morphogen sonic hedgehog is an axonal chemoattractant that collaborates with netrin-1 in
+20074521 |   487 | 2010 | Cell                   | Human TUBB3 mutations perturb microtubule dynamics, kinesin interactions, and axon guidance
+
+-- TITLE:"axon guidance"  [近年]
+31163177 |   172 | 2019 | Gastroenterology       | Axon Guidance Molecules Promote Perineural Invasion and Metastasis of Orthotopic Pancreatic 
+30843071 |   166 | 2019 | Nucleic Acids Res      | The m6A reader YTHDF1 regulates axon guidance through translational control of Robo3.1 expre
+30471716 |    70 | 2018 | Am J Hum Genet         | MACF1 Mutations Encoding Highly Conserved Zinc-Binding Residues of the GAR Domain Cause Defe
+29099309 |    69 | 2018 | Autophagy              | The autophagy-inducing kinases, ULK1 and ULK2, regulate axon guidance in the developing mous
+29346753 |    68 | 2018 | Neuron                 | Sonic Hedgehog Is a Remotely Produced Cue that Controls Axon Guidance Trans-axonally at a Mi
+31399471 |    63 | 2019 | Development            | Single-cell transcriptional logic of cell-fate specification and axon guidance in early-born
+
+-- TITLE:"cortical development"  [经典]
+15148381 |  3853 | 2004 | Proc Natl Acad Sci U S | Dynamic mapping of human cortical development during childhood through early adulthood
+16572172 |  1006 | 2006 | Nature                 | Intellectual ability and cortical development in children and adolescents
+26406371 |   801 | 2015 | Cell                   | Molecular identity of human outer radial glia during cortical development
+16915236 |   715 | 2006 | Nature                 | An RNA gene expressed during cortical development evolved rapidly in humans
+22761314 |   419 | 2012 | Proc Natl Acad Sci U S | Modeling human cortical development in vitro using induced pluripotent stem cells
+23603762 |   399 | 2013 | Nat Genet              | Mutations in TUBG1, DYNC1H1, KIF5C and KIF2A cause malformations of cortical development and
+20335478 |   396 | 2010 | J Neurosci             | Longitudinal magnetic resonance imaging study of cortical development through early childhoo
+7679891 |   391 | 1993 | Arch Gen Psychiatry    | Altered distribution of nicotinamide-adenine dinucleotide phosphate-diaphorase cells in fron
+
+-- TITLE:"cortical development"  [近年]
+32401820 |   331 | 2020 | PLoS Biol              | Vascularized human cortical organoids (vOrganoids) model cortical development in vivo
+34616060 |   279 | 2021 | Nature                 | Single-cell epigenomics reveals mechanisms of human cortical development
+30545853 |   244 | 2018 | Science                | Transcriptome and epigenome landscape of human cortical development modeled in organoids
+37824647 |   221 | 2023 | Science                | Single-cell analysis of prenatal and postnatal human cortical development
+32135084 |   196 | 2020 | Neuron                 | Pathogenic DDX3X Mutations Impair RNA Metabolism and Neurogenesis during Fetal Cortical Deve
+38490196 |   183 | 2024 | Cell                   | Type-I-interferon-responsive microglia shape cortical development and behavior
+
+====================================================================================================
+## M04
+====================================================================================================
+
+-- TITLE:"olfactory receptor"  [经典]
+23401498 |   953 | 2013 | Proc Natl Acad Sci U S | Olfactory receptor responding to gut microbiota-derived signals plays a role in renin secret
+10089887 |   847 | 1999 | Cell                   | A spatial map of olfactory receptor expression in the Drosophila antenna
+8087849 |   821 | 1994 | Cell                   | Allelic inactivation regulates olfactory receptor gene expression
+3027574 |   717 | 1987 | Nature                 | A cyclic nucleotide-gated conductance in olfactory receptor cilia
+11802173 |   639 | 2002 | Nat Neurosci           | The olfactory receptor gene superfamily of the mouse
+16873069 |   499 | 2006 | Cell                   | Interchromosomal interactions and olfactory receptor choice
+8601313 |   436 | 1996 | Cell                   | odr-10 encodes a seven transmembrane domain olfactory receptor required for responses to the
+14983052 |   398 | 2004 | Proc Natl Acad Sci U S | The human olfactory receptor gene family
+
+-- TITLE:"olfactory receptor"  [近年]
+30111839 |   374 | 2018 | Nature                 | Cryo-EM structure of the insect olfactory receptor Orco
+30626972 |   322 | 2019 | Nature                 | LHX2- and LDB1-mediated trans interactions regulate olfactory receptor choice
+32132713 |   219 | 2020 | Nature                 | Olfactory receptor and circuit evolution promote host specialization
+35025664 |   200 | 2022 | Science                | Olfactory receptor 2 in vascular macrophages drives atherosclerosis by NLRP3-dependent IL-1 
+31040214 |   137 | 2019 | Proc Natl Acad Sci U S | Genetic variation across the human olfactory receptor repertoire alters odor perception
+33555999 |   127 | 2021 | Elife                  | Single-cell transcriptomes of developing and adult olfactory receptor neurons in <i>Drosophi
+
+-- TITLE:"visual cortex"  [经典]
+10195184 |  3391 | 1999 | Nat Neurosci           | Predictive coding in the visual cortex: a functional interpretation of some extra-classical 
+2922061 |  2023 | 1989 | Nature                 | Oscillatory responses in cat visual cortex exhibit inter-columnar synchronization which refl
+7054394 |  1717 | 1982 | J Neurosci             | Theory for the development of neuron selectivity: orientation specificity and binocular inte
+12424383 |  1429 | 2002 | Science                | Reactivation of ocular dominance plasticity in the adult visual cortex
+20188652 |  1377 | 2010 | Neuron                 | Modulation of visual responses by behavioral state in mouse visual cortex
+24812127 |  1327 | 2014 | Proc Natl Acad Sci U S | Performance-optimized hierarchical models predict neural responses in higher visual cortex
+23817549 |  1275 | 2013 | Nat Neurosci           | Inhibition of inhibition in visual cortex: the logic of connections between molecularly dist
+17173043 |  1237 | 2007 | Nat Neurosci           | Coordinated memory replay in the visual cortex and hippocampus during sleep
+
+-- TITLE:"visual cortex"  [近年]
+31243367 |   546 | 2019 | Nature                 | High-dimensional geometry of population responses in visual cortex
+29230054 |   493 | 2018 | Nat Neurosci           | Single-cell analysis of experience-dependent transcriptomic states in the mouse visual corte
+31209381 |   461 | 2019 | Nat Neurosci           | Classification of electrophysiological and morphological neuron types in the mouse visual co
+31548375 |   315 | 2019 | Proc Natl Acad Sci U S | Apparent thinning of human visual cortex during childhood is associated with myelination
+30635232 |   300 | 2019 | Neuron                 | Layer-Specific Physiological Features and Interlaminar Interactions in the Primary Visual Co
+31636451 |   271 | 2019 | Nat Neurosci           | Noradrenergic signaling in the wakeful state inhibits microglial surveillance and synaptic p
+
+-- TITLE:"orientation selectivity"  [经典]
+9045738 |   717 | 1997 | J Neurosci             | Orientation selectivity and the arrangement of horizontal connections in tree shrew striate 
+6520628 |   702 | 1984 | J Neurophysiol         | Direction and orientation selectivity of neurons in visual area MT of the macaque
+7643194 |   552 | 1995 | J Neurosci             | An emergent model of orientation selectivity in cat visual cortical simple cells
+12097515 |   538 | 2002 | J Neurosci             | Orientation selectivity in macaque V1: diversity and laminar dependence
+8637573 |   392 | 1996 | Nature                 | Orientation selectivity of thalamic input to simple cells of cat visual cortex
+2288084 |   364 | 1990 | Vision Res             | The influence of contextual stimuli on the orientation selectivity of cells in primary visua
+2487637 |   302 | 1989 | Vis Neurosci           | Role of inhibition in the specification of orientation selectivity of cells in the cat stria
+8254372 |   238 | 1993 | J Neurosci             | Development of orientation selectivity in ferret visual cortex and effects of deprivation
+
+-- TITLE:"orientation selectivity"  [近年]
+30106372 |    50 | 2018 | Elife                  | Stimulus vignetting and orientation selectivity in human visual cortex
+30134166 |    45 | 2018 | Cell Rep               | Emergent Orientation Selectivity from Random Networks in Mouse Visual Cortex
+36151070 |    44 | 2022 | Nat Commun             | Synaptic plasticity in self-powered artificial striate cortex for binocular orientation sele
+34301882 |    40 | 2021 | Proc Natl Acad Sci U S | Active dendrites enable strong but sparse inputs to determine orientation selectivity
+31974370 |    24 | 2020 | Nat Commun             | Neural dynamics of the attentional blink revealed by encoding orientation selectivity during
+34506724 |    18 | 2021 | Neuron                 | Orientation selectivity enhances context generalization and generative predictive coding in 
+
+====================================================================================================
+## M05
+====================================================================================================
+
+-- TITLE:"basal ganglia"  [经典]
+20613723 |  1524 | 2010 | Nature                 | Regulation of parkinsonian motor behaviours by optogenetic control of basal ganglia circuitr
+8080242 |   849 | 1994 | Ann Neurol             | Alterations in glutathione levels in Parkinson's disease and other neurodegenerative disorde
+7939688 |   801 | 1994 | Science                | Anatomical evidence for cerebellar and basal ganglia involvement in higher cognitive functio
+1832073 |   791 | 1991 | Brain                  | Alterations in the levels of iron, ferritin and other trace metals in Parkinson's disease an
+18066057 |   726 | 2008 | Nat Neurosci           | Prefrontal cortex and basal ganglia control access to working memory
+7922471 |   687 | 1994 | Brain                  | The behavioural and motor consequences of focal lesions of the basal ganglia in man
+15701239 |   670 | 2005 | J Cogn Neurosci        | Dynamic dopamine modulation in the basal ganglia: a neurocomputational account of cognitive 
+16378516 |   651 | 2006 | Neural Comput          | Making working memory work: a computational model of learning in the prefrontal cortex and b
+
+-- TITLE:"basal ganglia"  [近年]
+34616074 |   314 | 2021 | Nature                 | The mouse cortico-basal ganglia-thalamic network
+31836321 |   213 | 2020 | Neuron                 | Integrative and Network-Specific Connectivity of the Basal Ganglia and Thalamus Defined in I
+32989293 |   178 | 2020 | Nat Neurosci           | Anatomically segregated basal ganglia pathways allow parallel behavioral modulation
+34267392 |   175 | 2021 | Nat Neurosci           | The basal ganglia control the detailed kinematics of learned motor skills
+31202541 |   164 | 2019 | Neuron                 | Prefrontal Cortex Regulates Sensory Filtering through a Basal Ganglia-to-Thalamus Pathway
+33823137 |   146 | 2021 | Neuron                 | Specific populations of basal ganglia output neurons target distinct brain stem areas while 
+
+-- TITLE:"motor cortex"  [经典]
+8524021 |  7750 | 1995 | Magn Reson Med         | Functional connectivity in the motor cortex of resting human brain using echo-planar MRI
+10990547 |  4181 | 2000 | J Physiol              | Excitability changes induced in the human motor cortex by weak transcranial direct current s
+15664172 |  3199 | 2005 | Neuron                 | Theta burst stimulation of the human motor cortex
+8120818 |  2419 | 1993 | J Physiol              | Corticocortical inhibition in human motor cortex
+11723286 |  1991 | 2001 | Neurology              | Sustained excitability elevations induced by transcranial DC motor cortex stimulation in hum
+9153480 |  1489 | 1997 | Neurology              | Depression of motor cortex excitability by low-frequency transcranial magnetic stimulation
+12968006 |  1265 | 2003 | J Neurosci             | Cerebellar loops with motor cortex and prefrontal cortex of a nonhuman primate
+7143039 |  1240 | 1982 | J Neurosci             | On the relations between the direction of two-dimensional arm movements and cell discharge i
+
+-- TITLE:"motor cortex"  [近年]
+34616062 |   803 | 2021 | Nature                 | Comparative cellular analysis of motor cortex in human, marmoset and mouse
+37076628 |   549 | 2023 | Nature                 | A somato-cognitive action network alternates with effector regions in motor cortex
+34616075 |   531 | 2021 | Nature                 | A multimodal cell census and atlas of the mammalian primary motor cortex
+34616063 |   462 | 2021 | Nature                 | Spatially resolved cell atlas of the mouse primary motor cortex by MERFISH
+30382200 |   395 | 2018 | Nature                 | Distinct descending motor cortex pathways and their roles in movement
+34616066 |   386 | 2021 | Nature                 | A transcriptomic and epigenomic cell atlas of the mouse primary motor cortex
+
+-- TITLE:"cerebellar"  [经典]
+9577385 |  2290 | 1998 | Brain                  | The cerebellar cognitive affective syndrome
+5784296 |  1864 | 1969 | J Physiol              | A theory of cerebellar cortex
+9634238 |  1829 | 1998 | Nature                 | Function of the chemokine receptor CXCR4 in haematopoiesis and in cerebellar development
+12968006 |  1265 | 2003 | J Neurosci             | Cerebellar loops with motor cortex and prefrontal cortex of a nonhuman primate
+9689100 |  1227 | 1998 | Proc Natl Acad Sci U S | Impaired B-lymphopoiesis, myelopoiesis, and derailed cerebellar neuron migration in CXCR4- a
+8988170 |  1069 | 1997 | Nat Genet              | Autosomal dominant cerebellar ataxia (SCA6) associated with small polyglutamine expansions i
+9094050 |   952 | 1997 | J Neurol Sci           | International Cooperative Ataxia Rating Scale for pharmacological assessment of the cerebell
+19571149 |   944 | 2009 | J Neurosci             | Distinct cerebellar contributions to intrinsic connectivity networks
+
+-- TITLE:"cerebellar"  [近年]
+30655412 |   467 | 2019 | Science                | Cerebellar modulation of the reward circuitry and social behavior
+29206893 |   418 | 2018 | Brain                  | The cerebellar cognitive affective/Schmahmann syndrome scale
+31043743 |   396 | 2019 | Nature                 | Childhood cerebellar tumours mirror conserved fetal transcriptional programs
+30333626 |   371 | 2018 | Nature                 | A cortico-cerebellar loop for motor planning
+34616064 |   357 | 2021 | Nature                 | A transcriptomic atlas of mouse cerebellar cortex comprehensively defines cell types
+30696271 |   333 | 2019 | Am J Psychiatry        | Cerebellar-Prefrontal Network Connectivity and Negative Symptoms in Schizophrenia
+
+====================================================================================================
+## M06
+====================================================================================================
+
+-- TITLE:"engram"  [经典]
+22441246 |  1353 | 2012 | Nature                 | Optogenetic stimulation of a hippocampal engram activates fear memory recall
+26023136 |   561 | 2015 | Science                | Memory. Engram cells retain memory under retrograde amnesia
+26982728 |   466 | 2016 | Nature                 | Memory retrieval by activating engram cells in mouse models of early Alzheimer's disease
+25162525 |   368 | 2014 | Nature                 | Bidirectional switch of the valence associated with a hippocampal contextual memory engram
+29700265 |   343 | 2018 | Science                | Interregional synaptic maps among engram cells underlie memory formation
+32187527 |   257 | 2020 | Cell                   | Functionally Distinct Neuronal Ensembles within the Memory Engram
+27197636 |   254 | 2016 | BMC Biol               | What is memory? The present state of the engram
+9136763 |   244 | 1997 | Neuron                 | Reconstructing the engram: simultaneous, multisite, many single neuron recordings
+
+-- TITLE:"engram"  [近年]
+29700265 |   343 | 2018 | Science                | Interregional synaptic maps among engram cells underlie memory formation
+32187527 |   257 | 2020 | Cell                   | Functionally Distinct Neuronal Ensembles within the Memory Engram
+30049878 |   206 | 2018 | Science                | The hippocampal engram maps experience but not place
+30551997 |   194 | 2019 | Neuron                 | Engram Cell Excitability State Determines the Efficacy of Memory Retrieval
+30498125 |   175 | 2018 | Science                | Fast track to the neocortex: A memory engram in the posterior parietal cortex
+31719672 |   173 | 2019 | Nat Neurosci           | A ventral CA1 to nucleus accumbens core engram circuit mediates conditioned place preference
+
+-- TITLE:"long-term potentiation"  [经典]
+11932745 |  3320 | 2002 | Nature                 | Naturally secreted oligomers of amyloid beta protein potently inhibit hippocampal long-term 
+2869411 |  2282 | 1986 | Nature                 | Selective impairment of learning and blockade of long-term potentiation by an N-methyl-D-asp
+10557337 |  2093 | 1999 | Proc Natl Acad Sci U S | Running enhances neurogenesis, learning, and long-term potentiation in mice
+15190253 |  1942 | 2004 | Nature                 | Structural basis of long-term potentiation in single dendritic spines
+16931756 |  1403 | 2006 | Science                | Learning induces long-term potentiation in the hippocampus
+9020359 |  1273 | 1997 | Nature                 | Synaptic tagging and long-term potentiation
+7568031 |  1115 | 1995 | Proc Natl Acad Sci U S | Hippocampal long-term potentiation is impaired in mice lacking brain-derived neurotrophic fa
+9285589 |  1102 | 1997 | Nature                 | A second endogenous cannabinoid that modulates long-term potentiation
+
+-- TITLE:"long-term potentiation"  [近年]
+30472077 |   219 | 2019 | Neuron                 | Higher-Order Thalamocortical Inputs Gate Synaptic Long-Term Potentiation via Disinhibition
+34289348 |   174 | 2021 | Cell Rep               | Oxytocin in the anterior cingulate cortex attenuates neuropathic pain and emotional anxiety 
+30318410 |   132 | 2018 | Neuron                 | Long-Term Potentiation Requires a Rapid Burst of Dendritic Mitochondrial Fission during Indu
+32325264 |   107 | 2020 | Brain Stimul           | Induction of long-term potentiation-like plasticity in the primary motor cortex with repeate
+29619614 |    98 | 2019 | Neurochem Res          | TNFα and IL-1β but not IL-18 Suppresses Hippocampal Long-Term Potentiation Directly at the S
+32071389 |    89 | 2020 | Commun Biol            | Beta amyloid aggregates induce sensitised TLR4 signalling causing long-term potentiation def
+
+-- TITLE:"place cell"  [经典]
+17828259 |   992 | 2007 | Nat Neurosci           | Forward and reverse hippocampal place-cell sequences during ripples
+23594744 |   934 | 2013 | Nature                 | Hippocampal place-cell sequences depict future paths to remembered goals
+21179088 |   548 | 2011 | Nature                 | Preplay of future place cell sequences by hippocampal cellular assemblies
+2769370 |   444 | 1989 | J Neurosci             | Influences of hippocampal place cell firing in the awake state on the activity of these cell
+1669293 |   407 | 1991 | Hippocampus            | Experience-dependent modifications of hippocampal place cell firing
+9641919 |   385 | 1998 | Science                | Abolition of long-term stability of new hippocampal place cell maps by NMDA receptor blockad
+11882899 |   354 | 2002 | Nature                 | Long-term plasticity in hippocampal place-cell representation of environmental geometry
+25402854 |   300 | 2014 | Nat Neurosci           | Simultaneous cellular-resolution optical perturbation and imaging of place cell firing field
+
+-- TITLE:"place cell"  [近年]
+31980319 |   182 | 2020 | Neuron                 | A Role for the Locus Coeruleus in Hippocampal CA1 Place Cell Reorganization during Spatial R
+34016996 |   174 | 2021 | Nat Commun             | Distinct place cell dynamics in CA1 and CA3 encode experience in new environments
+30393040 |   145 | 2018 | Curr Biol              | Abnormal Locus Coeruleus Sleep Activity Alters Sleep Signatures of Memory Consolidation and 
+32697942 |   138 | 2020 | Neuron                 | Disrupted Place Cell Remapping and Impaired Grid Cells in a Knockin Model of Alzheimer's Dis
+29617670 |    79 | 2018 | Cell Rep               | Manipulating Hippocampal Place Cell Activity by Single-Cell Stimulation in Freely Moving Mic
+32034157 |    70 | 2020 | Nat Commun             | The place-cell representation of volumetric space in rats
+
+-- TITLE:"reconsolidation"  [经典]
+10963596 |  1872 | 2000 | Nature                 | Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval
+15152039 |   864 | 2004 | J Neurosci             | Memory reconsolidation and extinction have distinct temporal and biochemical signatures
+20010606 |   826 | 2010 | Nature                 | Preventing the return of fear in humans using reconsolidation update mechanisms
+19342552 |   708 | 2009 | Science                | Extinction-reconsolidation boundaries: key to persistent attenuation of fear memories
+14534587 |   693 | 2003 | Nature                 | Dissociable stages of human memory consolidation and reconsolidation
+15073322 |   609 | 2004 | Science                | Independent cellular processes for hippocampal memory consolidation and reconsolidation
+12408854 |   518 | 2002 | Neuron                 | Cellular and systems reconsolidation in the hippocampus
+15501585 |   438 | 2004 | Neuroscience           | Disruption of reconsolidation but not consolidation of auditory fear conditioning by noradre
+
+-- TITLE:"reconsolidation"  [近年]
+31792465 |   109 | 2020 | Nat Neurosci           | Silent synapses dictate cocaine memory destabilization and reconsolidation
+32735813 |   102 | 2020 | Curr Biol              | State-Dependent TMS over Prefrontal Cortex Disrupts Fear-Memory Reconsolidation and Prevents
+30012882 |    83 | 2018 | Learn Mem              | Surprise and destabilize: prediction error influences episodic memory reconsolidation
+30344477 |    64 | 2018 | Front Mol Neurosci     | ERK1/2: A Key Cellular Component for the Formation, Retrieval, Reconsolidation and Persisten
+30529341 |    52 | 2019 | Physiol Behav          | 3,4-methylenedioxymethamphetamine (MDMA) impairs the extinction and reconsolidation of fear 
+30030400 |    52 | 2018 | J Neurosci             | EZH2 Methyltransferase Activity Controls Pten Expression and mTOR Signaling during Fear Memo
+
+====================================================================================================
+## M07
+====================================================================================================
+
+-- TITLE:"amygdala"  [经典]
+10963596 |  1872 | 2000 | Nature                 | Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval
+1590953 |  1510 | 1992 | Behav Neurosci         | Differential contribution of amygdala and hippocampus to cued and contextual fear conditioni
+12130784 |  1483 | 2002 | Science                | Serotonin transporter genetic variation and the response of the human amygdala
+15363399 |  1341 | 2004 | Neuron                 | Extinction learning in humans: role of the amygdala and vmPFC
+9412517 |  1335 | 1998 | J Neurosci             | Masked presentations of emotional facial expressions modulate amygdala activity without expl
+15880108 |  1314 | 2005 | Nat Neurosci           | 5-HTTLPR polymorphism impacts human cingulate-amygdala interactions: a genetic susceptibilit
+7990957 |  1273 | 1994 | Nature                 | Impaired recognition of emotion in facial expressions following bilateral damage to the huma
+8893004 |  1201 | 1996 | Nature                 | A differential neural response in the human amygdala to fearful and happy facial expressions
+
+-- TITLE:"amygdala"  [近年]
+32376858 |   352 | 2020 | Nat Commun             | Identification of a prefrontal cortex-to-amygdala pathway for chronic stress-induced anxiety
+29386133 |   272 | 2018 | Cell Rep               | Organization of Valence-Encoding and Projection-Defined Neurons in the Basolateral Amygdala
+28754515 |   253 | 2018 | Biol Psychiatry        | Maternal Systemic Interleukin-6 During Pregnancy Is Associated With Newborn Amygdala Phenoty
+33161163 |   245 | 2021 | Brain Behav Immun      | Neuroinflammation induces anxiety- and depressive-like behavior by modulating neuronal plast
+32170133 |   240 | 2020 | Nat Commun             | Encoding of contextual fear memory in hippocampal-amygdala circuit
+31597095 |   221 | 2019 | Cell Rep               | Dual and Opposing Functions of the Central Amygdala in the Modulation of Pain
+
+-- TITLE:"fear conditioning"  [经典]
+1590953 |  1510 | 1992 | Behav Neurosci         | Differential contribution of amygdala and hippocampus to cued and contextual fear conditioni
+9403688 |   951 | 1997 | Nature                 | Fear conditioning induces associative long-term potentiation in the amygdala
+17088541 |   800 | 2006 | Proc Natl Acad Sci U S | Ablation of hippocampal neurogenesis impairs contextual fear conditioning and synaptic plast
+15885654 |   770 | 2005 | Behav Res Ther         | Classical fear conditioning in the anxiety disorders: a meta-analysis
+2329367 |   748 | 1990 | J Neurosci             | The lateral amygdaloid nucleus: sensory interface of the amygdala in fear conditioning
+9403689 |   607 | 1997 | Nature                 | Fear conditioning induces a lasting potentiation of synaptic currents in vitro
+7576647 |   587 | 1995 | Neuron                 | Fear conditioning enhances short-latency auditory responses of lateral amygdala neurons: par
+9404635 |   570 | 1997 | Behav Brain Res        | Neurotoxic lesions of the dorsal hippocampus and Pavlovian fear conditioning in rats
+
+-- TITLE:"fear conditioning"  [近年]
+31133828 |   137 | 2019 | Front Behav Neurosci   | Differential Associations of Deprivation and Threat With Cognitive Control and Fear Conditio
+31841112 |   128 | 2019 | Elife                  | Navigating the garden of forking paths for data exclusions in fear conditioning research
+29690872 |   126 | 2018 | BMC Biol               | Identification of a neuronal population in the telencephalon essential for fear conditioning
+37884748 |   118 | 2023 | Nat Neurosci           | Neuronal types in the mouse amygdala and their transcriptional response to fear conditioning
+31464686 |    95 | 2019 | Elife                  | The cerebellum is involved in processing of predictions and prediction errors in a fear cond
+29290554 |    85 | 2018 | Neuron                 | A Non-canonical Reticular-Limbic Central Auditory Pathway via Medial Septum Contributes to F
+
+-- TITLE:"glucocorticoid"  [经典]
+10911004 |  3717 | 2000 | N Engl J Med           | Islet transplantation in seven patients with type 1 diabetes mellitus using a glucocorticoid
+6245367 |  2979 | 1980 | Nature                 | Glucocorticoid-induced thymocyte apoptosis is associated with endogenous endonuclease activa
+19234457 |  2095 | 2009 | Nat Neurosci           | Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhoo
+9287218 |  2027 | 1997 | Science                | Maternal care, hippocampal glucocorticoid receptors, and hypothalamic-pituitary-adrenal resp
+10471508 |  1593 | 1999 | Nat Genet              | Disruption of the glucocorticoid receptor gene in the nervous system results in reduced anxi
+11009419 |  1433 | 2000 | Science                | Resetting of circadian time in peripheral tissues by glucocorticoid signaling
+3037703 |  1316 | 1987 | Science                | Cloning of human mineralocorticoid receptor complementary DNA: structural and functional kin
+25199060 |  1209 | 2014 | N Engl J Med           | Oral glucocorticoid-sparing effect of mepolizumab in eosinophilic asthma
+
+-- TITLE:"glucocorticoid"  [近年]
+29782224 |   884 | 2018 | N Engl J Med           | Efficacy and Safety of Dupilumab in Glucocorticoid-Dependent Severe Asthma
+29347874 |   731 | 2018 | N Engl J Med           | Adjunctive Glucocorticoid Therapy in Patients with Septic Shock
+32320566 |   640 | 2020 | N Engl J Med           | Ruxolitinib for Glucocorticoid-Refractory Acute Graft-versus-Host Disease
+32579807 |   498 | 2020 | N Engl J Med           | Triple Inhaled Therapy at Two Glucocorticoid Doses in Moderate-to-Very-Severe COPD
+34260836 |   458 | 2021 | N Engl J Med           | Ruxolitinib for Glucocorticoid-Refractory Chronic Graft-versus-Host Disease
+31501614 |   330 | 2019 | Nat Med                | Stress-glucocorticoid-TSC22D3 axis compromises therapy-induced antitumor immunity
+
+====================================================================================================
+## M08
+====================================================================================================
+
+-- TITLE:"orexin"  [经典]
+9491897 |  3872 | 1998 | Cell                   | Orexins and orexin receptors: a family of hypothalamic neuropeptides and G protein-coupled r
+9822755 |  2572 | 1998 | J Neurosci             | Neurons containing hypocretin (orexin) project to multiple neuronal systems
+10481909 |  2184 | 1999 | Cell                   | Narcolepsy in orexin knockout mice: molecular genetics of sleep regulation
+10458611 |  1735 | 1999 | Cell                   | The sleep disorder canine narcolepsy is caused by a mutation in the hypocretin (orexin) rece
+19779148 |  1286 | 2009 | Science                | Amyloid-beta dynamics are regulated by orexin and the sleep-wake cycle
+11370008 |  1262 | 2001 | J Comp Neurol          | Differential expression of orexin receptors 1 and 2 in the rat brain
+10615891 |  1162 | 2000 | Lancet                 | Hypocretin (orexin) deficiency in human narcolepsy
+11394998 |  1029 | 2001 | Neuron                 | Genetic ablation of orexin neurons in mice results in narcolepsy, hypophagia, and obesity
+
+-- TITLE:"orexin"  [近年]
+30219208 |   175 | 2019 | Biol Psychiatry        | Increased Number and Activity of a Lateral Subpopulation of Hypothalamic Orexin/Hypocretin N
+32284606 |   118 | 2020 | Nat Neurosci           | Orexin signaling in GABAergic lateral habenula neurons modulates aggressive behavior in male
+31953863 |   105 | 2020 | Ann Neurol             | Daridorexant, a New Dual Orexin Receptor Antagonist to Treat Insomnia Disorder
+35851580 |   102 | 2022 | Nat Commun             | Orexin neurons inhibit sleep to promote arousal
+34358627 |   101 | 2021 | Biochim Biophys Acta M | Orexin-A alleviates astrocytic apoptosis and inflammation via inhibiting OX1R-mediated NF-κB
+33547286 |    96 | 2021 | Nat Commun             | Structures of active-state orexin receptor 2 rationalize peptide and small-molecule agonist 
+
+-- TITLE:"sleep" AND TITLE:"memory"  [经典]
+17086200 |  1342 | 2006 | Nature                 | Boosting slow oscillations during sleep potentiates memory
+17173043 |  1237 | 2007 | Nat Neurosci           | Coordinated memory replay in the visual cortex and hippocampus during sleep
+12495631 |   975 | 2002 | Neuron                 | Memory of sequential experience in the hippocampus during slow wave sleep
+17347444 |   841 | 2007 | Science                | Odor cues during slow-wave sleep prompt declarative memory consolidation
+23583623 |   690 | 2013 | Neuron                 | Auditory closed-loop stimulation of the sleep slow oscillation enhances memory
+23968216 |   639 | 1997 | J Cogn Neurosci        | Effects of early and late nocturnal sleep on declarative and procedural memory
+27182818 |   529 | 2016 | Nat Neurosci           | Hippocampo-cortical coupling mediates memory consolidation during sleep
+27174984 |   527 | 2016 | Science                | Causal evidence for the role of REM sleep theta rhythm in contextual memory consolidation
+
+-- TITLE:"sleep" AND TITLE:"memory"  [近年]
+35798980 |   259 | 2022 | Nat Neurosci           | Memory-enhancing properties of sleep depend on the oscillatory amplitude of norepinephrine
+29526594 |   255 | 2018 | Curr Biol              | Memory Consolidation Is Linked to Spindle-Mediated Information Processing during Sleep
+30429612 |   187 | 2018 | Nature                 | The hippocampus is crucial for forming non-hippocampal long-term memory during sleep
+32027149 |   185 | 2020 | Psychol Bull           | Promoting memory consolidation during sleep: A meta-analysis of targeted memory reactivation
+29804809 |   169 | 2018 | Curr Biol              | Sleep Spindle Refractoriness Segregates Periods of Memory Reactivation
+30393040 |   145 | 2018 | Curr Biol              | Abnormal Locus Coeruleus Sleep Activity Alters Sleep Signatures of Memory Consolidation and 
+
+-- TITLE:"circadian" AND TITLE:"clock"  [经典]
+11834835 |  2127 | 2002 | Science                | Phototransduction by retinal ganglion cells that set the circadian clock
+15845877 |  1962 | 2005 | Science                | Obesity and metabolic syndrome in circadian Clock mutant mice
+12015981 |  1822 | 2002 | Cell                   | Coordinated transcription of key pathways in the mouse by the circadian clock
+9616112 |  1581 | 1998 | Science                | Role of the CLOCK protein in the mammalian circadian mechanism
+11161204 |  1314 | 2001 | Science                | Entrainment of the circadian clock in the liver by feeding
+10428031 |  1303 | 1999 | Cell                   | mCRY1 and mCRY2 are essential components of the negative limb of the circadian clock feedbac
+22936566 |  1273 | 2012 | Science                | Transcriptional architecture and chromatin landscape of the core circadian clock in mammals
+8171325 |  1187 | 1994 | Science                | Mutagenesis and mapping of a mouse gene, Clock, essential for circadian behavior
+
+-- TITLE:"circadian" AND TITLE:"clock"  [近年]
+30174302 |   545 | 2019 | Cell Metab             | Time-Restricted Feeding Prevents Obesity and Metabolic Syndrome in Mice Lacking a Circadian 
+31151228 |   514 | 2019 | Nutrients              | Early Time-Restricted Feeding Improves 24-Hour Glucose Levels and Affects Markers of the Cir
+30127006 |   341 | 2018 | Proc Natl Acad Sci U S | Circadian clock protein BMAL1 regulates IL-1β in macrophages via NRF2
+31150621 |   293 | 2019 | Cell                   | Defining the Independence of the Liver Circadian Clock
+30630934 |   284 | 2019 | Science                | Cell-autonomous clock of astrocytes drives circadian behavior in mammals
+31455674 |   275 | 2019 | Cancer Discov          | Targeting Glioblastoma Stem Cells through Disruption of the Circadian Clock
+
+====================================================================================================
+## M09
+====================================================================================================
+
+-- TITLE:"dopamine"  [经典]
+2899326 |  3143 | 1988 | Proc Natl Acad Sci U S | Drugs abused by humans preferentially increase synaptic dopamine concentrations in the mesol
+12374324 |  2846 | 2002 | Psychol Rev            | The neural basis of human error processing: reinforcement learning, dopamine, and the error-
+2147780 |  2209 | 1990 | Science                | D1 and D2 dopamine receptor-regulated gene expression of striatonigral and striatopallidal n
+1975644 |  1872 | 1990 | Nature                 | Molecular cloning and characterization of a novel dopamine receptor (D3) as a target for neu
+8628395 |  1816 | 1996 | Nature                 | Hyperlocomotion and indifference to cocaine and amphetamine in mice lacking the dopamine tra
+16469931 |  1731 | 2006 | Science                | Essential role of BDNF in the mesolimbic dopamine pathway in social defeat stress
+2820058 |  1585 | 1987 | Science                | Cocaine receptors on dopamine transporters are related to self-administration of cocaine
+11236774 |  1545 | 2001 | N Engl J Med           | Transplantation of embryonic dopamine neurons for severe Parkinson's disease
+
+-- TITLE:"dopamine"  [近年]
+29853555 |   944 | 2018 | Science                | Ultrafast neuronal imaging of dopamine dynamics with designed genetically encoded sensors
+30007419 |   686 | 2018 | Cell                   | A Genetically Encoded Fluorescent Sensor Enables Rapid and Specific Detection of Dopamine in
+31118513 |   655 | 2019 | Nature                 | Dissociable dopamine dynamics for learning and motivation
+35513515 |   512 | 2022 | Nat Neurosci           | Single-cell genomic profiling of human dopamine neurons identifies a population that selecti
+29420469 |   512 | 2018 | Nature                 | Dopamine neuron activity before action initiation gates and invigorates future movements
+31142844 |   501 | 2019 | Nature                 | Specialized coding of sensory, motor and cognitive variables in VTA dopamine neurons
+
+-- TITLE:"reward prediction error"  [经典]
+15996553 |   941 | 2005 | Neuron                 | Midbrain dopamine neurons encode a quantitative reward prediction error signal
+17684497 |   364 | 2008 | Mol Psychiatry         | Substantia nigra/ventral tegmental reward prediction error disruption in psychosis
+25495239 |   329 | 2015 | Psychol Bull           | A neural reward prediction error revealed by a meta-analysis of ERPs using great grand avera
+26854803 |   295 | 2016 | Nat Neurosci           | Dopamine neurons share common response function for reward prediction error
+17640267 |   256 | 2007 | Psychophysiology       | Reward prediction error signals associated with a modified time estimation task
+24431428 |   245 | 2014 | J Neurosci             | Phasic dopamine release in the rat nucleus accumbens symmetrically encodes a reward predicti
+20926678 |   168 | 2010 | J Neurosci             | Testing the reward prediction error hypothesis with an axiomatic model
+29540863 |   167 | 2018 | Neuropsychopharmacolog | Impaired reward prediction error encoding and striatal-midbrain connectivity in depression
+
+-- TITLE:"reward prediction error"  [近年]
+29540863 |   167 | 2018 | Neuropsychopharmacolog | Impaired reward prediction error encoding and striatal-midbrain connectivity in depression
+32778791 |    94 | 2020 | Nat Neurosci           | A quantitative reward prediction error signal in the ventral pallidum
+29748629 |    69 | 2018 | Neuropsychopharmacolog | Abnormal reward prediction-error signalling in antipsychotic naive individuals with first-ep
+30946008 |    58 | 2019 | Elife                  | Reward prediction error does not explain movement selectivity in DMS-projecting dopamine neu
+36543170 |    56 | 2023 | Neuron                 | A dopaminergic reward prediction error signal shapes maternal behavior in mice
+32318717 |    56 | 2020 | Schizophr Bull         | Striatal Dopamine and Reward Prediction Error Signaling in Unmedicated Schizophrenia Patient
+
+-- TITLE:"ventral tegmental area"  [经典]
+6816390 |  1292 | 1982 | Brain Res Bull         | The projections of the ventral tegmental area and adjacent regions: a combined fluorescent r
+22258508 |  1199 | 2012 | Nature                 | Neuron-type-specific signals for reward and punishment in the ventral tegmental area
+23064228 |  1096 | 2012 | Nature                 | Input-specific control of reward and aversion in the ventral tegmental area
+314832 |   950 | 1979 | Brain Res              | Efferent connections of the substantia nigra and ventral tegmental area in the rat
+10804226 |   648 | 2000 | J Neurosci             | Projections from the rat prefrontal cortex to the ventral tegmental area: target specificity
+15044807 |   609 | 2004 | Science                | Uniform inhibition of dopamine neurons in the ventral tegmental area by aversive stimuli
+1377716 |   607 | 1992 | J Comp Neurol          | Prefrontal cortical efferents in the rat synapse on unlabeled neuronal targets of catecholam
+1331427 |   528 | 1992 | J Physiol              | Two types of neurone in the rat ventral tegmental area and their synaptic inputs
+
+-- TITLE:"ventral tegmental area"  [近年]
+32273471 |   223 | 2020 | Science                | Dopaminylation of histone H3 in ventral tegmental area regulates cocaine seeking
+34663957 |   131 | 2021 | Nat Neurosci           | Pain induces adaptations in ventral tegmental area dopamine neurons to drive anhedonia-like 
+32877676 |   124 | 2020 | Cell Rep               | Distinct Signaling by Ventral Tegmental Area Glutamate, GABA, and Combinatorial Glutamate-GA
+35385745 |   122 | 2022 | Cell Rep               | An atlas of transcriptionally defined cell populations in the rat ventral tegmental area
+34385700 |   120 | 2021 | Nat Neurosci           | Ventral tegmental area GABAergic inhibition of cholinergic interneurons in the ventral nucle
+29497166 |   115 | 2018 | Neuropsychopharmacolog | Glucagon-like peptide-1 receptor activation in the ventral tegmental area attenuates cocaine
+
+====================================================================================================
+## M10
+====================================================================================================
+
+-- TITLE:"microglia"  [经典]
+28099414 |  6763 | 2017 | Nature                 | Neurotoxic reactive astrocytes are induced by activated microglia
+28602351 |  4679 | 2017 | Cell                   | A Unique Microglia Type Associated with Restricting Development of Alzheimer's Disease
+20966214 |  4209 | 2010 | Science                | Fate mapping analysis reveals that adult microglia derive from primitive macrophages
+22632727 |  3541 | 2012 | Neuron                 | Microglia sculpt postnatal neural circuits in an activity and complement-dependent manner
+21778362 |  3488 | 2011 | Science                | Synaptic pruning by microglia is necessary for normal brain development
+26030851 |  2871 | 2015 | Nat Neurosci           | Host microbiota constantly control maturation and function of microglia in the CNS
+27033548 |  2816 | 2016 | Science                | Complement and microglia mediate early synapse loss in Alzheimer mouse models
+28930663 |  2620 | 2017 | Immunity               | The TREM2-APOE Pathway Drives the Transcriptional Phenotype of Dysfunctional Microglia in Ne
+
+-- TITLE:"microglia"  [近年]
+30471926 |  1979 | 2019 | Immunity               | Single-Cell RNA Sequencing of Microglia throughout the Mouse Lifespan and in the Injured Bra
+31959936 |  1292 | 2020 | Nat Neurosci           | Lipid-droplet-accumulating microglia represent a dysfunctional and proinflammatory state in 
+31604244 |  1161 | 2019 | Science                | Multiple sclerosis genomic map implicates peripheral immune cells and microglia in susceptib
+30760929 |  1117 | 2019 | Nature                 | Spatial and temporal heterogeneity of mouse and human microglia at single-cell resolution
+32284590 |   960 | 2020 | Nat Med                | Large-scale proteomic analysis of Alzheimer's disease brain and cerebrospinal fluid reveals 
+29892066 |   954 | 2018 | Nat Med                | Block of A1 astrocyte conversion by microglia is neuroprotective in models of Parkinson's di
+
+-- TITLE:"astrocyte"  [经典]
+27027288 |  1511 | 2016 | Nature                 | Astrocyte scar formation aids central nervous system axon regeneration
+6304520 |  1500 | 1983 | Nature                 | A glial progenitor cell that develops in vitro into an astrocyte or an oligodendrocyte depen
+21376239 |  1457 | 2011 | Cell                   | Astrocyte-neuron lactate transport is required for long-term memory formation
+15707899 |  1395 | 2005 | Cell                   | Thrombospondins are astrocyte-secreted proteins that promote CNS synaptogenesis
+27158906 |  1325 | 2016 | Nat Med                | Type I interferons and microbial metabolites of tryptophan modulate astrocyte activity and c
+7911978 |  1285 | 1994 | Nature                 | Glutamate-mediated astrocyte-neuron signalling
+29437957 |  1141 | 2018 | Proc Natl Acad Sci U S | Normal aging induces A1-like astrocyte reactivity
+12469126 |  1070 | 2003 | Nat Neurosci           | Neuron-to-astrocyte signaling is central to the dynamic control of brain microcirculation
+
+-- TITLE:"astrocyte"  [近年]
+29437957 |  1141 | 2018 | Proc Natl Acad Sci U S | Normal aging induces A1-like astrocyte reactivity
+32284590 |   960 | 2020 | Nat Med                | Large-scale proteomic analysis of Alzheimer's disease brain and cerebrospinal fluid reveals 
+29892066 |   954 | 2018 | Nat Med                | Block of A1 astrocyte conversion by microglia is neuroprotective in models of Parkinson's di
+32139688 |   755 | 2020 | Nat Commun             | Identification of region-specific astrocyte subtypes at single cell resolution
+34497421 |   718 | 2021 | Nature                 | A lymphocyte-microglia-astrocyte axis in chronic active multiple sclerosis
+29298427 |   631 | 2018 | Cell Rep               | The Aging Astrocyte Transcriptome from Multiple Regions of the Mouse Brain
+
+-- TITLE:"myelin"  [经典]
+14642481 |  1466 | 2003 | Neuroimage             | Diffusion tensor imaging detects and differentiates axon and myelin degeneration in mouse op
+21832190 |  1381 | 2011 | J Neurosci             | Mapping human cortical areas in vivo based on myelin content as revealed by T1- and T2-weigh
+22622581 |  1293 | 2012 | Nature                 | Glycolytic oligodendrocytes maintain myelin and long-term axonal integrity
+10667796 |  1050 | 2000 | Nature                 | Nogo-A is a myelin-associated neurite outgrowth inhibitor and an antigen for monoclonal anti
+7534214 |  1009 | 1995 | Cell                   | Molecular mimicry in T cell-mediated autoimmunity: viral peptides activate human T cell clon
+3132891 |   946 | 1988 | Ann Neurol             | Tumor necrosis factor mediates myelin and oligodendrocyte damage in vitro
+22031325 |   945 | 2011 | Nature                 | Commensal microbiota and myelin autoantigen cooperate to trigger autoimmune demyelination
+2300171 |   872 | 1990 | Nature                 | Axonal regeneration in the rat spinal cord produced by an antibody against myelin-associated
+
+-- TITLE:"myelin"  [近年]
+29556025 |   487 | 2018 | Nat Neurosci           | Myelin remodeling through experience-dependent oligodendrogenesis in the adult somatosensory
+35768006 |   458 | 2022 | Cell                   | Mild respiratory COVID can cause multi-lineage neural cell and myelin dysregulation
+36517604 |   453 | 2023 | Nature                 | Microglia regulate central nervous system myelin growth and integrity
+37258678 |   437 | 2023 | Nature                 | Myelin dysfunction drives amyloid-β deposition in models of Alzheimer's disease
+29556031 |   404 | 2018 | Nat Neurosci           | Lifelong cortical myelin plasticity and age-related degeneration in the live mammalian brain
+32042175 |   341 | 2020 | Nat Neurosci           | Preservation of a remote fear memory requires new myelin formation
+
+====================================================================================================
+## M11
+====================================================================================================
+
+-- TITLE:"amyloid"  [经典]
+22896675 |  4860 | 2012 | Sci Transl Med         | A paravascular pathway facilitates CSF flow through the brain parenchyma and the clearance o
+6375662 |  3710 | 1984 | Biochem Biophys Res Co | Alzheimer's disease: initial report of the purification and characterization of a novel cere
+11932745 |  3320 | 2002 | Nature                 | Naturally secreted oligomers of amyloid beta protein potently inhibit hippocampal long-term 
+2881207 |  3316 | 1987 | Nature                 | The precursor of Alzheimer's disease amyloid A4 protein resembles a cell-surface receptor
+8810256 |  3275 | 1996 | Science                | Correlative memory deficits, Abeta elevation, and amyloid plaques in transgenic mice
+14991808 |  3213 | 2004 | Ann Neurol             | Imaging brain amyloid in Alzheimer's disease with Pittsburgh Compound-B
+12702875 |  3154 | 2003 | Science                | Common structure of soluble amyloid oligomers implies common mechanism of pathogenesis
+17021169 |  3152 | 2006 | J Neurosci             | Intraneuronal beta-amyloid aggregates, neurodegeneration, and neuron loss in transgenic mice
+
+-- TITLE:"amyloid"  [近年]
+30145929 |  2157 | 2018 | N Engl J Med           | Tafamidis Treatment for Patients with Transthyretin Amyloid Cardiomyopathy
+30742114 |  1564 | 2019 | Nat Neurosci           | Mitophagy inhibits amyloid-β and tau pathology and reverses cognitive deficits in models of 
+29420472 |  1330 | 2018 | Nature                 | High performance plasma amyloid-β biomarkers for Alzheimer's disease
+31371569 |   792 | 2019 | Neurology              | High-precision plasma β-amyloid 42/40 predicts current and future brain amyloidosis
+31157827 |   772 | 2019 | JAMA Neurol            | Association of Amyloid and Tau With Cognition in Preclinical Alzheimer Disease: A Longitudin
+29632177 |   729 | 2018 | Proc Natl Acad Sci U S | β-Amyloid accumulation in the human brain after one night of sleep deprivation
+
+-- TITLE:"alpha-synuclein"  [经典]
+9197268 |  6271 | 1997 | Science                | Mutation in the alpha-synuclein gene identified in families with Parkinson's disease
+9600990 |  2527 | 1998 | Proc Natl Acad Sci U S | alpha-Synuclein in filamentous inclusions of Lewy bodies from Parkinson's disease and dement
+14755719 |  2175 | 2004 | Ann Neurol             | The new mutation, E46K, of alpha-synuclein causes Parkinson and Lewy body dementia
+11813001 |  1774 | 2002 | Nat Cell Biol          | alpha-Synuclein is phosphorylated in synucleinopathy lesions
+15451224 |  1645 | 2004 | Lancet                 | Alpha-synuclein locus duplication as a cause of familial Parkinson's disease
+15333840 |  1624 | 2004 | Science                | Impaired degradation of mutant alpha-synuclein by chaperone-mediated autophagy
+20798282 |  1539 | 2010 | Science                | Alpha-synuclein promotes SNARE-complex assembly in vivo and in vitro
+9546347 |  1350 | 1998 | Am J Pathol            | Aggregation of alpha-synuclein in Lewy bodies of sporadic Parkinson's disease and dementia w
+
+-- TITLE:"alpha-synuclein"  [近年]
+29969391 |   525 | 2018 | Elife                  | Cryo-EM structure of alpha-synuclein fibrils
+34555357 |   313 | 2021 | Cell                   | Microglia jointly degrade fibrillar alpha-synuclein cargo by distribution through tunneling 
+31815671 |   303 | 2019 | Elife                  | Two new polymorphic structures of human full-length alpha-synuclein fibrils solved by cryo-e
+29198173 |   259 | 2018 | Autophagy              | Autophagy inhibition promotes SNCA/alpha-synuclein release and transfer via extracellular ve
+32341450 |   256 | 2020 | Cell Death Differ      | Alpha synuclein aggregation drives ferroptosis: an interplay of iron, calcium and lipid pero
+31254094 |   252 | 2019 | Acta Neuropathol       | Evidence for bidirectional and trans-synaptic parasympathetic and sympathetic propagation of
+
+-- TITLE:"Alzheimer"  [经典]
+9343467 |  3482 | 1997 | JAMA                   | Effects of age, sex, and ethnicity on the association between apolipoprotein E genotype and 
+18568035 |  3003 | 2008 | Nat Med                | Amyloid-beta protein dimers isolated directly from Alzheimer's brains impair synaptic plasti
+3159021 |  2994 | 1985 | Proc Natl Acad Sci U S | Amyloid plaque core protein in Alzheimer disease and Down syndrome
+8446617 |  2888 | 1993 | Proc Natl Acad Sci U S | Apolipoprotein E: high-avidity binding to beta-amyloid and increased frequency of type 4 all
+27033548 |  2816 | 2016 | Science                | Complement and microglia mediate early synapse loss in Alzheimer mouse models
+16906426 |  2759 | 2006 | Acta Neuropathol       | Staging of Alzheimer disease-associated neurofibrillary pathology using paraffin sections an
+3088567 |  2626 | 1986 | Proc Natl Acad Sci U S | Abnormal phosphorylation of the microtubule-associated protein tau (tau) in Alzheimer cytosk
+23254930 |  2435 | 2013 | Nature                 | NLRP3 is activated in Alzheimer's disease and contributes to pathology in APP/PS1 mice
+
+-- TITLE:"Alzheimer"  [近年]
+37459141 |  2376 | 2023 | JAMA                   | Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical 
+32722745 |  1338 | 2020 | JAMA                   | Discriminative Accuracy of Plasma Phospho-tau217 for Alzheimer Disease vs Other Neurodegener
+31157827 |   772 | 2019 | JAMA Neurol            | Association of Amyloid and Tau With Cognition in Preclinical Alzheimer Disease: A Longitudin
+38252443 |   770 | 2024 | JAMA Neurol            | Diagnostic Accuracy of a Plasma Phosphorylated Tau 217 Immunoassay for Alzheimer Disease Pat
+29240561 |   671 | 2018 | Alzheimer Dis Assoc Di | Version 3 of the Alzheimer Disease Centers' Neuropsychological Test Battery in the Uniform D
+31009028 |   614 | 2019 | JAMA Neurol            | Association Between Longitudinal Plasma Neurofilament Light and Neurodegeneration in Patient
+
+====================================================================================================
+## M12
+====================================================================================================
+
+-- TITLE:"channelrhodopsin"  [经典]
+14615590 |  1915 | 2003 | Proc Natl Acad Sci U S | Channelrhodopsin-2, a directly light-gated cation-selective membrane channel
+17435752 |   803 | 2007 | Nat Neurosci           | Channelrhodopsin-2-assisted circuit mapping of long-range callosal projections
+12089443 |   764 | 2002 | Science                | Channelrhodopsin-1: a light-gated proton channel in green algae
+16360690 |   728 | 2005 | Curr Biol              | Light activation of channelrhodopsin-2 in excitable cells of Caenorhabditis elegans triggers
+23995068 |   644 | 2013 | Nat Neurosci           | ReaChR: a red-shifted variant of channelrhodopsin enables deep transcranial optogenetic exci
+17442243 |   596 | 2007 | Neuron                 | In vivo light-induced activation of neural circuitry in transgenic mice expressing channelrh
+21985008 |   557 | 2011 | Nat Methods            | Cell type–specific channelrhodopsin-2 transgenic mice for optogenetic dissection of neural c
+19254539 |   551 | 2009 | Biophys J              | Characterization of engineered channelrhodopsin variants with improved properties and kineti
+
+-- TITLE:"channelrhodopsin"  [近年]
+31611694 |   167 | 2019 | Nat Methods            | Machine learning-guided channelrhodopsin engineering enables minimally invasive optogenetics
+35114111 |   130 | 2022 | Cell                   | Structural basis for channel conduction in the pump-like channelrhodopsin ChRmine
+30258177 |   120 | 2018 | Nat Commun             | Crystal structure of the red light-activated channelrhodopsin Chrimson
+30158696 |    92 | 2018 | Nature                 | Crystal structure of the natural anion-conducting channelrhodopsin GtACR1
+31004059 |    79 | 2019 | Proc Natl Acad Sci U S | Unifying photocycle model for light adaptation and temporal evolution of cation conductance 
+36383037 |    76 | 2022 | Sci Adv                | WiChR, a highly potassium-selective channelrhodopsin for low-light one- and two-photon inhib
+
+-- TITLE:"GCaMP" OR TITLE:"calcium indicator"  [经典]
+19898485 |  1611 | 2009 | Nat Methods            | Imaging neural activity in worms, flies and mice with improved GCaMP calcium indicators
+23035093 |  1013 | 2012 | J Neurosci             | Optimization of a GCaMP calcium indicator for neural activity imaging
+36922596 |   831 | 2023 | Nature                 | Fast and sensitive GCaMP calcium indicators for imaging neural populations
+19160515 |   360 | 2008 | Nat Methods            | A genetically encoded calcium indicator for chronic in vivo two-photon imaging
+10571859 |   231 | 1999 | Plant J                | Cameleon calcium indicator reports cytoplasmic calcium dynamics in Arabidopsis guard cells
+19098007 |   222 | 2009 | J Biol Chem            | Crystal structures of the GCaMP calcium sensor reveal the mechanism of fluorescence signal c
+25419959 |   219 | 2015 | Nat Methods            | Rational design of a high-affinity, fast, red calcium indicator R-CaMP2
+2455792 |   203 | 1988 | J Pharmacol Exp Ther   | Changes in cytosolic calcium level in vascular smooth muscle strip measured simultaneously w
+
+-- TITLE:"GCaMP" OR TITLE:"calcium indicator"  [近年]
+36922596 |   831 | 2023 | Nature                 | Fast and sensitive GCaMP calcium indicators for imaging neural populations
+29666364 |   156 | 2018 | Nat Commun             | Improved calcium sensor GCaMP-X overcomes the calcium channel perturbations induced by the c
+30482694 |   145 | 2018 | Neuron                 | Imaging Cortical Dynamics in GCaMP Transgenic Rats with a Head-Mounted Widefield Macroscope
+33106681 |   117 | 2021 | Nat Biotechnol         | A near-infrared genetically encoded calcium indicator for in vivo imaging
+32592656 |   114 | 2020 | Neuron                 | Precision Calcium Imaging of Dense Neural Populations via a Cell-Body-Targeted Calcium Indic
+30308007 |    79 | 2018 | PLoS One               | Thy1 transgenic mice expressing the red fluorescent calcium indicator jRGECO1a for neuronal 
+
+-- TITLE:"connectome"  [经典]
+23668970 |  5037 | 2013 | Neuroimage             | The minimal preprocessing pipelines for the Human Connectome Project
+26457551 |  2384 | 2015 | Nat Neurosci           | Functional connectome fingerprinting: identifying individuals using patterns of brain connec
+24695228 |  2296 | 2014 | Nature                 | A mesoscale connectome of the mouse brain
+22049421 |  1783 | 2011 | J Neurosci             | Rich-club organization of the human connectome
+23702415 |  1421 | 2013 | Neuroimage             | Resting-state fMRI in the Human Connectome Project
+23684877 |  1359 | 2013 | Neuroimage             | Function in the human connectome: task-fMRI and individual differences in behavior
+29116093 |  1123 | 2017 | Nat Commun             | The challenge of mapping the human connectome based on diffusion tractography
+28182017 |  1006 | 2017 | Nat Protoc             | Using connectome-based predictive modeling to predict individual behavior from brain connect
+
+-- TITLE:"connectome"  [近年]
+30261308 |   630 | 2018 | Neuroimage             | Extending the Human Connectome Project across ages: Imaging protocols for the Lifespan Devel
+29758339 |   597 | 2018 | Neuroimage             | Population-averaged atlas of the macroscale human structural connectome and its network topo
+29409960 |   480 | 2018 | Neuroimage             | The developing human connectome project: A minimal processing pipeline for neonatal cortical
+30833582 |   460 | 2019 | Nat Commun             | Atypical functional connectome hierarchy in autism
+30332613 |   420 | 2019 | Neuroimage             | The Lifespan Human Connectome Project in Aging: An overview
+39358521 |   399 | 2024 | Nature                 | Whole-brain annotation and multi-connectome cell typing of Drosophila
+
+-- TITLE:"CLARITY" OR TITLE:"tissue clearing"  [经典]
+25034198 |  1575 | 2014 | J Clin Epidemiol       | Scoping reviews: time for clarity in definition, methods, and reporting
+24945384 |   650 | 2014 | Nat Protoc             | Advanced CLARITY for rapid and high-resolution imaging of intact tissues
+23722210 |   572 | 2013 | Nat Methods            | CLARITY for mapping the nervous system
+16143698 |   447 | 2005 | JAMA                   | Effect of clopidogrel pretreatment before percutaneous coronary intervention in patients wit
+9256561 |   424 | 1997 | J Consult Clin Psychol | Toward terminological, conceptual, and statistical clarity in the study of mediators and mod
+25836957 |   396 | 2015 | J Am Assoc Lab Anim Sc | Russell and Burch's 3Rs then and now: the need for clarity in definition and purpose
+29844583 |   341 | 2018 | Cell Res               | Tissue clearing of both hard and soft tissue organs with the PEGASOS method
+6168870 |   329 | 1981 | J Neurosci Methods     | Analysis of thick brain sections by obverse-reverse computer microscopy: application of a ne
+
+-- TITLE:"CLARITY" OR TITLE:"tissue clearing"  [近年]
+29844583 |   341 | 2018 | Cell Res               | Tissue clearing of both hard and soft tissue organs with the PEGASOS method
+30134179 |   291 | 2018 | Cell Rep               | Chemical Landscape for Tissue Clearing Based on Hydrophilic Reagents
+31748753 |   269 | 2019 | Nat Protoc             | Advanced CUBIC tissue clearing for whole-organ cell profiling
+28870107 |   269 | 2018 | Mult Scler             | Safety and efficacy of cladribine tablets in patients with relapsing-remitting multiple scle
+29507408 |   246 | 2018 | Nat Neurosci           | A three-dimensional single-cell-resolution whole-brain atlas using CUBIC-X expansion microsc
+31295041 |   220 | 2019 | J Clin Oncol           | Ibrutinib Plus Venetoclax in Relapsed/Refractory Chronic Lymphocytic Leukemia: The CLARITY S
+
+====================================================================================================
+## M13
+====================================================================================================
+
+-- TITLE:"working memory"  [经典]
+15846822 |  2525 | 2005 | Hum Brain Mapp         | N-back working memory paradigm: a meta-analysis of normative functional neuroimaging studies
+11058819 |  2347 | 2000 | Trends Cogn Sci        | The episodic buffer: a new component of working memory?
+9384378 |  2336 | 1997 | Nature                 | The capacity of visual working memory for features and conjunctions
+12963473 |  1437 | 2003 | Trends Cogn Sci        | Persistent activity in the prefrontal cortex during working memory
+8455719 |  1429 | 1993 | Nature                 | The neural correlates of the verbal component of working memory
+15085132 |  1257 | 2004 | Nature                 | Neural activity predicts individual differences in visual working memory capacity
+9121583 |  1185 | 1997 | Nature                 | Temporal dynamics of brain activation during a working memory task
+9038284 |  1146 | 1997 | Neuroimage             | A parametric study of prefrontal cortex involvement in human working memory
+
+-- TITLE:"working memory"  [近年]
+30962628 |   499 | 2019 | Nat Neurosci           | Working memory revived in older adults by synchronizing rhythmic brain circuits
+29408539 |   409 | 2018 | Neuroimage             | Triple representation of language, working memory, social and emotion processing in the cere
+33790467 |   365 | 2021 | Nature                 | Shared mechanisms underlie the control of working memory and attention
+29632361 |   330 | 2018 | Nat Neurosci           | Maternal IL-6 during pregnancy can be estimated from newborn brain connectivity and predicts
+29339471 |   288 | 2018 | Proc Natl Acad Sci U S | Laminar recordings in frontal cortex suggest distinct layers for maintenance and control of 
+31619492 |   279 | 2019 | J Neurosci             | Beta Oscillations in Working Memory, Executive Control of Movement and Thought, and Sensorim
+
+-- TITLE:"consciousness"  [经典]
+11164022 |  1084 | 2001 | Cognition              | Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework
+23946194 |   814 | 2013 | Sci Transl Med         | A theoretically based index of consciousness independent of sensory processing and behavior
+20130250 |   806 | 2010 | N Engl J Med           | Willful modulation of brain activity in disorders of consciousness
+15522121 |   787 | 2004 | BMC Neurosci           | An information integration theory of consciousness
+20034928 |   642 | 2010 | Brain                  | Default network connectivity reflects the level of consciousness in non-communicative brain-
+23487781 |   632 | 2013 | Proc Natl Acad Sci U S | Electroencephalogram signatures of loss and recovery of consciousness from propofol
+17717189 |   606 | 2007 | Science                | Video ergo sum: manipulating bodily self-consciousness
+16158062 |   604 | 2005 | Nat Neurosci           | Timing of the brain events underlying access to consciousness during the attentional blink
+
+-- TITLE:"consciousness"  [近年]
+30089618 |   565 | 2018 | Neurology              | Practice guideline update recommendations summary: Disorders of consciousness: Report of the
+32090418 |   517 | 2020 | Eur J Neurol           | European Academy of Neurology guideline on the diagnosis of coma and other disorders of cons
+30775433 |   381 | 2019 | Sci Adv                | Human consciousness is supported by dynamic complex patterns of brain signal coordination
+32053769 |   342 | 2020 | Neuron                 | Thalamus Modulates Consciousness via Layer-Specific Control of Cortex
+30355445 |   336 | 2018 | Elife                  | Changes in global and thalamic brain connectivity in LSD-induced altered states of conscious
+29801145 |   320 | 2018 | JAMA Neurol            | Association of Mild Traumatic Brain Injury With and Without Loss of Consciousness With Demen
+
+-- TITLE:"predictive coding"  [经典]
+10195184 |  3391 | 1999 | Nat Neurosci           | Predictive coding in the visual cortex: a functional interpretation of some extra-classical 
+19528002 |   995 | 2009 | Philos Trans R Soc Lon | Predictive coding under the free-energy principle
+6129637 |   563 | 1982 | Proc R Soc Lond B Biol | Predictive coding: a fresh view of inhibition in the retina
+22291673 |   459 | 2011 | Front Psychol          | An interoceptive predictive coding model of conscious presence
+22423089 |   428 | 2012 | J Neurosci             | A neuronal model of predictive coding accounting for the mismatch negativity
+16001064 |   296 | 2005 | Nature                 | Dynamic predictive coding by the retina
+26302308 |   275 | 2011 | Wiley Interdiscip Rev  | Predictive coding
+36864133 |   210 | 2023 | Nat Hum Behav          | Evidence of a predictive coding hierarchy in the human brain listening to speech
+
+-- TITLE:"predictive coding"  [近年]
+36864133 |   210 | 2023 | Nat Hum Behav          | Evidence of a predictive coding hierarchy in the human brain listening to speech
+31581198 |   187 | 2019 | PLoS Biol              | Alpha oscillations and traveling waves: Signatures of predictive coding?
+31874149 |   165 | 2020 | Neuropsychologia       | fMRI reveals language-specific predictive coding during naturalistic sentence comprehension
+32446883 |   160 | 2020 | Prog Neurobiol         | Prediction and memory: A predictive coding account
+29581379 |    90 | 2018 | J Neurosci             | Visual Mismatch and Predictive Coding: A Computational Single-Trial ERP Study
+29683495 |    77 | 2018 | Ann N Y Acad Sci       | Now you hear it: a predictive coding model for understanding rhythmic incongruity

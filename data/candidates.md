@@ -1,0 +1,1017 @@
+# 候选池
+
+
+## M01 神经元与电信号 — Neurons and electrical signalling
+
+- `42722532` **2026** *Trends Neurosci* — Temporal astrocytic metabolic reprogramming gates pain chronification.
+- `41861109` **2026** *Annu Rev Neurosci* — Sex Hormone Control of Neurophysiology and Behavior.
+- `38862331` **2024** *Trends Neurosci* — Emerging modes of regulation of neuromodulatory G protein-coupled receptors.
+- `38382543` **2024** *Annu Rev Neurosci* — Keeping Your Brain in Balance: Homeostatic Regulation of Network Function.
+- `37428604` **2023** *Annu Rev Neurosci* — How Flies See Motion.
+- `33184469` **2021** *Nat Rev Neurosci* — Encouraging an excitable brain state: mechanisms of brain repair in stroke.
+- `33239761` **2021** *Nat Rev Neurosci* — Mechanisms of node of Ranvier assembly.
+- `33531663` **2021** *Nat Rev Neurosci* — Sodium channelopathies in neurodevelopmental disorders.
+- `29169634` **2018** *Trends Neurosci* — The Emerging Neurobiology of Bipolar Disorder.
+- `29515192` **2018** *Nat Rev Neurosci* — Lactate in the brain: from metabolic end-product to signalling molecule.
+- `28187950` **2017** *Trends Neurosci* — Advancing NMDA Receptor Physiology by Integrating Multiple Approaches.
+- `24461875` **2014** *Trends Neurosci* — Opening paths to novel analgesics: the role of potassium channels in chronic pain.
+- `24698266` **2014** *Neuron* — Neuronal voltage-gated calcium channels: structure, function, and dysfunction.
+- `24183019` **2013** *Neuron* — Neurotransmitter release: the last millisecond in the life of a synaptic vesicle.
+- `22632719` **2012** *Neuron* — How we feel: ion channel partnerships that detect mechanical inputs and give rise to touch and pain perception.
+- `21685931` **2011** *Nat Rev Neurosci* — From the stochasticity of molecular processes to the variability of synaptic transmission.
+- `21439657` **2011** *Trends Neurosci* — Regulation of transmitter release by Ca(2+) and synaptotagmin: insights from a large CNS synapse.
+- `20300101` **2010** *Nat Rev Neurosci* — Do astrocytes really exocytose neurotransmitters?
+- `20367448` **2010** *Annu Rev Neurosci* — Sodium channels in normal and pathological pain.
+- `19914722` **2010** *Trends Neurosci* — The neural-glial purinergic receptor ensemble in chronic pain states.
+- `19889466` **2010** *Trends Neurosci* — More than synaptic plasticity: role of nonsynaptic plasticity in learning and memory.
+- `42261628` **2026** *Arch Pharm (Weinheim)* — Channel Dysfunction as the Basis for Comorbidities in Multiple Sclerosis and Depression.
+- `42429056` **2026** *Int J Oncol* — New insights into the physiological, pathological and pharmacological roles of voltage‑gated potassium channel Kv10.1 in cancer (Review).
+- `39134382` **2025** *Cold Spring Harb Perspect Biol* — The Nodes of Ranvier: Mechanisms of Assembly and Maintenance.
+- `40310500` **2025** *J Membr Biol* — Role of Ion Channels in Alzheimer's Disease Pathophysiology.
+- `39901031` **2025** *Nat Rev Drug Discov* — Voltage-gated sodium channels in excitable cells as drug targets.
+- `40169006` **2025** *Annu Rev Biochem* — Mechanisms of General Anesthesia.
+- `39480263` **2025** *Physiol Rev* — Axon initial segment structure and function in health and disease.
+- `40023511` **2025** *Mol Pharmacol* — Voltage sensors.
+- `38153307` **2024** *Physiol Rev* — Computational modeling of cardiac electrophysiology and arrhythmogenesis: toward clinical translation.
+- `38773349` **2024** *Nat Neurosci* — Dynamics of mature myelin.
+- `38285731` **2024** *ACS Nano* — Ionic Transistors.
+- `39103479` **2024** *Nat Rev Mol Cell Biol* — Structural biology and molecular pharmacology of voltage-gated ion channels.
+- `37822150` **2024** *J Neurochem* — Voltage-gated calcium channels in genetic epilepsies.
+- `39306371` **2024** *Adv Cancer Res* — Membrane potential: A new hallmark of cancer.
+- `35951482` **2023** *Physiol Rev* — Developmental and epileptic encephalopathies: from genetic heterogeneity to phenotypic continuum.
+- `35435014` **2023** *Physiol Rev* — Physiological roles of hydrogen sulfide in mammalian cells, tissues, and organs.
+- `40217521` **2023** *Acta Epileptol* — Biomolecular mechanisms of epileptic seizures and epilepsy: a review.
+- `36866357` **2023** *Front Mol Neurosci* — Modulation of neuronal excitability by binge alcohol drinking.
+- `36283445` **2022** *Biochem Pharmacol* — Emerging mechanisms involving brain Kv7 channel in the pathogenesis of hypertension.
+- `36368182` **2022** *Curr Opin Genet Dev* — Genetics of congenital arrhythmia syndromes: the challenge of variant interpretation.
+- `36467605` **2022** *Front Cell Neurosci* — Voltage-gated sodium channels in diabetic sensory neuropathy: Function, modulation, and therapeutic potential.
+- `34932910` **2022** *Annu Rev Biophys* — A Life of Biophysics.
+- `35650675` **2022** *Annu Rev Vis Sci* — Calcium Channels in Retinal Function and Disease.
+- `33733879` **2021** *Physiol Rev* — Energy metabolism design of the striated muscle cell.
+- `33118864` **2021** *Physiol Rev* — Cardiac transmembrane ion channels and action potentials: cellular physiology and arrhythmogenic behavior.
+- `33485190` **2021** *Curr Opin Neurobiol* — Ankyrins and neurological disease.
+- `33119844` **2021** *Methods Mol Biol* — An Introduction to Patch Clamp Recording.
+- `33662542` **2021** *Mol Cell Neurosci* — Presynaptic voltage-gated calcium channels in the auditory brainstem.
+- `34602216` **2021** *Neurol Clin* — Electrodiagnostic Assessment of Hyperexcitable Nerve Disorders.
+- `33802786` **2021** *J Clin Med* — Roles of Microglial Ion Channel in Neurodegenerative Diseases.
+- `33110213` **2020** *Nat Rev Neurol* — Status of peripheral sodium channel blockers for non-addictive pain treatment.
+- `31804897` **2020** *Physiol Rev* — Sleep Spindles: Mechanisms and Functions.
+- `32523549` **2020** *Front Physiol* — M-Current Suppression, Seizures and Lipid Metabolism: A Potential Link Between Neuronal Kv7 Channel Regulation and Dietary Therapies for Epilepsy.
+- `34038903` **2020** *Hum Hered* — Voltage-Gated Sodium Channel β1 Gene: An Overview.
+- `30672368` **2019** *Physiol Rev* — The Role of Voltage-Gated Sodium Channels in Pain Signaling.
+- `29952271` **2019** *CNS Neurol Disord Drug Targets* — Voltage-gated Sodium Channels in Sensory Information Processing.
+- `32494407` **2019** *J Innov Card Rhythm Manag* — Roles and Regulation of Voltage-gated Calcium Channels in Arrhythmias.
+- `28534438` **2018** *Neuroscientist* — The Axonal Cytoskeleton and the Assembly of Nodes of Ranvier.
+- `29478597` **2018** *Handb Clin Neurol* — Episodic ataxias.
+- `29378864` **2018** *J Neurosci* — The Axon Initial Segment: An Updated Viewpoint.
+- `29401425` **2018** *Biophys J* — How to Connect Cardiac Excitation to the Atomic Interactions of Ion Channels.
+- `32166153` **2018** *Brain Neurosci Adv* — Sodium channels.
+- `28939974` **2018** *Handb Exp Pharmacol* — Sodium Channel Trafficking.
+- `27974512` **2017** *Physiol Rev* — Murine Electrophysiological Models of Cardiac Arrhythmogenesis.
+- `28197910` **2017** *Adv Exp Med Biol* — Sumo Modification of Ion Channels.
+- `27252279` **2016** *Physiol Rev* — TRPV4: Molecular Conductor of a Diverse Orchestra.
+- `26109340` **2015** *Physiol Rev* — Mechanisms Regulating Neuromuscular Junction Development and Function and Causes of Muscle Wasting.
+- `26598493` **2015** *Brain* — The evolving spectrum of PRRT2-associated paroxysmal diseases.
+- `26354894` **2015** *Cold Spring Harb Perspect Biol* — The Nodes of Ranvier: Molecular Assembly and Maintenance.
+- `26723888` **2015** *Drug Discov Today Technol* — Ion channel profiling to advance drug discovery and development.
+- `24987009` **2014** *Physiol Rev* — The physiology of mechanoelectrical transduction channels in hearing.
+- `24638138` **2014** *Nat Rev Neurol* — Mechanisms of neurodegeneration and axonal dysfunction in multiple sclerosis.
+- `24473263` **2014** *Nat Neurosci* — Regulating excitability of peripheral afferents: emerging ion channel targets.
+- `24095722` **2014** *Brain Res Bull* — Dendritic integration in pyramidal neurons during network activity and disease.
+- `25324781` **2014** *Front Physiol* — BKCa channel dysfunction in neurological diseases.
+- `24771635` **2014** *Angew Chem Int Ed Engl* — Saxitoxin.
+- `24493754` **2014** *Philos Trans R Soc Lond B Biol Sci* — Ion channels and anti-cancer immunity.
+- `20236949` **2010** *Neuroscientist* — Homeostatic regulation of neuronal excitability by K(+) channels in normal and diseased brains.
+- `20086079` **2010** *Physiol Rev* — Inwardly rectifying potassium channels: their structure, function, and physiological roles.
+
+## M02 突触传递 — Synaptic transmission
+
+- `42443461` **2026** *Nat Rev Neurosci* — Brain mitochondria as key drivers of cognition and behaviour.
+- `42854699` **2026** *Neuron* — Tau phosphorylation from neuronal adaptation to Alzheimer's disease.
+- `42567161` **2026** *Neuron* — Subtypes of neurons in the cerebellar cortex.
+- `40335770` **2025** *Nat Rev Neurosci* — From avoidance to new action: the multifaceted role of the striatal indirect pathway.
+- `38862331` **2024** *Trends Neurosci* — Emerging modes of regulation of neuromodulatory G protein-coupled receptors.
+- `38663090` **2024** *Annu Rev Neurosci* — Learning, Fast and Slow: Single- and Many-Shot Learning in the Hippocampus.
+- `37236178` **2023** *Neuron* — NMDA receptor functions in health and disease: Old actor, new dimensions.
+- `34021274` **2021** *Nat Rev Neurosci* — Cannabis and synaptic reprogramming of the developing brain.
+- `29801523` **2018** *Trends Neurosci* — Peptide-Mediated Neurotransmission Takes Center Stage.
+- `30001506` **2018** *Neuron* — Dendritic Tau in Alzheimer's Disease.
+- `30359607` **2018** *Neuron* — Neural Circuit Motifs in Valence Processing.
+- `30401802` **2018** *Nat Rev Neurosci* — Versatile control of synaptic circuits by astrocytes: where, when and how?
+- `28301776` **2017** *Annu Rev Neurosci* — Neurotransmitter Switching in the Developing and Adult Brain.
+- `27307118` **2016** *Nat Rev Neurosci* — Synaptic plasticity in the anterior cingulate cortex in acute and chronic pain.
+- `27871729` **2016** *Trends Neurosci* — An Integrative Tinnitus Model Based on Sensory Precision.
+- `26373473` **2015** *Nat Rev Neurosci* — Endocannabinoid signalling in reward and addiction.
+- `26602764` **2015** *Trends Neurosci* — The Yin and Yang of Sleep and Attention.
+- `26402599` **2015** *Neuron* — Merits and Limitations of Vesicle Pool Models in View of Heterogeneous Populations of Synaptic Vesicles.
+- `26050033` **2015** *Neuron* — Neurotransmitter Switching? No Surprise.
+- `25087980` **2014** *Trends Neurosci* — Sleep, clocks, and synaptic plasticity.
+- `23841842` **2013** *Annu Rev Neurosci* — The molecular basis of self-avoidance.
+- `23674053` **2013** *Nat Rev Neurosci* — BDNF-based synaptic repair as a disease-modifying strategy for neurodegenerative diseases.
+- `22177981` **2012** *Trends Neurosci* — Genetic and cognitive windows into circuit mechanisms of psychiatric disease.
+- `22154068` **2012** *Trends Neurosci* — Cortical parvalbumin interneurons and cognitive dysfunction in schizophrenia.
+- `22749718` **2012** *Trends Neurosci* — TNFα in synaptic function: switching gears.
+- `22251956` **2012** *Nat Rev Neurosci* — Activity-dependent neurotransmitter respecification.
+- `23040806` **2012** *Neuron* — Neuromodulation by extracellular ATP and P2X receptors in the CNS.
+- `21851992` **2011** *Trends Neurosci* — A neoHebbian framework for episodic memory; role of dopamine-dependent late LTP.
+- `20223527` **2010** *Trends Neurosci* — CREB's control of intrinsic and synaptic plasticity: implications for CREB-dependent memory models.
+- `20624588` **2010** *Neuron* — AMPA receptor synaptic plasticity induced by psychostimulants: the past, present, and therapeutic future.
+- `20029439` **2010** *Nat Rev Neurosci* — Chemosensory organs as models of neuronal synapses.
+- `42403099` **2026** *Neuroscientist* — SNAREopathy in Neurologic Disorders: From Synaptic Mechanisms to Genetic and Epigenetic Regulation.
+- `42332113` **2026** *Nat Hum Behav* — Potential mechanisms and functional significance of aperiodic neural activity.
+- `41614918` **2026** *Curr Issues Mol Biol* — Molecular Physiology of the Neuronal Synapse.
+- `39343821` **2025** *Eur Arch Psychiatry Clin Neurosci* — Synaptic basis of rapid antidepressant action.
+- `40675731` **2025** *Int Rev Neurobiol* — Structure and function of the neuromuscular junction in health and myasthenia gravis.
+- `38147972` **2024** *Exp Neurol* — The role of α-synuclein in exocytosis.
+- `39301216` **2024** *Front Cell Neurosci* — Synaptic Vesicle Glycoprotein 2C: a role in Parkinson's disease.
+- `38693811` **2024** *Bioessays* — Tuning synaptic strength by regulation of AMPA glutamate receptor localization.
+- `37643878` **2023** *FEBS Lett* — Turbocharging synaptic transmission.
+- `37209532` **2023** *Curr Opin Neurobiol* — Cerebellin-neurexin complexes instructing synapse properties.
+- `36982165` **2023** *Int J Mol Sci* — Ribbon Synapses and Retinal Disease: Review.
+- `36584924` **2023** *Neurosci Res* — Offline neuronal activity and synaptic plasticity during sleep and memory consolidation.
+- `36931116` **2023** *Curr Opin Neurobiol* — Mechanical transmission at spine synapses: Short-term potentiation and working memory.
+- `37124348` **2023** *Biol Psychiatry Glob Open Sci* — Dysfunction of Glutamatergic Synaptic Transmission in Depression: Focus on AMPA Receptor Trafficking.
+- `35173598` **2022** *Front Synaptic Neurosci* — AMPA Receptor Function in Hypothalamic Synapses.
+- `35892671` **2022** *Biomedicines* — Presynaptic Acetylcholine Receptors Modulate the Time Course of Action Potential-Evoked Acetylcholine Quanta Secretion at Neuromuscular Junctions.
+- `33775740` **2021** *Neurosci Lett* — The microtubule cytoskeleton at the synapse.
+- `34271016` **2021** *Neuropharmacology* — AMPA receptor trafficking and LTP: Carboxy-termini, amino-termini and TARPs.
+- `33809712` **2021** *Cells* — Synapsins and the Synaptic Vesicle Reserve Pool: Floats or Anchors?
+- `34139199` **2021** *Arch Biochem Biophys* — An overview of the synaptic vesicle lipid composition.
+- `34051266` **2021** *Neuropharmacology* — Presynaptic bouton compartmentalization and postsynaptic density-mediated glutamate receptor clustering via phase separation.
+- `34419330` **2021** *Trends Mol Med* — Targeting synaptic plasticity in schizophrenia: insights from genomic studies.
+- `33873059` **2021** *Curr Opin Neurobiol* — The synaptic life of microtubules.
+- `34022178` **2021** *Neuropharmacology* — NMDARs in prefrontal cortex - Regulation of synaptic transmission and plasticity.
+- `32428501` **2020** *Curr Biol* — The Evolutionary Assembly of Neuronal Machinery.
+- `31812114` **2020** *Cell Calcium* — Presynaptic endoplasmic reticulum and neurotransmission.
+- `33396919` **2020** *Int J Mol Sci* — Neurotransmitter Release Site Replenishment and Presynaptic Plasticity.
+- `31866297` **2020** *J Mol Biol* — The Synaptic Autophagy Cycle.
+- `31556149` **2020** *Synapse* — Homeostatic control of Drosophila neuromuscular junction function.
+- `32789788` **2020** *Rev Physiol Biochem Pharmacol* — Role of ASIC1a in Normal and Pathological Synaptic Plasticity.
+- `31724225` **2020** *Alcohol Clin Exp Res* — SNARE Complex-Associated Proteins and Alcohol.
+- `31836314` **2020** *Adv Biol Regul* — Roles of DGKs in neurons: Postsynaptic functions?
+- `29802916` **2019** *Neurosci Lett* — Autophagy at the synapse.
+- `30599311` **2019** *Curr Opin Neurobiol* — Phase separation as a mechanism for assembling dynamic postsynaptic density signalling complexes.
+- `30807903` **2019** *Curr Opin Struct Biol* — Regulatory mechanisms in postsynaptic phosphorylation networks.
+- `30704969` **2019** *Trends Cogn Sci* — Theories of Error Back-Propagation in the Brain.
+- `30904821` **2019** *Curr Opin Struct Biol* — Postsynaptic protein organization revealed by electron microscopy.
+- `31749419` **2019** *Cent Nerv Syst Agents Med Chem* — Noradrenergic Regulation of Hippocampus-Dependent Memory.
+- `28782263` **2018** *J Neurosci Res* — Regulation of synaptic scaling by action potential-independent miniature neurotransmission.
+- `28360835` **2017** *Front Mol Neurosci* — Hemifusion in Synaptic Vesicle Cycle.
+- `25717070` **2016** *Neuroscientist* — Hippocampal Wnt Signaling: Memory Regulation and Hormone Interactions.
+- `26960344` **2016** *Physiol Rev* — Cellular and System Biology of Memory: Timing, Molecules, and Beyond.
+- `26109340` **2015** *Physiol Rev* — Mechanisms Regulating Neuromuscular Junction Development and Function and Causes of Muscle Wasting.
+- `26627875` **2015** *Mol Cells* — Synapsin Isoforms and Synaptic Vesicle Trafficking.
+- `24382884` **2014** *Physiol Rev* — Calcium-permeable ion channels in pain signaling.
+- `25402855` **2014** *Nat Neurosci* — Pathological circuit function underlying addiction and anxiety disorders.
+- `24001571` **2014** *Neurobiol Learn Mem* — Gastrin-releasing peptide receptor signaling in the integration of stress and memory.
+- `23774138` **2014** *Neuropharmacology* — Neuroimmune regulation of homeostatic synaptic plasticity.
+- `21362689` **2011** *Neuroscientist* — Topsy turvy: functions of climbing and mossy fibers in the vestibulo-cerebellum.
+
+## M03 神经发育与解剖 — Development and organization of the nervous system
+
+- `42901812` **2026** *Trends Neurosci* — Tumor innervation in non-central nervous system tumors: origins, mechanisms, and phenotypic plasticity.
+- `40651862` **2025** *Trends Neurosci* — Life without microglia.
+- `40155272` **2025** *Trends Neurosci* — Epigenetic and metabolic regulation of developmental timing in neocortex evolution.
+- `38754415` **2024** *Neuron* — Making Ramón y Cajal proud: Development of cell identity and diversity in the cerebral cortex.
+- `38783147` **2024** *Nat Rev Neurosci* — Network state transitions during cortical development.
+- `36792753` **2023** *Nat Rev Neurosci* — Developmental mechanisms underlying the evolution of human cortical circuits.
+- `35577622` **2022** *Trends Neurosci* — Reassessing synaptic adhesion pathways.
+- `34270921` **2021** *Neuron* — Neurodevelopment of the association cortices: Patterns, mechanisms, and implications for psychopathology.
+- `34599308` **2021** *Nat Rev Neurosci* — The sympathetic nervous system in development and disease.
+- `33640193` **2021** *Trends Neurosci* — The Multifaceted Roles of KCC2 in Cortical Development.
+- `32414530` **2020** *Trends Neurosci* — Transitions in Brain Evolution: Space, Time and Entropy.
+- `30359597` **2018** *Neuron* — Towards an Understanding of Synapse Formation.
+- `29880259` **2018** *Trends Neurosci* — The Evolution of Variability and Robustness in Neural Development.
+- `29548515` **2018** *Trends Neurosci* — Cell Replacement to Reverse Brain Aging: Challenges, Pitfalls, and Opportunities.
+- `28878372` **2017** *Nat Rev Neurosci* — The use of brain organoids to investigate neural development and disease.
+- `28957675` **2017** *Neuron* — Spine Dynamics: Are They All the Same?
+- `26927836` **2016** *Trends Neurosci* — Can Molecular Gradients Wire the Brain?
+- `27640978` **2016** *Nat Rev Neurosci* — Neural development: Sight development.
+- `25905812` **2015** *Neuron* — Adult neurogenesis and the future of the rejuvenating brain circuits.
+- `25033177` **2014** *Neuron* — DNA damage and its links to neurodegeneration.
+- `24969461` **2014** *Trends Neurosci* — Calcium signaling in axon guidance.
+- `24361044` **2014** *Trends Neurosci* — Aging in the olfactory system.
+- `23750515` **2013** *Annu Rev Neurosci* — Translating birdsong: songbirds as a model for basic and applied medical research.
+- `23254191` **2013** *Nat Rev Neurosci* — Neurotrophin regulation of neural circuit development and function.
+- `22498899` **2012** *Nat Rev Neurosci* — Axonal mRNA localization and local protein synthesis in nervous system assembly, maintenance and repair.
+- `22196328` **2011** *Neuron* — A behavioral framework to guide research on central auditory development and plasticity.
+- `21609817` **2011** *Neuron* — Pattern separation: a common function for new neurons in hippocampus and olfactory bulb.
+- `21788086` **2011** *Trends Neurosci* — Pattern separation in the hippocampus.
+- `21609825` **2011** *Neuron* — Adult neurogenesis in the mammalian brain: significant answers and significant questions.
+- `20648061` **2010** *Nat Rev Neurosci* — GSK3 signalling in neural development.
+- `41932774` **2026** *Neuroimaging Clin N Am* — Malformations of Cortical Development.
+- `41795427` **2026** *Cell Stem Cell* — Adult neurogenesis: New neurons, new opportunities.
+- `39316552` **2025** *Neuroscientist* — The effect of traumatic brain injury on learning and memory: A synaptic focus.
+- `40048696` **2025** *Brain* — Fetal malformations of cortical development: review and clinical guidance.
+- `41298092` **2025** *Behav Brain Sci* — Beyond the cortex-integrating hippocampal function into the Social Brain Hypothesis to explain advanced cognition.
+- `39054600` **2024** *Brain* — Prenatal assessment of brain malformations on neuroimaging: an expert panel review.
+- `37975820` **2024** *Brain* — Neural stem cell therapies for spinal cord injury repair: an update on recent preclinical and clinical advances.
+- `38603857` **2024** *Int Immunopharmacol* — Semaphorins in tumor microenvironment: Biological mechanisms and therapeutic progress.
+- `37723296` **2024** *Integr Psychol Behav Sci* — An Integrative Hypothesis of Brain Evolution.
+- `39331773` **2024** *Medicina (B Aires)* — [Malformations of cortical development: what's new?].
+- `35348415` **2023** *Neuroscientist* — The Dual Nature of Microglia in Alzheimer's Disease: A Microglia-Neuron Crosstalk Perspective.
+- `37003107` **2023** *Curr Opin Neurobiol* — Genetic architecture of human brain evolution.
+- `36672161` **2023** *Cells* — Establishing Hedgehog Gradients during Neural Development.
+- `35116217` **2022** *3 Biotech* — Hippocampus and its involvement in Alzheimer's disease: a review.
+- `35490966` **2022** *Ageing Res Rev* — Neurogenesis in aging and age-related neurodegenerative diseases.
+- `34896352` **2022** *World Neurosurg* — Magnetic Resonance Imaging of Malformations of Cortical Development-A Comprehensive Review.
+- `34416113` **2021** *Annu Rev Cell Dev Biol* — From Cell Types to an Integrated Understanding of Brain Evolution: The Case of the Cerebral Cortex.
+- `33958283` **2021** *Semin Cell Dev Biol* — The evolution, formation and connectivity of the anterior commissure.
+- `33530091` **2021** *Neuroimmunomodulation* — Neuroinflammation and Brain Development: Possible Risk Factors in COVID-19-Infected Children.
+- `34070012` **2021** *Brain Sci* — The Participation of Microglia in Neurogenesis: A Review.
+- `34174067` **2021** *Int Immunol* — Neural guidance factors as hubs of immunometabolic cross-talk.
+- `34582322` **2021** *RNA Biol* — Epitranscriptomic signatures in stem cell differentiation to the neuronal lineage.
+- `33706918` **2021** *Curr Top Dev Biol* — Dorsal commissural axon guidance in the developing spinal cord.
+- `32779696` **2020** *Brain* — Definitions and classification of malformations of cortical development: practical guidelines.
+- `32485480` **2020** *Curr Opin Genet Dev* — Repurposing developmental mechanisms in the adult nervous system.
+- `32279322` **2020** *Dev Growth Differ* — Emerging evidence for cell-autonomous axon guidance.
+- `31912194` **2020** *Cell Mol Life Sci* — Metabolic regulation of neurodifferentiation in the adult brain.
+- `31051133` **2019** *Cell Stem Cell* — Adult Neurogenesis, Glia, and the Extracellular Matrix.
+- `31308791` **2019** *Exp Neurobiol* — Axon Guidance Molecules Guiding Neuroinflammation.
+- `30067157` **2018** *Physiol Rev* — The Physiology of Homeoprotein Transduction.
+- `29681514` **2018** *Cell Stem Cell* — Human Adult Neurogenesis: Evidence and Remaining Questions.
+- `30236533` **2018** *Brain Res Bull* — Depression and adult neurogenesis: Positive effects of the antidepressant fluoxetine and of physical exercise.
+- `28298428` **2017** *Physiol Rev* — Autoantibodies to Synaptic Receptors and Neuronal Cell Surface Proteins in Autoimmune Diseases of the Central Nervous System.
+- `29113093` **2017** *Int J Mol Sci* — View Point: Semaphorin-3E: An Emerging Modulator of Natural Killer Cell Functions?
+- `27862206` **2016** *Ann Neurol* — Malformations of cortical development.
+- `25948649` **2016** *Neuroscientist* — Mitochondria: Major Regulators of Neural Development.
+- `26996817` **2016** *Front Neuroendocrinol* — Social behavior, hormones and adult neurogenesis.
+- `26748623` **2016** *Dev Growth Differ* — Encoding and decoding time in neural development.
+- `26134318` **2015** *Cold Spring Harb Perspect Biol* — Adult Neurogenesis in Humans.
+- `26100529` **2015** *Stem Cell Rev Rep* — Oxidative Stress and Adult Neurogenesis.
+- `26684183` **2015** *Cold Spring Harb Perspect Biol* — Adult Neurogenesis: An Evolutionary Perspective.
+- `25934463` **2015** *Cold Spring Harb Perspect Med* — Malformations of cortical development and epilepsy.
+- `26422333` **2015** *Annu Rev Cell Dev Biol* — Development of dendritic form and function.
+- `25715908` **2015** *Trends Cogn Sci* — Adult neurogenesis: a substrate for experience-dependent change.
+- `25287864` **2014** *Physiol Rev* — Neuronal SUMOylation: mechanisms, physiology, and roles in neuronal dysfunction.
+- `24803647` **2014** *Development* — Adult neurogenesis: mechanisms and functional significance.
+- `24144622` **2014** *Neuroscience* — Chromatin regulators of neural development.
+- `24961795` **2014** *Development* — Amyloid precursor protein and neural development.
+- `22427329` **2012** *Brain* — A developmental and genetic classification for malformations of cortical development: update 2012.
+
+## M04 感觉系统 — Sensory systems
+
+- `38374462` **2024** *Nat Rev Neurosci* — Response sub-additivity and variability quenching in visual cortex.
+- `38579714` **2024** *Neuron* — Anesthesia and the neurobiology of consciousness.
+- `39245626` **2024** *Trends Neurosci* — Object-oriented olfaction: challenges for chemosensation and for chemosensory research.
+- `38635868` **2024** *Annu Rev Neurosci* — Development of the Binocular Circuit.
+- `37023718` **2023** *Neuron* — Rhythmic attentional scanning.
+- `37848361` **2023** *Trends Neurosci* — Lysosomes in retinal health and disease.
+- `36658346` **2023** *Nat Rev Neurosci* — Gene therapy for chronic pain: emerging opportunities in target-rich peripheral nociceptors.
+- `35447089` **2022** *Neuron* — The translational revolution of itch.
+- `35491255` **2022** *Trends Neurosci* — Roles of visually evoked and spontaneous activity in the development of retinal direction selectivity maps.
+- `30844399` **2019** *Neuron* — Composite Pain Biomarker Signatures for Objective Assessment and Effective Treatment.
+- `31384033` **2019** *Nat Rev Neurosci* — The human imagination: the cognitive neuroscience of visual mental imagery.
+- `29602333` **2018** *Trends Neurosci* — Retinal Cell Fate Specification.
+- `30571940` **2018** *Neuron* — Pain Wars: A New Hope.
+- `28460185` **2017** *Annu Rev Neurosci* — Establishing Wiring Specificity in Visual System Circuits: From the Retina to the Brain.
+- `28231460` **2017** *Neuron* — Delivering the Sense of Touch to the Human Brain.
+- `27307118` **2016** *Nat Rev Neurosci* — Synaptic plasticity in the anterior cingulate cortex in acute and chronic pain.
+- `27594700` **2016** *Trends Neurosci* — Smelling Time: A Neural Basis for Olfactory Scene Analysis.
+- `25698649` **2015** *Trends Neurosci* — The unsteady eye: an information-processing stage, not a bug.
+- `24853935` **2014** *Neuron* — Discriminative and affective touch: sensing and feeling.
+- `25158357` **2014** *Nat Rev Neurosci* — Retinal bipolar cells: elementary building blocks of vision.
+- `25233313` **2014** *Neuron* — Illuminating the multifaceted roles of neurotransmission in shaping neuronal circuitry.
+- `22841307` **2012** *Neuron* — From functional architecture to functional connectomics.
+- `22794258` **2012** *Neuron* — Mechanisms of age-related macular degeneration.
+- `22704732` **2012** *Trends Neurosci* — Cell fate determination in the vertebrate retina.
+- `21816493` **2011** *Trends Neurosci* — Intrinsically photosensitive retinal ganglion cells: many subtypes, diverse functions.
+- `21872944` **2011** *Trends Neurosci* — Organization and development of direction-selective circuits in the retina.
+- `19953103` **2010** *Nat Rev Neurosci* — Mechanisms underlying spontaneous patterned activity in developing neural circuits.
+- `20060600` **2010** *Trends Neurosci* — Early transformations in odor representation.
+- `42113554` **2026** *Physiol Rev* — Glial cells in neuropathic pain.
+- `41670308` **2026** *Tidsskr Nor Laegeforen* — Coccyx pain.
+- `41564227` **2025** ** — Complications: Pain.
+- `41136122` **2025** *Nurs Clin North Am* — Pharmacology of Pain Management.
+- `40125343` **2025** *J Am Coll Emerg Physicians Open* — Knee Pain After Jumping.
+- `40322733` **2025** *J Am Coll Emerg Physicians Open* — Woman With Epigastric Pain.
+- `40534819` **2025** *J Am Coll Emerg Physicians Open* — Woman With Neck Pain.
+- `41019915` **2025** *J Am Coll Emerg Physicians Open* — Woman With Hip Pain.
+- `36169300` **2024** *Neuroscientist* — Sensory Loss and Risk of Dementia.
+- `38581516` **2024** *MMW Fortschr Med* — [Chest pain].
+- `38897354` **2024** *Peptides* — Pain modulation by oxytocin.
+- `39620104` **2024** *BJA Educ* — The genetics of pain.
+- `37816323` **2023** *Curr Biol* — Losing, preserving, and restoring vision from neurodegeneration in the eye.
+- `37098338` **2023** *Curr Biol* — Evolutionary origin of the neural tube in basal deuterostomes.
+- `37463575` **2023** *Fortschr Neurol Psychiatr* — [Chronic Back Pain].
+- `36402486` **2023** *Vet Clin North Am Exot Anim Pract* — Pain Recognition in Reptiles.
+- `37935145` **2023** *Aust J Gen Pract* — Chronic shoulder pain.
+- `35653495` **2022** *Brain* — A new science of emotion: implications for functional neurological disorder.
+- `36207227` **2022** *J Hand Surg Am* — Adolescent Wrist Pain.
+- `36033931` **2022** *BJA Educ* — Lumbar radicular pain.
+- `32321356` **2021** *Neuroscientist* — Sensory Neurons: The Formation of T-Shaped Branches Is Dependent on a cGMP-Dependent Signaling Cascade.
+- `34600641` **2021** *Emerg Med Clin North Am* — Abdominal Pain Mimics.
+- `33331950` **2021** *Internist (Berl)* — [Chest pain].
+- `34310088` **2021** ** — 
+- `34146290` **2021** *MMW Fortschr Med* — [Shoulder pain].
+- `34349979` **2021** *Ther Adv Psychopharmacol* — Liquorice for pain?
+- `32926239` **2021** *Schmerz* — [Pain in dementia].
+- `32115051` **2020** *Clin Plast Surg* — Ischemic Pain.
+- `32776897` **2020** *Drug Metab Pers Ther* — Pain pharmacogenetics.
+- `33219969` **2020** *MMW Fortschr Med* — [Foot pain].
+- `34314128` **2020** ** — 
+- `32119245` **2020** ** — Low Back Pain.
+- `32737258` **2020** *Pediatr Rev* — Referred Abdominal Pain.
+- `31140374` **2019** *Physiol Rev* — Diverse Cell Types, Circuits, and Mechanisms for Color Vision in the Vertebrate Retina.
+- `31030822` **2019** *Prim Care* — Bladder Pain Syndrome.
+- `31113317` **2019** *Ther Umsch* — [Vulvar Pain].
+- `30919200` **2019** *Neurol Sci* — When does the brain choose pain?
+- `30522140` **2018** *Semin Neurol* — Neuropathic Pain.
+- `27242280` **2017** *Neuroscientist* — Mirror Neurons and Mirror-Touch Synesthesia.
+- `28984313` **2017** *Nat Rev Neurol* — Human models of migraine - short-term pain for long-term gain.
+- `28676363` **2017** *Phys Med Rehabil Clin N Am* — Coccydynia: Tailbone Pain.
+- `29107304` **2017** *Crit Care Nurs Clin North Am* — The Role of Pain Classification Systems in Pain Management.
+- `26616176` **2016** *Phys Med Rehabil Clin N Am* — Patellofemoral Pain.
+- `27255868` **2016** *Air Med J* — Chest Pain.
+- `27133252` **2016** *Emerg Med Clin North Am* — Abdominal Pain Mimics.
+- `26537829` **2015** *BMJ* — Patellofemoral pain.
+- `25533261` **2015** *Ther Umsch* — [Chest pain].
+- `25134708` **2014** *Nat Rev Neurol* — Mechanism-based treatment in complex regional pain syndromes.
+- `24382884` **2014** *Physiol Rev* — Calcium-permeable ion channels in pain signaling.
+- `24946040` **2014** *Int Anesthesiol Clin* — Labor pain mechanisms.
+- `24717611` **2014** *Nihon Yakurigaku Zasshi* — [Neuropathic pain].
+- `20664079` **2010** *Physiol Rev* — Physiology of circadian entrainment.
+
+## M05 运动系统 — Motor systems
+
+- `42314678` **2026** *Neuron* — Neurobiology of negative reinforcement as a driving force in alcohol addiction.
+- `38443626` **2024** *Nat Rev Neurosci* — Preparatory activity and the expansive null-space.
+- `35440142` **2022** *Annu Rev Neurosci* — Human Cerebellar Development and Transcriptomics: Implications for Neurodevelopmental Disorders.
+- `35879409` **2022** *Nat Rev Neurosci* — The neural basis of sugar preference.
+- `34985919` **2022** *Annu Rev Neurosci* — Brainstem Circuits for Locomotion.
+- `33243489` **2021** *Trends Neurosci* — The Tail of the Striatum: From Anatomy to Connectivity and Function.
+- `32640928` **2020** *Annu Rev Neurosci* — Computation Through Neural Population Dynamics.
+- `32269316` **2020** *Nat Rev Neurosci* — Circuits and functions of the lateral habenula in health and in disease.
+- `32303147` **2020** *Annu Rev Neurosci* — Basal Ganglia Circuits for Action Specification.
+- `30790538` **2019** *Neuron* — Autosomal Recessive Cerebellar Ataxias: Paving the Way toward Targeted Molecular Therapies.
+- `30946819` **2019** *Neuron* — The Emerging Importance of the Cerebellum in Broad Risk for Psychopathology.
+- `30471666` **2018** *Trends Neurosci* — Theoretically Sparse, Empirically Dense: New Views on Cerebellar Granule Cells.
+- `29709209` **2018** *Annu Rev Neurosci* — Anxiety, Depression, and Decision Making: A Computational Perspective.
+- `29643480` **2018** *Nat Rev Neurosci* — The basal ganglia and the cerebellum: nodes in an integrated network.
+- `28595054` **2017** *Neuron* — Neural Manifolds for the Control of Movement.
+- `28431742` **2017** *Trends Neurosci* — The Sleeping Cerebellum.
+- `28683265` **2017** *Neuron* — Toward a Neurocentric View of Learning.
+- `28728016` **2017** *Neuron* — Location, Location, Location: Microglia Are Where They Live.
+- `27771145` **2016** *Trends Neurosci* — The Cerebellar Mossy Fiber Synapse as a Model for High-Frequency Transmission in the Mammalian CNS.
+- `26602765` **2015** *Trends Neurosci* — Controlling Cerebellar Output to Treat Refractory Epilepsy.
+- `25996132` **2015** *Neuron* — The challenge of understanding the brain: where we stand in 2015.
+- `25102558` **2014** *Neuron* — The cerebellum, sensitive periods, and autism.
+- `23860312` **2013** *Nat Rev Neurosci* — Hypnotic suggestion: opportunities for cognitive neuroscience.
+- `22884322` **2012** *Neuron* — Striatal contributions to declarative memory retrieval.
+- `22245372` **2012** *Trends Neurosci* — The vestibular system: multimodal integration and encoding of self-motion for motor control.
+- `21469956` **2011** *Annu Rev Neurosci* — Modulation of striatal projection systems by dopamine.
+- `22033537` **2011** *Nat Rev Neurosci* — Principles of sensorimotor learning.
+- `21176975` **2011** *Trends Neurosci* — Learning to move machines with the mind.
+- `20832128` **2010** *Trends Neurosci* — Deep brain stimulation: from neurology to psychiatry?
+- `40169855` **2025** *Nat Rev Neurol* — Management of freezing of gait - mechanism-based practical recommendations.
+- `40335706` **2025** *Nat Hum Behav* — Genome-wide association meta-analysis of age at onset of walking in over 70,000 infants of European ancestry.
+- `40973045` **2025** *Arq Neuropsiquiatr* — Neurophysiology of the cerebellum and clinical correlations: a review.
+- `39985593` **2025** *Cerebellum* — Cerebellar Alterations in Autism Spectrum Disorder: A Mini-Review.
+- `41174102` **2025** *Neurol Sci* — The cerebellum beyond motor control: cognitive dysfunction in spinocerebellar ataxias.
+- `36052895` **2024** *Neuroscientist* — The Cerebellum as an Embodying Machine.
+- `38514218` **2024** *Phys Med Rehabil Clin N Am* — Motor Learning Following Stroke: Mechanisms of Learning and Techniques to Augment Neuroplasticity.
+- `36546554` **2023** *Brain* — The biomechanical signature of loss of consciousness: computational modelling of elite athlete head injuries.
+- `37562869` **2023** *Handb Clin Neurol* — Upper and lower motor neuron neurophysiology and motor control.
+- `37562876` **2023** *Handb Clin Neurol* — Vestibular motor control.
+- `38274886` **2023** *Front Neurol* — The pathogenesis of blepharospasm.
+- `37334420` **2023** *Epilepsy Curr* — Connectivity and Excitability Shape Seizure Circuits.
+- `34953339` **2022** *Eur J Paediatr Neurol* — Basal ganglia: From the bench to the bed.
+- `35080044` **2022** *Int J Dev Neurosci* — The mouse at the popcorn stage of development.
+- `35954925` **2022** *Int J Environ Res Public Health* — Research Progress of Music Therapy on Gait Intervention in Patients with Parkinson's Disease.
+- `33288911` **2021** *Nat Neurosci* — Diversity and dynamism in the cerebellum.
+- `32320305` **2021** *Disabil Rehabil* — Motor learning in neurological rehabilitation.
+- `31959938` **2020** *Nat Rev Neurol* — Essential tremor pathology: neurodegeneration and reorganization of neuronal connections.
+- `32591756` **2020** *Nat Rev Neurol* — Virtual reality in research and rehabilitation of gait and balance in Parkinson disease.
+- `32979846` **2020** *Curr Opin Neurobiol* — Cortico-cerebellar interactions during goal-directed behavior.
+- `31512990` **2020** *Physiol Rev* — Current Principles of Motor Control, with Special Reference to Vertebrate Locomotion.
+- `32164851` **2020** *Handb Clin Neurol* — Bidirectional brain-computer interfaces.
+- `32223891` **2020** *Elife* — Prediction signals in the cerebellum: beyond supervised motor learning.
+- `30827014` **2019** *Cerebellum* — The Cerebellar Thalamus.
+- `29421544` **2019** *Neurosci Lett* — Deregulation of synaptic plasticity in autism.
+- `30995136` **2019** *J Neurophysiol* — How cerebellar motor learning keeps saccades accurate.
+- `28874078` **2018** *Neuroscientist* — Behavioral Manipulation by Optogenetics in the Nonhuman Primate.
+- `30482319` **2018** *Handb Clin Neurol* — Cerebellar ataxia.
+- `29903454` **2018** *Handb Clin Neurol* — Physiology of the cerebellum.
+- `29891064` **2018** *Handb Clin Neurol* — The cerebellum and dystonia.
+- `29396175` **2018** *Eur J Paediatr Neurol* — Basal ganglia mechanisms in action selection, plasticity, and dystonia.
+- `27242280` **2017** *Neuroscientist* — Mirror Neurons and Mirror-Touch Synesthesia.
+- `27306757` **2017** *Neuroscientist* — The Basal Ganglia in Action.
+- `27324878` **2016** *Brain* — Cervical dystonia: a neural integrator disorder.
+- `27069376` **2016** *Dialogues Clin Neurosci* — Corticostriatal circuitry.
+- `27458875` **2016** *Physiother Theory Pract* — Rehabilitation of ataxic gait following cerebellar lesions: Applying theory to practice.
+- `26792889` **2016** *J Neurophysiol* — Cerebellar role in Parkinson's disease.
+- `25830411` **2016** *Eur J Sport Sci* — Motor imagery and cortico-spinal excitability: A review.
+- `25578035` **2016** *Cerebellum* — Asymmetries in Cerebellar Plasticity and Motor Learning.
+- `25622573` **2015** *Nat Neurosci* — The neocortical circuit: themes and variations.
+- `26330521` **2015** *Cold Spring Harb Perspect Biol* — Motor Learning and the Cerebellum.
+- `22341985` **2015** *Neurologia* — Theories and control models and motor learning: clinical applications in neuro-rehabilitation.
+- `24620008` **2015** *Neuroscientist* — Metaplasticity in human cortex.
+- `25065439` **2014** *Nat Neurosci* — Direct and indirect pathways of basal ganglia: a critical reappraisal.
+- `25439284` **2014** *Neurol Clin* — The human cerebellum: a review of physiologic neuroanatomy.
+- `24262161` **2014** *Parkinsonism Relat Disord* — Tremor: pathophysiology.
+- `25271469` **2014** *Phys Occup Ther Pediatr* — Hand-arm bimanual intensive therapy including lower extremities (HABIT-ILE) for children with cerebral palsy.
+- `24239732` **2014** *Neurosci Biobehav Rev* — The facial motor system.
+- `24974094` **2014** *Cerebellum* — Around LTD hypothesis in motor learning.
+- `22382359` **2012** *Brain* — Cerebral causes and consequences of parkinsonian resting tremor: a tale of two circuits?
+- `21147837` **2011** *Brain* — The pedunculopontine nucleus area: critical evaluation of interspecies differences relevant for its use as a target for deep brain stimulation.
+
+## M06 学习与记忆 — Learning and memory
+
+- `41990393` **2026** *Annu Rev Neurosci* — Planning in the Brain: It's Not What You Think It Is.
+- `40198842` **2025** *Annu Rev Neurosci* — How the Hippocampal Cognitive Map Supports Flexible Navigation.
+- `41151586` **2025** *Neuron* — Between planning and map building: Prioritizing replay when future goals are uncertain.
+- `36288726` **2022** *Neuron* — The neurobiology of long COVID.
+- `35599065` **2022** *Trends Neurosci* — Construction of complex memories via parallel distributed cortical-subcortical iterative integration.
+- `34304910` **2021** *Trends Neurosci* — Surface-based hippocampal subfield segmentation.
+- `34416170` **2021** *Neuron* — The population doctrine in cognitive neuroscience.
+- `34230644` **2021** *Nat Rev Neurosci* — Navigating for reward.
+- `31874067` **2020** *Annu Rev Neurosci* — CA2: A Highly Connected Intrahippocampal Relay.
+- `31972145` **2020** *Neuron* — Communication, Cross Talk, and Signal Integration in the Adult Hippocampal Neurogenic Niche.
+- `31170400` **2019** *Neuron* — Universal Transform or Multiple Functionality? Understanding the Contribution of the Human Cerebellum across Task Domains.
+- `31616106` **2019** *Nat Rev Neurosci* — Oscillating circuitries in the sleeping brain.
+- `30143180` **2018** *Trends Neurosci* — The Eloquent Silent Synapse.
+- `30115412` **2018** *Trends Neurosci* — The Posterior Parietal Cortex in Adaptive Visual Processing.
+- `30408441` **2018** *Neuron* — Spike Time Synchrony in the Absence of Continuous Oscillations.
+- `28431742` **2017** *Trends Neurosci* — The Sleeping Cerebellum.
+- `28772098` **2017** *Annu Rev Neurosci* — Replay Comes of Age.
+- `26247860` **2015** *Neuron* — Using Grid Cells for Navigation.
+- `26289572` **2015** *Nat Rev Neurosci* — Finding the engram.
+- `26275935` **2015** *Trends Neurosci* — Memory trace replay: the shaping of memory consolidation by neuromodulation.
+- `24929864` **2014** *Trends Neurosci* — Prefrontal cortical regulation of fear learning.
+- `24485517` **2014** *Trends Neurosci* — What do grid cells contribute to place cell firing?
+- `23040811` **2012** *Neuron* — Orienting and reorienting: the locus coeruleus mediates cognition through arousal.
+- `21788086` **2011** *Trends Neurosci* — Pattern separation in the hippocampus.
+- `21415848` **2011** *Nat Rev Neurosci* — A new neural framework for visuospatial processing.
+- `21880379` **2011** *Trends Neurosci* — Updating hippocampal representations: CA2 joins the circuit.
+- `19889466` **2010** *Trends Neurosci* — More than synaptic plasticity: role of nonsynaptic plasticity in learning and memory.
+- `42902590` **2026** *Neuroscientist* — The Schematic Brain: The Neurophysiology of Behavioral Schemas.
+- `38757781` **2025** *Neuroscientist* — Adult Hippocampal Neurogenesis in the Human Brain: Updates, Challenges, and Perspectives.
+- `40037964` **2025** *Trends Cogn Sci* — On the origin of memory neurons in the human hippocampus.
+- `40962324` **2025** *BMB Rep* — Systems memory consolidation during sleep: oscillations, neuromodulators, and synaptic remodeling.
+- `40074071` **2025** *Neurobiol Learn Mem* — Engram and behavior: How memory is stored in the brain.
+- `39892316` **2025** *Curr Opin Neurobiol* — Neurobiological mechanisms of forgetting across timescales.
+- `39424962` **2024** *Nat Hum Behav* — Executive function in children with neurodevelopmental conditions: a systematic review and meta-analysis.
+- `36703569` **2024** *Neuroscientist* — Threat Memory in the Sensory Cortex: Insights from Olfaction.
+- `39300271` **2024** *Neuropsychopharmacology* — Memory engram stability and flexibility.
+- `38443198` **2024** *Trends Cogn Sci* — Coupled sleep rhythms for memory consolidation.
+- `39008014` **2024** *Adv Neurobiol* — Synaptic Engram.
+- `38693811` **2024** *Bioessays* — Tuning synaptic strength by regulation of AMPA glutamate receptor localization.
+- `37563264` **2023** *Nat Rev Neurol* — Limbic-predominant age-related TDP43 encephalopathy (LATE) neuropathological change in neurodegenerative diseases.
+- `37369721` **2023** *Mol Psychiatry* — Engram neurons: Encoding, consolidation, retrieval, and forgetting of memory.
+- `37177850` **2023** *Wiley Interdiscip Rev Cogn Sci* — The 21st century engram.
+- `37840547` **2023** *Front Behav Neurosci* — Olfactory neurogenesis and its role in fear memory modulation.
+- `35667493` **2022** *Neurosci Res* — Synaptic plasticity during systems memory consolidation.
+- `36063532` **2022** *J Cell Physiol* — Hippocampal interlamellar cell-cell connectome that counts.
+- `35346687` **2022** *J Biol Chem* — Understanding the physical basis of memory: Molecular mechanisms of the engram.
+- `35466045` **2022** *Trends Cogn Sci* — Memory leaks: information shared across memory systems.
+- `35001808` **2022** *World J Biol Psychiatry* — Systems consolidation and fear memory generalisation as a potential target for trauma-related disorders.
+- `34709916` **2021** *Science* — Brain neural patterns and the memory function of sleep.
+- `34424092` **2021** *Percept Mot Skills* — The Prefrontal-Hippocampal Comparator: Volition and Episodic Memory.
+- `34302951` **2021** *Neurobiol Learn Mem* — Amygdala-hippocampal interactions in synaptic plasticity and memory formation.
+- `32445753` **2021** *Neurosci Res* — Heterogeneous representations in the hippocampus.
+- `34127388` **2021** *Trends Cogn Sci* — Aperiodic sleep networks promote memory consolidation.
+- `33388602` **2021** *Curr Opin Neurobiol* — Dynamic and heterogeneous neural ensembles contribute to a memory engram.
+- `31896692` **2020** *Science* — Memory engrams: Recalling the past and imagining the future.
+- `32486187` **2020** *Int J Mol Sci* — How TRPC Channels Modulate Hippocampal Function.
+- `33324167` **2020** *Front Cell Neurosci* — Mechanisms Underlying Memory Consolidation by Adult-Born Neurons During Sleep.
+- `30529001` **2019** *Prog Neuropsychopharmacol Biol Psychiatry* — Theranostic pharmacology in PTSD: Neurobiology and timing.
+- `30531064` **2019** *Neural Regen Res* — Memory consolidation during sleep and adult hippocampal neurogenesis.
+- `31371103` **2019** *Eur Neuropsychopharmacol* — Role of adult-born granule cells in the hippocampal functions: Focus on the GluN2B-containing NMDA receptors.
+- `29593317` **2018** *Nat Neurosci* — CA1 pyramidal cell diversity enabling parallel information processing in the hippocampus.
+- `28943393` **2018** *Semin Cell Dev Biol* — Regulation of spine structural plasticity by Arc/Arg3.1.
+- `28954853` **2017** *Physiol Rev* — Hippocampal GABAergic Inhibitory Interneurons.
+- `29161567` **2017** *Curr Biol* — The Biology of REM Sleep.
+- `28522379` **2017** *Trends Cogn Sci* — The Coding Question.
+- `28838882` **2017** *Neurobiol Learn Mem* — Histamine regulates memory consolidation.
+- `27899292` **2017** *Behav Brain Res* — Engrampigenetics: Epigenetics of engram memory cells.
+- `25406224` **2016** *Neuroscientist* — Cerebellar Transcranial Direct Current Stimulation (ctDCS): A Novel Approach to Understanding Cerebellar Function in Health and Disease.
+- `25488850` **2016** *Neuroscientist* — Serotonin 1A and Serotonin 4 Receptors: Essential Mediators of the Neurogenic and Behavioral Actions of Antidepressants.
+- `26902364` **2016** *Learn Behav* — A pathway for spatial memory encoding.
+- `24620008` **2015** *Neuroscientist* — Metaplasticity in human cortex.
+- `26135716` **2015** *Hippocampus* — Hippocampal sharp wave-ripple: A cognitive biomarker for episodic memory and planning.
+- `25452022` **2015** *Brain Res* — Theta-burst LTP.
+- `25459663` **2015** *Neurosci Biobehav Rev* — Birdsong memory and the brain: in search of the template.
+- `24298162` **2014** *Philos Trans R Soc Lond B Biol Sci* — The search for a hippocampal engram.
+- `24298167` **2014** *Philos Trans R Soc Lond B Biol Sci* — The synaptic plasticity and memory hypothesis: encoding, storage and persistence.
+- `23589831` **2013** *Physiol Rev* — About sleep's role in memory.
+- `23296343` **2013** *Nat Rev Neurol* — Transient amnesic syndromes.
+- `22410582` **2012** *Nat Rev Neurol* — Modifiable factors that alter the size of the hippocampus with ageing.
+- `23187693` **2012** *Nat Neurosci* — Neurogenesis and generalization: a new approach to stratify and treat anxiety disorders.
+
+## M07 情绪与应激 — Emotion and stress
+
+- `42443461` **2026** *Nat Rev Neurosci* — Brain mitochondria as key drivers of cognition and behaviour.
+- `42875276` **2026** *Trends Neurosci* — Resilience and vulnerability in the midbrain dopamine system during aging.
+- `42859082` **2026** *Trends Neurosci* — The mitochondrial epigenome and noncoding genome in aging and brain diseases.
+- `42854699` **2026** *Neuron* — Tau phosphorylation from neuronal adaptation to Alzheimer's disease.
+- `42901812` **2026** *Trends Neurosci* — Tumor innervation in non-central nervous system tumors: origins, mechanisms, and phenotypic plasticity.
+- `40087109` **2025** *Trends Neurosci* — The curious interpretation of novel object recognition tests.
+- `40973603` **2025** *Trends Neurosci* — Sensory signals for nausea.
+- `40506324` **2025** *Trends Neurosci* — The neurobiology of postpartum depression.
+- `36635110` **2023** *Trends Neurosci* — Mitochondrial signalling and homeostasis: from cell biology to neurological disease.
+- `36917821` **2023** *Annu Rev Neurosci* — Neural Circuits for Emotion.
+- `37848361` **2023** *Trends Neurosci* — Lysosomes in retinal health and disease.
+- `35853793` **2022** *Trends Neurosci* — Neural basis of prosocial behavior.
+- `35051375` **2022** *Neuron* — Internal senses of the vagus nerve.
+- `33378653` **2021** *Trends Neurosci* — Neural Circuits of Interoception.
+- `34711401` **2021** *Trends Neurosci* — Rethinking stress resilience.
+- `32839565` **2020** *Nat Rev Neurosci* — Multidimensional processing in the amygdala.
+- `32640931` **2020** *Annu Rev Neurosci* — Reward Contributions to Serotonergic Functions.
+- `30737462` **2019** *Nat Rev Neurosci* — Oxidative stress, dysfunctional glucose metabolism and Alzheimer disease.
+- `30054570` **2018** *Nat Rev Neurosci* — Brain circuit dysfunction in post-traumatic stress disorder: from mouse to man.
+- `29530319` **2018** *Trends Neurosci* — Extranuclear SUMOylation in Neurons.
+- `28318543` **2017** *Trends Neurosci* — Obesity-Induced Neuroinflammation: Beyond the Hypothalamus.
+- `26481098` **2015** *Nat Rev Neurosci* — The neural bases of emotion regulation.
+- `26016744` **2015** *Nat Rev Neurosci* — Interoceptive predictions in the brain.
+- `24552786` **2014** *Nat Rev Neurosci* — Hippocampal synaptic plasticity, spatial memory and anxiety.
+- `24552785` **2014** *Nat Rev Neurosci* — Brain correlates of music-evoked emotions.
+- `21731066` **2011** *Nat Rev Neurosci* — Neural mechanisms of the cognitive model of depression.
+- `41339536` **2026** *Nat Rev Neurol* — Characteristics and mechanisms of cognitive impairment in Parkinson disease.
+- `39423429` **2025** *Annu Rev Psychol* — Interoceptive Mechanisms and Emotional Processing.
+- `40768389` **2025** *Attach Hum Dev* — Is neglect the first form of threat?
+- `40378580` **2025** *Curr Opin Neurobiol* — Interoceptive modulation of emotions.
+- `35822657` **2024** *Neuroscientist* — Fear Learning: An Evolving Picture for Plasticity at Synaptic Afferents to the Amygdala.
+- `37712623` **2024** *Physiol Rev* — Tissue transglutaminase: a multifunctional and multisite regulator in health and disease.
+- `36052895` **2024** *Neuroscientist* — The Cerebellum as an Embodying Machine.
+- `38395706` **2024** *Trends Cogn Sci* — The neurobiology of interoception and affect.
+- `38722464` **2024** *Neurosci Bull* — The Insular Cortex: An Interface Between Sensation, Emotion and Cognition.
+- `39427810` **2024** *Neurosci Biobehav Rev* — The relationship between self-reported interoception and anxiety: A systematic review and meta-analysis.
+- `36603156` **2023** *Physiol Rev* — Vascular mechanotransduction.
+- `37633721` **2023** *Handb Clin Neurol* — Amygdala connectivity and aggression.
+- `37178232` **2023** *Brain Struct Funct* — Emotion, motivation, decision-making, the orbitofrontal cortex, anterior cingulate cortex, and the amygdala.
+- `37455302` **2023** *Curr Top Behav Neurosci* — Neuroimaging of Fear Extinction.
+- `37363858` **2023** *Int J Clin Exp Hypn* — Association of Hypnotizability, Interoception, and Emotion.
+- `36818657` **2023** *Front Mol Neurosci* — Involvement of the GABAergic system in PTSD and its therapeutic significance.
+- `36811021` **2023** *Nat Rev Psychol* — Understanding clinical fear and anxiety through the lens of human fear conditioning.
+- `35534123` **2022** *Annu Rev Clin Psychol* — Allostasis, Action, and Affect in Depression: Insights from the Theory of Constructed Emotion.
+- `35964983` **2022** *Handb Clin Neurol* — Amygdala function in emotion, cognition, and behavior.
+- `33949876` **2021** *Physiol Rev* — Obesity cardiomyopathy: evidence, mechanisms, and therapeutic implications.
+- `34072960` **2021** *Biomolecules* — Understanding Emotions: Origins and Roles of the Amygdala.
+- `33384214` **2021** *Trends Cogn Sci* — Neural Computations of Threat.
+- `33516732` **2021** *Neuropsychologia* — Amygdala-prefrontal connectivity during emotion regulation: A meta-analysis of psychophysiological interactions.
+- `34418544` **2021** *Neurobiol Learn Mem* — Neural systems and the emotion-memory link.
+- `32428495` **2020** *Curr Biol* — Tracing the Evolutionary Origin of Desmosomes.
+- `32204831` **2020** *Int Rev Neurobiol* — Prenatal stress: Effects on fetal and child brain development.
+- `32002927` **2020** *Adv Exp Med Biol* — The Role of Early Life Stress in HPA Axis and Anxiety.
+- `28757456` **2020** *Neurosci Biobehav Rev* — Prenatal developmental origins of behavior and mental health: The influence of maternal stress in pregnancy.
+- `31125635` **2019** *Neurosci Biobehav Rev* — Physiological feelings.
+- `31849741` **2019** *Front Psychol* — Interoception and Social Connection.
+- `28756189` **2019** *Neurosci Lett* — Historical pitfalls and new directions in the neuroscience of emotion.
+- `30266932` **2018** *Nat Rev Neurol* — TREM2 - a key player in microglial biology and Alzheimer disease.
+- `30447729` **2018** *Psychiatr Clin North Am* — The Neurobiology of Borderline Personality Disorder.
+- `29884281` **2018** *Biol Psychiatry Cogn Neurosci Neuroimaging* — Interoception and Mental Health: A Roadmap.
+- `29628509` **2018** *Exp Mol Med* — Inhibition in the amygdala anxiety circuitry.
+- `29974959` **2018** *Ann N Y Acad Sci* — The neurobiology of interoception in health and disease.
+- `31024125` **2017** *Nat Hum Behav* — The resilience framework as a strategy to combat stress-related disorders.
+- `28363681` **2017** *Trends Cogn Sci* — A Network Model of the Emotional Brain.
+- `28950976` **2017** *Curr Opin Psychol* — Interoception and emotion.
+- `28278494` **2017** *Complement Med Res* — [Emotions in Motion: Myofascial Interoception].
+- `28061971` **2017** *Vitam Horm* — The Endocannabinoid System and Anxiety.
+- `28867941` **2017** *Dialogues Clin Neurosci* — Affective neuroimaging in generalized anxiety disorder: an integrated review.
+- `28523545` **2017** *Adv Exp Med Biol* — Anxiety and Epigenetics.
+- `27734198` **2017** *J Youth Adolesc* — Emotion Regulation Strategies in Depressive and Anxiety Symptoms in Youth: A Meta-Analytic Review.
+- `27808265` **2016** *Nat Rev Neurol* — Unruptured intracranial aneurysms: development, rupture and preventive management.
+- `27242642` **2016** *Front Psychol* — On the Origin of Interoception.
+- `28080966` **2016** *Philos Trans R Soc Lond B Biol Sci* — Active interoceptive inference and the emotional brain.
+- `25592533` **2015** *Nature* — From circuits to behaviour in the amygdala.
+- `25894546` **2015** *Psychol Bull* — Effects of sleep on memory for conditioned fear and fear extinction.
+- `24692350` **2014** *Physiol Rev* — Oxidative stress: an essential factor in the pathogenesis of gastrointestinal mucosal diseases.
+- `24984244` **2014** *Neurosci Biobehav Rev* — Emotion regulation: quantitative meta-analysis of functional activation and deactivation.
+- `22929913` **2012** *Nat Neurosci* — Decision-making in the adolescent brain.
+- `23064380` **2012** *Nat Neurosci* — Neurobiology of resilience.
+- `20664075` **2010** *Physiol Rev* — Gut microbiota in health and disease.
+
+## M08 睡眠与昼夜节律 — Sleep and circadian rhythms
+
+- `42850105` **2026** *Trends Neurosci* — Sleep-dependent microglial functions in Alzheimer's disease.
+- `42854699` **2026** *Neuron* — Tau phosphorylation from neuronal adaptation to Alzheimer's disease.
+- `42810346` **2026** *Neuron* — Time-resolved spectral parameterization: Recommendations and guidelines.
+- `40121166` **2025** *Trends Neurosci* — Awake replay: off the clock but on the job.
+- `39788085` **2025** *Neuron* — Toward a functional future for the cognitive neuroscience of human aging.
+- `38663092` **2024** *Annu Rev Neurosci* — Cerebellar Functions Beyond Movement and Learning.
+- `38519370` **2024** *Trends Neurosci* — Embracing sleep-onset complexity.
+- `38071123` **2024** *Trends Neurosci* — Ontogeny of the circadian system: a multiscale process throughout development.
+- `38040815` **2024** *Nat Rev Neurosci* — Sleep and circadian rhythmicity as entangled processes serving homeostasis.
+- `37012175` **2023** *Trends Neurosci* — The neuroscience of music - towards ecological validity.
+- `35236639` **2022** *Trends Neurosci* — Interbrain synchrony: on wavy ground.
+- `35803585` **2022** *Annu Rev Neurosci* — Neuroscientific Evidence for Processing Without Awareness.
+- `35820971` **2022** *Trends Neurosci* — Control of lymph node activity by direct local innervation.
+- `36272823` **2022** *Trends Neurosci* — Understanding the aging hypothalamus, one cell at a time.
+- `31437452` **2019** *Neuron* — A Societal Sleep Prescription.
+- `30546103` **2019** *Nat Rev Neurosci* — The neurobiological basis of narcolepsy.
+- `31647894` **2019** *Neuron* — Melanopsin and the Intrinsically Photosensitive Retinal Ganglion Cells: Biophysics to Behavior.
+- `29934559` **2018** *Nat Rev Neurosci* — Generation of circadian rhythms in the suprachiasmatic nucleus.
+- `28571614` **2017** *Trends Neurosci* — Canis familiaris As a Model for Non-Invasive Comparative Neuroscience.
+- `28843655` **2017** *Trends Neurosci* — Phantom Limbs, Neuroprosthetics, and the Developmental Origins of Embodiment.
+- `27720226` **2016** *Trends Neurosci* — Circadian-Time Sickness: Time-of-Day Cue-Conflicts Directly Affect Health.
+- `27589879` **2016** *Trends Neurosci* — Thalamic Inhibition: Diverse Sources, Diverse Scales.
+- `26335642` **2015** *Neuron* — Neural Control of Breathing and CO2 Homeostasis.
+- `25575625` **2015** *Trends Neurosci* — The human histaminergic system in neuropsychiatric disorders.
+- `26275935` **2015** *Trends Neurosci* — Memory trace replay: the shaping of memory consolidation by neuromodulation.
+- `25087980` **2014** *Trends Neurosci* — Sleep, clocks, and synaptic plasticity.
+- `41633382` **2026** *Physiol Rev* — The alpha rhythm: from physiology to behavior.
+- `41902539` **2026** *Physiol Rev* — Magnetosensation: the unsolved mystery.
+- `41325105` **2026** *Brain* — Is glymphatic clearance the secret to restorative sleep?
+- `40769448` **2025** *Biol Psychiatry* — Sleep Neurophysiology in Depression.
+- `39637099` **2024** ** — Cycles in Epilepsy.
+- `38695262` **2024** *J Pineal Res* — Circadian desynchrony and glucose metabolism.
+- `39449278` **2024** *J Biol Rhythms* — Hierarchy or Heterarchy of Mammalian Circadian Timekeepers?
+- `38892035` **2024** *Int J Mol Sci* — The Relationship between Circadian Rhythm and Cancer Disease.
+- `37142796` **2023** *Nat Rev Neurol* — The noradrenergic subtype of Parkinson disease: from animal models to clinical practice.
+- `34704497` **2023** *Neuroscientist* — Brain Circuits Underlying Narcolepsy.
+- `37288611` **2023** *Clin Exp Dermatol* — Sleep deprivation and the skin.
+- `36834801` **2023** *Int J Mol Sci* — Circadian Rhythms Disrupted by Light at Night and Mistimed Food Intake Alter Hormonal Rhythms and Metabolism.
+- `35575250` **2022** *Physiol Rev* — Circadian clocks of the kidney: function, mechanism, and regulation.
+- `34791088` **2022** *Brain* — A review of Mendelian randomization in amyotrophic lateral sclerosis.
+- `35502706` **2022** *J Sleep Res* — The two-process model of sleep regulation: Beginnings and outlook.
+- `36558355` **2022** *Nutrients* — Sleep Deprivation and Central Appetite Regulation.
+- `35575450` **2022** *J Sleep Res* — Adenosine, caffeine, and sleep-wake regulation: state of the science and perspectives.
+- `35659069` **2022** *Sleep Med Clin* — Neurobiology of Circadian Rhythm Regulation.
+- `35659078` **2022** *Sleep Med Clin* — Sleep Deprivation and Circadian Disruption Stress, Allostasis, and Allostatic Load.
+- `35365609` **2022** *Transl Psychiatry* — Sleep in Alzheimer's disease: a systematic review and meta-analysis of polysomnographic findings.
+- `35216756` **2022** *Sleep Med Clin* — Sleep Disturbances During Shift Work.
+- `33723459` **2021** *Nat Rev Neurol* — Cycles in epilepsy.
+- `34813745` **2021** *Curr Biol* — Melatonin.
+- `34074604` **2021** *J Sci Med Sport* — How does sleep help recovery from exercise-induced muscle injuries?
+- `34773227` **2021** *Adv Exp Med Biol* — Brain Clocks, Sleep, and Mood.
+- `34601963` **2021** *Hypertension* — Circadian Rhythm, Clock Genes, and Hypertension: Recent Advances in Hypertension.
+- `32198942` **2021** *J Neurochem* — GABAergic mechanisms in the suprachiasmatic nucleus that influence circadian rhythm.
+- `32668369` **2020** *Sleep Med Rev* — Sleep, circadian rhythm, and gut microbiota.
+- `33381558` **2020** *Biomed Res Int* — Sleep Deprivation and Neurological Disorders.
+- `32358212` **2020** *Pediatrics* — Sleep Disorders in Adolescents.
+- `31176308` **2020** *Neuropsychopharmacology* — Sleep deprivation, vigilant attention, and brain function: a review.
+- `31411317` **2019** *Brain* — Fluctuating cognition in the Lewy body dementias.
+- `30531917` **2019** *Nat Rev Endocrinol* — Circadian clocks and insulin resistance.
+- `31277845` **2019** *Handb Clin Neurol* — Ambulatory EEG.
+- `31433569` **2019** *J Biophotonics* — The inner clock-Blue light sets the human rhythm.
+- `31277860` **2019** *Handb Clin Neurol* — Sleep-wake physiology.
+- `30205052` **2018** *Curr Biol* — Demystifying Monarch Butterfly Migration.
+- `30300592` **2018** *Curr Biol* — Sleep spindles.
+- `30131521` **2018** *Nat Rev Neurol* — Seizure prediction - ready for a new era.
+- `29908393` **2018** *J Adolesc* — An update on adolescent sleep: New evidence informing the perfect storm model.
+- `29412976` **2018** *Sleep Med Clin* — Sleep in Normal Aging.
+- `29318587` **2018** *Br J Pharmacol* — New perspectives on the role of melatonin in human sleep, circadian rhythms and their regulation.
+- `26899133` **2017** *Sleep Med Rev* — Coffee, caffeine, and sleep: A systematic review of epidemiological studies and randomized controlled trials.
+- `27749086` **2017** *Endocr Rev* — The Functional and Clinical Significance of the 24-Hour Rhythm of Circulating Glucocorticoids.
+- `26972038` **2016** *Sleep Med Clin* — Sleep and the Endocrine System.
+- `26568118` **2015** *Sleep Med Clin* — Neurobiology of Circadian Rhythm Regulation.
+- `26333639` **2015** *Obstet Gynecol Clin North Am* — Sleep Deprivation.
+- `26568126` **2015** *Sleep Med Clin* — Irregular Sleep-Wake Rhythm Disorder.
+- `26055668` **2015** *Sleep Med Clin* — Sleep Deprivation and Circadian Disruption: Stress, Allostasis, and Allostatic Load.
+- `26332970` **2015** *Diabetes Obes Metab* — Plasticity of circadian clocks and consequences for metabolism.
+- `25307588` **2014** *Handb Clin Neurol* — Alcohol and the sleeping brain.
+- `21343894` **2011** *Nat Rev Neurol* — Nonmotor presentations of multiple system atrophy.
+- `20664079` **2010** *Physiol Rev* — Physiology of circadian entrainment.
+- `20959623` **2010** *Physiol Rev* — Intrinsically photosensitive retinal ganglion cells.
+
+## M09 神经调质与奖赏 — Neuromodulation, reward and motivation
+
+- `42443461` **2026** *Nat Rev Neurosci* — Brain mitochondria as key drivers of cognition and behaviour.
+- `42875276` **2026** *Trends Neurosci* — Resilience and vulnerability in the midbrain dopamine system during aging.
+- `42092365` **2026** *Neuron* — A circuit-based framework for depression: Reshaping the pathological attractor.
+- `42062471` **2026** *Nat Rev Neurosci* — Wired for immunity: neuroimmune control of the lung by sensory neurons.
+- `40311612` **2025** *Neuron* — Nonneuronal contributions to synaptic function.
+- `40675841` **2025** *Trends Neurosci* — Untangling the multifaceted VTA responses to stress.
+- `40335409` **2025** *Trends Neurosci* — Neuromelanin and selective neuronal vulnerability to Parkinson's disease.
+- `38703774` **2024** *Neuron* — Neural mechanisms of information seeking.
+- `38663092` **2024** *Annu Rev Neurosci* — Cerebellar Functions Beyond Movement and Learning.
+- `37913772` **2024** *Neuron* — Layer 1 neocortex: Gating and integrating multidimensional signals.
+- `36823458` **2023** *Nat Rev Neurosci* — Basal forebrain cholinergic signalling: development, connectivity and roles in cognition.
+- `37018916` **2023** *Annu Rev Neurosci* — Deep Brain Stimulation for Obsessive-Compulsive Disorder and Depression.
+- `36681076` **2023** *Neuron* — The costs and benefits of psychedelics on cognition and mood.
+- `35879409` **2022** *Nat Rev Neurosci* — The neural basis of sugar preference.
+- `35550813` **2022** *Trends Neurosci* — Neurofeedback through the lens of reinforcement learning.
+- `33674134` **2021** *Trends Neurosci* — Modulating the Neuromodulators: Dopamine, Serotonin, and the Endocannabinoid System.
+- `31917952` **2020** *Neuron* — Turning Touch into Perception.
+- `32873936` **2020** *Nat Rev Neurosci* — Beyond dichotomies in reinforcement learning.
+- `32303147` **2020** *Annu Rev Neurosci* — Basal Ganglia Circuits for Action Specification.
+- `30946823` **2019** *Neuron* — Obsessive-Compulsive Disorder: Puzzles and Prospects.
+- `31570826` **2019** *Nat Rev Neurosci* — Believing in dopamine.
+- `31147631` **2019** *Nat Rev Neurosci* — Adaptive learning under expected and unexpected uncertainty.
+- `30509690` **2019** *Trends Neurosci* — Synaptic, Mitochondrial, and Lysosomal Dysfunction in Parkinson's Disease.
+- `29470969` **2018** *Neuron* — Neuromodulation of Attention.
+- `30359603` **2018** *Neuron* — The Meningeal Lymphatic System: A New Player in Neurophysiology.
+- `29735372` **2018** *Trends Neurosci* — Fornical Closed-Loop Stimulation for Alzheimer's Disease.
+- `28209979` **2017** *Nat Rev Neurosci* — Fractionating impulsivity: neuropsychiatric implications.
+- `28441115` **2017** *Annu Rev Neurosci* — Neuromodulation of Innate Behaviors in Drosophila.
+- `27450201` **2016** *Trends Neurosci* — Enteric Neuronal Regulation of Intestinal Inflammation.
+- `25873042` **2015** *Nat Rev Neurosci* — The dopamine theory of addiction: 40 years of highs and lows.
+- `22678511` **2012** *Nat Rev Neurosci* — Kynurenines in the mammalian brain: when physiology meets pathology.
+- `42697957` **2026** *Nat Neurosci* — Neuromodulation for restoring and amplifying brain function.
+- `38682490` **2025** *Neuroscientist* — TRP Channels in Excitotoxicity.
+- `41171569` **2025** *Adv Exp Med Biol* — Physical Therapy for Addiction.
+- `39925596` **2025** *Cureus* — Social Media Algorithms and Teen Addiction: Neurophysiological Impact and Ethical Considerations.
+- `40129874` **2025** *PCN Rep* — Anhedonia: Current and future treatments.
+- `38191918` **2024** *Nat Rev Neurol* — Myasthenia gravis: the changing treatment landscape in the era of molecular therapies.
+- `39451967` **2024** *Brain Sci* — Food Addiction.
+- `39556473` **2024** *FP Essent* — Addiction Medicine: Opioid Use Disorder.
+- `39207701` **2024** *Adv Neurobiol* — Substance Use and Addiction.
+- `38467485` **2024** *Adv Pharmacol* — The many enigmas of nicotine.
+- `38256059` **2024** *Int J Mol Sci* — From Synaptic Physiology to Synaptic Pathology: The Enigma of α-Synuclein.
+- `36864664` **2023** *Brain* — Impaired dopamine release in Parkinson's disease.
+- `37832393` **2023** *Curr Opin Neurobiol* — Nicotine addiction: More than just dopamine.
+- `38320504` **2023** *NEJM Evid* — Methamphetamine Toxicities and Clinical Management.
+- `35659070` **2022** *Sleep Med Clin* — Sleep-Wake Neurochemistry.
+- `35669454` **2022** *Front Neural Circuits* — Anatomy and Function of Ventral Tegmental Area Glutamate Neurons.
+- `35142994` **2022** *Neurochem Res* — Tetrahydrobiopterin and Its Multiple Roles in Neuropsychological Disorders.
+- `33244188` **2021** *Nat Rev Neurol* — Technology of deep brain stimulation: current status and future directions.
+- `33537937` **2021** *Adv Exp Med Biol* — Sleep-Wake Neurobiology.
+- `33581225` **2021** *Neurosci Biobehav Rev* — Neurobiology of reward-related learning.
+- `34414219` **2021** *Front Cardiovasc Med* — Antidepressant Drugs Effects on Blood Pressure.
+- `33314077` **2021** *J Comp Neurol* — Axo-axonic synapses: Diversity in neural circuit function.
+- `34955762` **2021** *Front Neural Circuits* — Striatonigrostriatal Spirals in Addiction.
+- `34574716` **2021** *Int J Environ Res Public Health* — Sugars and Sweet Taste: Addictive or Rewarding?
+- `33815617` **2021** *Exp Ther Med* — Understanding the genetics and neurobiological pathways behind addiction (Review).
+- `32251385` **2020** *Nat Neurosci* — Deconstructing the neurobiology of cannabis use disorder.
+- `32738308` **2020** *Neuropharmacology* — Nicotinic acetylcholine receptors and nicotine addiction: A brief introduction.
+- `32463584` **2020** *Neuropsychopharmacol Rep* — PET technology for drug development in psychiatry.
+- `31507244` **2019** *Physiol Rev* — The Neuroscience of Drug Reward and Addiction.
+- `30446950` **2019** *Cell Mol Neurobiol* — Dopamine: Functions, Signaling, and Association with Neurological Diseases.
+- `30569209` **2019** *J Neural Transm (Vienna)* — Dopamine and addiction: what have we learned from 40 years of research.
+- `30109819` **2018** *Physiol Rev* — Neuroimmune Communication in Health and Disease.
+- `30042662` **2018** *Front Neural Circuits* — Monoaminergic Neuromodulation of Sensory Processing.
+- `30382181` **2018** *Acta Pharmacol Sin* — Drug addiction: a curable mental disorder?
+- `29428394` **2018** *Neurosci Biobehav Rev* — The pharmacology of amphetamine and methylphenidate: Relevance to the neurobiology of attention-deficit/hyperactivity disorder and other psychiatric comorbidities.
+- `27306757` **2017** *Neuroscientist* — The Basal Ganglia in Action.
+- `28619473` **2017** *J Chem Neuroanat* — Cocaine adulteration.
+- `26589880` **2017** *Am J Hosp Palliat Care* — Aripiprazole.
+- `29098676` **2017** *Adv Exp Med Biol* — Physical Therapy.
+- `28474551` **2017** *Curr Top Med Chem* — Role of Dopamine Signaling in Drug Addiction.
+- `27475769` **2016** *Lancet Psychiatry* — Neurobiology of addiction: a neurocircuitry analysis.
+- `27069377` **2016** *Dialogues Clin Neurosci* — Dopamine reward prediction error coding.
+- `27492358` **2016** *Curr Drug Abuse Rev* — Smoking and Cognition.
+- `26794730` **2016** *Pflugers Arch* — Chloride requirement for monoamine transporters.
+- `26276628` **2015** *Cell* — The Brain on Drugs: From Reward to Addiction.
+- `25065439` **2014** *Nat Neurosci* — Direct and indirect pathways of basal ganglia: a critical reappraisal.
+- `23688927` **2014** *Neuropharmacology* — Addiction science: Uncovering neurobiological complexity.
+- `23300215` **2013** *Neuroscientist* — The cooperative brain.
+- `22929913` **2012** *Nat Neurosci* — Decision-making in the adolescent brain.
+
+## M10 胶质、血管与神经免疫 — Glia, vasculature and neuroimmunology
+
+- `42477453` **2026** *Nat Rev Neurosci* — Microglial states revisited: from homeostasis to disease.
+- `42850105` **2026** *Trends Neurosci* — Sleep-dependent microglial functions in Alzheimer's disease.
+- `42893889` **2026** *Trends Neurosci* — Apolipoprotein E4 and immune dysfunction in Alzheimer's disease: mechanisms and therapeutic implications.
+- `42062471` **2026** *Nat Rev Neurosci* — Wired for immunity: neuroimmune control of the lung by sensory neurons.
+- `40389615` **2025** *Nat Rev Neurosci* — Neuroferroptosis in health and diseases.
+- `40311611` **2025** *Neuron* — Lipid metabolism alterations in peripheral neuropathies.
+- `40651862` **2025** *Trends Neurosci* — Life without microglia.
+- `40760183` **2025** *Nat Rev Neurosci* — The vascular contribution to cognitive decline in ageing and dementia.
+- `40816914` **2025** *Trends Neurosci* — Retrotrapezoid nucleus chemoreception: mechanisms of function and contributions to disordered breathing in disease.
+- `41173727` **2025** *Trends Neurosci* — Lessons from ex vivo and in vitro models in microglia research.
+- `41206222` **2025** *Trends Neurosci* — When viral infections rewire neural circuits: towards cognitive virology.
+- `39271369` **2024** *Trends Neurosci* — Neuroimmune interactions in the development and chronification of migraine headache.
+- `38789516` **2024** *Nat Rev Neurosci* — The neuropathobiology of multiple sclerosis.
+- `38052682` **2024** *Trends Neurosci* — White matter injury across neurodegenerative disease.
+- `37857838` **2023** *Nat Rev Neurosci* — Neuron-oligodendroglial interactions in health and malignant disease.
+- `37202300` **2023** *Trends Neurosci* — Neuronal and astrocyte determinants of critical periods of plasticity.
+- `36913712` **2023** *Annu Rev Neurosci* — Meningeal Mechanisms and the Migraine Connection.
+- `37183154` **2023** *Trends Neurosci* — Pathological potential of oligodendrocyte precursor cells: terra incognita.
+- `35153084` **2022** *Trends Neurosci* — Local cholesterol metabolism orchestrates remyelination.
+- `35363534` **2022** *Annu Rev Neurosci* — Neuroimmune Interactions in Peripheral Organs.
+- `36228613` **2022** *Neuron* — CNS remyelination and inflammation: From basic mechanisms to therapeutic opportunities.
+- `36404456` **2022** *Trends Neurosci* — Neonatal development of intestinal neuroimmune interactions.
+- `34872773` **2022** *Trends Neurosci* — Evaluating microglial phenotypes using single-cell technologies.
+- `33385325` **2021** *Neuron* — Behaviorally consequential astrocytic regulation of neural circuits.
+- `33674135` **2021** *Trends Neurosci* — Microglia in Cancer Therapy-Related Cognitive Impairment.
+- `32650957` **2020** *Trends Neurosci* — The Gut-CNS Axis in Multiple Sclerosis.
+- `32839001` **2020** *Trends Neurosci* — How Do Sensory Neurons Sense Danger Signals?
+- `32620289` **2020** *Trends Neurosci* — The Role of Astrocytes in Remyelination.
+- `30770136` **2019** *Trends Neurosci* — Molecular Control of Oligodendrocyte Development.
+- `31537912` **2019** *Nat Rev Neurosci* — Astrocytes in chronic pain and itch.
+- `31704181` **2019** *Trends Neurosci* — Astroglia-Derived ATP Modulates CNS Neuronal Circuits.
+- `39939240` **2025** *Neurotherapeutics* — Astrocyte and oligodendrocyte pathology in Alzheimer's disease.
+- `40500496` **2025** *Adv Neurobiol* — Morphology of Oligodendroglial Cells.
+- `39985073` **2025** *Mol Neurodegener* — Peripheral and central neuroimmune mechanisms in Alzheimer's disease pathogenesis.
+- `40806380` **2025** *Int J Mol Sci* — Spinal Cord Injury Remyelination: Pathways to Therapies.
+- `40148039` **2025** *Handb Clin Neurol* — Neuroglia in stroke.
+- `40012567` **2025** *Front Cell Neurosci* — Glymphatic system: a self-purification circulation in brain.
+- `38906999` **2024** *Nat Rev Neurol* — Multifaceted roles of APOE in Alzheimer disease.
+- `38712859` **2024** *Neuroscientist* — Microglial Dysfunction in Autism Spectrum Disorder.
+- `39332912` **2024** *Trends Immunol* — Emerging roles of astrocytes as immune effectors in the central nervous system.
+- `37452201` **2024** *Nat Rev Immunol* — Microglia regulation of central nervous system myelin health and regeneration.
+- `37721287` **2024** *Neural Regen Res* — Star power: harnessing the reactive astrocyte response to promote remyelination in multiple sclerosis.
+- `39086020` **2024** *J Neurochem* — Dysregulation of myelination-related genes in schizophrenia.
+- `37653126` **2023** *Nat Neurosci* — Myelination-independent functions of oligodendrocyte precursor cells in health and disease.
+- `35373633` **2023** *Neuroscientist* — Sculpting Astrocyte Diversity through Circuits and Transcription.
+- `37638434` **2023** *J Alzheimers Dis* — Microglia-Astrocyte Communication in Alzheimer's Disease.
+- `36915214` **2023** *Acta Neuropathol Commun* — Roles of neuropathology-associated reactive astrocytes: a systematic review.
+- `36974372` **2023** *ASN Neuro* — The Initial Myelination in the Central Nervous System.
+- `36324281` **2023** *J Cereb Blood Flow Metab* — The roles of microglia and astrocytes in myelin phagocytosis in the central nervous system.
+- `37566021` **2023** *Cells* — Microglia-Astrocyte Interaction in Neural Development and Neural Pathogenesis.
+- `36398864` **2023** *Ann N Y Acad Sci* — Glial aging and its impact on central nervous system myelin regeneration.
+- `36093726` **2022** *Brain* — Oligodendrocyte progenitor cell recruitment and remyelination in multiple sclerosis: the more, the merrier?
+- `36280704` **2022** *Nat Rev Neurol* — Astrocytes in the initiation and progression of epilepsy.
+- `36285711` **2022** *Ann N Y Acad Sci* — Evolution of neuroglia.
+- `35642214` **2022** *J Inflamm Res* — Microglia-Mediated Neuroinflammation: A Potential Target for the Treatment of Cardiovascular Diseases.
+- `33567971` **2022** *Neuroscientist* — A Matter of State: Diversity in Oligodendrocyte Lineage Cells.
+- `36139030` **2022** *Biomolecules* — Palmitoylethanolamide and White Matter Lesions: Evidence for Therapeutic Implications.
+- `34711906` **2021** *Nat Rev Neurol* — Hope for patients with neuromyelitis optica spectrum disorders - from mechanisms to trials.
+- `34526407` **2021** *J Neurosci* — The Glymphatic System: A Novel Component of Fundamental Neurobiology.
+- `34054698` **2021** *Front Neurol* — Glial Purinergic Signaling in Neurodegeneration.
+- `34292315` **2021** *J Exp Med* — Functional immune cell-astrocyte interactions.
+- `34019104` **2021** *Cell Mol Life Sci* — Manipulating oligodendrocyte intrinsic regeneration mechanism to promote remyelination.
+- `34192527` **2021** *Dev Cell* — Microenvironmental interactions of oligodendroglial cells.
+- `32736085` **2020** *Neurobiol Dis* — Microglia and astrocyte dysfunction in parkinson's disease.
+- `32595455` **2020** *Front Cell Neurosci* — Unraveling Myelin Plasticity.
+- `31959516` **2020** *Trends Mol Med* — Glymphatic System Impairment in Alzheimer's Disease and Idiopathic Normal Pressure Hydrocephalus.
+- `33153097` **2020** *Children (Basel)* — Acute Disseminated Encephalomyelitis: Current Perspectives.
+- `29931997` **2019** *Neuroscientist* — Microglia-Astrocyte Crosstalk: An Intimate Molecular Conversation.
+- `30904575` **2019** *Neurosci Lett* — Neuronal activity-dependent myelin repair after stroke.
+- `31726662` **2019** *Cells* — Oligodendrocytes in Development, Myelin Generation and Beyond.
+- `31589903` **2019** *Neurosci Lett* — Astrocytes in myelination and remyelination.
+- `29735982` **2018** *Nat Neurosci* — Microglial immune checkpoint mechanisms.
+- `32166166` **2018** *Brain Neurosci Adv* — Neuroglia: Realising their true potential.
+- `29195051` **2018** *Annu Rev Pathol* — The Glymphatic System in Central Nervous System Health and Disease: Past, Present, and Future.
+- `26423932` **2016** *Brain Res* — The immunomodulatory oligodendrocyte.
+- `26084688` **2015** *Physiol Rev* — Neuroglial Transmission.
+- `26404713` **2015** *Nat Neurosci* — Neuroimmune mechanisms of depression.
+- `26577203` **2015** *Development* — Glia in mammalian development and disease.
+- `25288117` **2014** *Annu Rev Cell Dev Biol* — Myelination of the nervous system: mechanisms and functions.
+- `24300694` **2014** *Neurosci Biobehav Rev* — The glial perspective of autism spectrum disorders.
+
+## M11 神经疾病 — Neurological and psychiatric disorders
+
+- `42135109` **2026** *Trends Neurosci* — Epigenetic noise in the aging brain: tuning neuronal vulnerability to neurodegeneration.
+- `41203507` **2025** *Trends Neurosci* — Rethinking neurodegeneration through a co-proteinopathy lens.
+- `40335410` **2025** *Trends Neurosci* — The multifaceted roles of Akkermansia muciniphila in neurological disorders.
+- `38382543` **2024** *Annu Rev Neurosci* — Keeping Your Brain in Balance: Homeostatic Regulation of Network Function.
+- `38052682` **2024** *Trends Neurosci* — White matter injury across neurodegenerative disease.
+- `38424472` **2024** *Annu Rev Neurosci* — Predictive Processing: A Circuit Approach to Psychosis.
+- `38648267` **2024** *Annu Rev Neurosci* — Meningeal Lymphatics in Central Nervous System Diseases.
+- `36316501` **2023** *Nat Rev Neurosci* — Astrocyte contribution to dysfunction, risk and progression in neurodegenerative disorders.
+- `35034773` **2022** *Trends Neurosci* — Lysosomal dysfunction in neurodegeneration: emerging concepts and methods.
+- `34236893` **2021** *Annu Rev Neurosci* — Parkinson's Disease Genetics and Pathophysiology.
+- `32993859` **2020** *Trends Neurosci* — 16p11.2 Copy Number Variations and Neurodevelopmental Disorders.
+- `30792501` **2019** *Nat Rev Neurosci* — Neuron-glia interactions in the pathophysiology of epilepsy.
+- `29885742` **2018** *Trends Neurosci* — Epigenetic Regulation in Neurodegenerative Diseases.
+- `29490194` **2018** *Annu Rev Neurosci* — Abnormal mTOR Activation in Autism.
+- `29475564` **2018** *Trends Neurosci* — Long Road to Ruin: Noradrenergic Dysfunction in Neurodegenerative Disease.
+- `28951611` **2017** *Nat Rev Neurosci* — Sensory perception in autism.
+- `27050320` **2016** *Annu Rev Neurosci* — Alzheimer's Disease Mechanisms and Emerging Roads to Novel Therapeutics.
+- `26373471` **2015** *Nat Rev Neurosci* — Social cognition in schizophrenia.
+- `20559336` **2010** *Nat Rev Neurosci* — Behavioural phenotyping assays for mouse models of autism.
+- `42811116` **2026** *Nat Rev Neurol* — Lysosomal dysfunction in neurodegenerative disease.
+- `41238102` **2026** *Metabolism* — Targeting lipid metabolism in neurodegenerative diseases: From experimental to clinical.
+- `38682490` **2025** *Neuroscientist* — TRP Channels in Excitotoxicity.
+- `38712859` **2024** *Neuroscientist* — Microglial Dysfunction in Autism Spectrum Disorder.
+- `38420922` **2024** *Neuroscientist* — α-Synuclein: Multiple pathogenic roles in trafficking and proteostasis pathways in Parkinson's disease.
+- `36121037` **2024** *Neuroscientist* — VEGF and Neuronal Survival.
+- `38065777` **2024** *Trends Pharmacol Sci* — PPAR agonists for the treatment of neuroinflammatory diseases.
+- `38575486` **2024** *Otolaryngol Clin North Am* — Neurogenic Dysphagia.
+- `37979642` **2024** *Biol Psychiatry* — Targeting Symptom-Specific Networks With Transcranial Magnetic Stimulation.
+- `37872838` **2024** *Phytother Res* — Protective mechanism of Paeonol on central nervous system.
+- `36524397` **2024** *Crit Rev Food Sci Nutr* — Potential implications of polyphenolic compounds in neurodegenerative diseases.
+- `39791705` **2024** *Cells* — Calcium Signalling in Neurological Disorders, with Insights from Miniature Fluorescence Microscopy.
+- `37943296` **2024** *Naunyn Schmiedebergs Arch Pharmacol* — Pharmacological update of mirtazapine: a narrative literature review.
+- `39301667` **2024** *Folia Parasitol* — The linking of toxoplasmosis and schizophrenia.
+- `38955263` **2024** *Ageing Res Rev* — Research progress on Helicobacter pylori infection related neurological diseases.
+- `38914414` **2024** *Prog Neuropsychopharmacol Biol Psychiatry* — Exploring the gut-brain Axis: Potential therapeutic impact of Psychobiotics on mental health.
+- `39337436` **2024** *Int J Mol Sci* — Significance of Programmed Cell Death Pathways in Neurodegenerative Diseases.
+- `39459534` **2024** *Life (Basel)* — The Microbiota-Gut-Brain Axis and Neurological Disorders: A Comprehensive Review.
+- `35951482` **2023** *Physiol Rev* — Developmental and epileptic encephalopathies: from genetic heterogeneity to phenotypic continuum.
+- `36481799` **2023** *Nat Rev Neurol* — Prospects for gene replacement therapies in amyotrophic lateral sclerosis.
+- `36646930` **2023** *Nat Rev Neurol* — Cohort-guided insights into gene-environment interactions in autism spectrum disorders.
+- `35414300` **2023** *Neuroscientist* — Targeted Molecular Strategies for Genetic Neurodevelopmental Disorders: Emerging Lessons from Dravet Syndrome.
+- `37559249` **2023** *Curr Alzheimer Res* — Neuroprotection of Thioredoxin1 in the Brain.
+- `37508574` **2023** *Cells* — Liquid Biopsy in Neurological Diseases.
+- `36703583` **2023** *Curr Top Med Chem* — Challenges and Discoveries in Polypharmacology of Neurodegenerative Diseases.
+- `33576313` **2022** *Neuroscientist* — Neuroinflammation in Parkinson's Disease: Triggers, Mechanisms, and Immunotherapies.
+- `35250543` **2022** *Front Aging Neurosci* — Microglia Polarization From M1 to M2 in Neurodegenerative Diseases.
+- `36501033` **2022** *Nutrients* — The Role of Ketogenic Diet in the Treatment of Neurological Diseases.
+- `34985325` **2022** *Clin Microbiol Rev* — A Comprehensive Review on the Role of the Gut Microbiome in Human Neurological Disorders.
+- `35669870` **2022** *Front Neurol* — Transcranial Magnetic Stimulation in the Treatment of Neurological Diseases.
+- `35563342` **2022** *Int J Mol Sci* — Soluble Epoxide Hydrolase as a Therapeutic Target for Neuropsychiatric Disorders.
+- `36615279` **2022** *Molecules* — Potential Benefits of Anthocyanins in Chronic Disorders of the Central Nervous System.
+- `35456932` **2022** *Int J Mol Sci* — CD40-CD40L in Neurological Disease.
+- `33244188` **2021** *Nat Rev Neurol* — Technology of deep brain stimulation: current status and future directions.
+- `33475022` **2021** *Physiol Rev* — The complexity of Alzheimer's disease: an evolving puzzle.
+- `34366510` **2021** *Neuroophthalmology* — Statins in Neuro-ophthalmology.
+- `33554649` **2021** *Exp Biol Med (Maywood)* — Influence of glutamate and GABA transport on brain excitatory/inhibitory balance.
+- `34707612` **2021** *Front Immunol* — Microbiota-Gut-Brain Axis and Epilepsy: A Review on Mechanisms and Potential Therapeutics.
+- `34867169` **2021** *Front Neurosci* — Zinc Finger Proteins in Neuro-Related Diseases Progression.
+- `34733640` **2021** *World J Psychiatry* — Therapeutic role of yoga in neuropsychological disorders.
+- `34045951` **2021** *Front Synaptic Neurosci* — Semaphorins in Adult Nervous System Plasticity and Disease.
+- `32203399` **2020** *Nat Rev Neurol* — Protein transmission in neurodegenerative disease.
+- `31976817` **2020** *Neuroscientist* — Gliotransmission: A Novel Target for the Development of Antiseizure Drugs.
+- `31779518` **2020** *Neuroscientist* — Amyloid, APP, and Electrical Activity of the Brain.
+- `33024326` **2020** *Nat Rev Neurol* — Drug-resistant epilepsy - time to target mechanisms.
+- `31753762` **2020** *Lancet Neurol* — The gut microbiome in neurological disorders.
+- `32554047` **2020** *Gene* — Apolipoprotein D.
+- `31630771` **2020** *Mol Aspects Med* — Neurological disorders and mitochondria.
+- `31698143` **2020** *Prostaglandins Other Lipid Mediat* — Cytochrome P450 derived epoxidized fatty acids as a therapeutic tool against neuroinflammatory diseases.
+- `31066630` **2019** *Physiol Rev* — Myelin in the Central Nervous System: Structure, Function, and Pathology.
+- `30651607` **2019** *Nat Rev Neurol* — New therapeutic developments for Parkinson disease.
+- `31358974` **2019** *Nat Hum Behav* — New alcohol-related genes suggest shared genetic mechanisms with neuropsychiatric disorders.
+- `31373533` **2019** *Physiol Genomics* — Medial prefrontal cortex in neurological diseases.
+- `31614739` **2019** *Int J Mol Sci* — PPARγ and Cognitive Performance.
+- `29424265` **2018** *Neuroscientist* — Neural Oscillations Orchestrate Multisensory Processing.
+- `30544966` **2018** *Pharmaceutics* — Blood-Brain Delivery Methods Using Nanotechnology.
+- `29882776` **2018** *Nutrients* — The Role of Magnesium in Neurological Disorders.
+- `28257128` **2017** *Nat Rev Neurol* — Cognitive decline in Parkinson disease.
+- `27006759` **2016** *F1000Res* — Metals and Neurodegeneration.
+- `25568877` **2014** *Ann Transl Med* — Genome-wide association studies in neurology.
+- `24137023` **2013** *Physiol Rev* — Cerebrospinal fluid secretion by the choroid plexus.
+
+## M12 方法与前沿 — Methods and frontiers
+
+- `42477453` **2026** *Nat Rev Neurosci* — Microglial states revisited: from homeostasis to disease.
+- `41644320` **2026** *Trends Neurosci* — Flexible circuits for visually guided flight control in Drosophila.
+- `39127568` **2024** *Trends Neurosci* — White matter damage and degeneration in traumatic brain injury.
+- `38594945` **2024** *Annu Rev Neurosci* — Toward Optogenetic Hearing Restoration.
+- `39326392` **2024** *Neuron* — Beyond neural data: Cognitive biometrics and mental privacy.
+- `37353461` **2023** *Trends Neurosci* — Control of energy homeostasis by the lateral hypothalamic area.
+- `37428604` **2023** *Annu Rev Neurosci* — How Flies See Motion.
+- `36585520` **2023** *Nat Rev Neurosci* — The plasticitome of cortical interneurons.
+- `37428603` **2023** *Annu Rev Neurosci* — Neural Networks for Navigation: From Connections to Computations.
+- `35074219` **2022** *Trends Neurosci* — Informing deep neural networks by multiscale principles of neuromodulatory systems.
+- `35732917` **2022** *Nat Rev Neurosci* — The structures and functions of correlations in neural population codes.
+- `34799134` **2022** *Trends Neurosci* — What can we learn from inactivation studies? Lessons from auditory cortex.
+- `34390649` **2021** *Neuron* — Current tools to interrogate microglial biology.
+- `32078795` **2020** *Neuron* — Accelerating the Evolution of Nonhuman Primate Neuroimaging.
+- `30897354` **2019** *Neuron* — Resolving the Micro-Macro Disconnect to Address Core Features of Seizure Networks.
+- `29709211` **2018** *Annu Rev Neurosci* — Neural Circuits of Sexual Behavior in Caenorhabditis elegans.
+- `29953871` **2018** *Neuron* — Glutamatergic Signaling in the Central Nervous System: Ionotropic and Metabotropic Receptors in Concert.
+- `28772120` **2017** *Neuron* — Silencing Neurons: Tools, Applications, and Experimental Constraints.
+- `28053326` **2017** *Nat Rev Neurosci* — Scanning the horizon: towards transparent and reproducible neuroimaging research.
+- `27145911` **2016** *Annu Rev Neurosci* — The Emergence of a Circuit Model for Addiction.
+- `25705929` **2015** *Annu Rev Neurosci* — Depression: a decision-theoretic analysis.
+- `25022518` **2014** *Trends Neurosci* — The optogenetic revolution in memory research.
+- `25233306` **2014** *Neuron* — From cosmos to connectomes: the evolution of data-intensive science.
+- `22714020` **2012** *Nat Rev Neurosci* — The cognitive neuroscience of ageing.
+- `42266156` **2026** *Brain* — The entropic brain today.
+- `41162152` **2026** *Genes Dev* — Rewiring gene circuits to dissect oscillatory signaling dynamics.
+- `41435816` **2026** *Dev Cell* — Biophysics of organoids.
+- `41067305` **2026** *Dev Biol* — Optogenetics as a useful tool to control excitable and non-excitable tissues during chicken embryogenesis.
+- `42217988` **2026** *Handb Clin Neurol* — Optogenetics for therapeutic use in the brain, eye, and ear.
+- `41776655` **2026** *J Exp Clin Cancer Res* — Challenges and advances in drug resistance and tolerance in cancer.
+- `42228282` **2026** *Cell Regen* — Olfactory epithelium regeneration and homeostasis: cellular and molecular mechanisms and novel methodological advances.
+- `41597250` **2026** *Cells* — Cell-Based Computational Models of Organoids: A Systematic Review.
+- `42056005` **2026** *J Appl Toxicol* — Development and Application of Organoids for Toxicology Studies.
+- `41034566` **2025** *Nat Hum Behav* — The impact of advanced AI systems on democracy.
+- `39453990` **2025** *Physiol Rev* — Degenerate neuronal and circuit mechanisms important for generating rhythmic motor patterns.
+- `37561138` **2024** *Physiol Rev* — Ca(2+) dynamics in interstitial cells: foundational mechanisms for the motor patterns in the gastrointestinal tract.
+- `36703298` **2024** *Neuroscientist* — A Hypothalamic Perspective of Human Socioemotional Behavior.
+- `39526108` **2024** *Brain Circ* — The application of optogenetics in traumatic brain injury research: A narrative review.
+- `37650383` **2024** *Biol Chem* — Optogenetics 2.0: challenges and solutions towards a quantitative probing of neural circuits.
+- `38039932` **2024** *Curr Opin Microbiol* — Unlocking the potential of optogenetics in microbial applications.
+- `37290118` **2023** *Physiol Rev* — Synaptic memory and CaMKII.
+- `37816323` **2023** *Curr Biol* — Losing, preserving, and restoring vision from neurodegeneration in the eye.
+- `36725691` **2023** *Eur J Neurosci* — Bed nuclei of the stria terminalis: A key hub in the modulation of anxiety.
+- `36650973` **2023** *Zhonghua Wai Ke Za Zhi* — [Progress in omics research and preclinical models of gallbladder cancer].
+- `39188295` **2023** *Smart Med* — Emerging optogenetics technologies in biomedical applications.
+- `37996706` **2023** *Pflugers Arch* — Ethics and regulation of neuronal optogenetics in the European Union.
+- `36831216` **2023** *Cells* — The "3Ds" of Growing Kidney Organoids: Advances in Nephron Development, Disease Modeling, and Drug Screening.
+- `35835882` **2022** *Nat Neurosci* — Optogenetics at the presynapse.
+- `35868278` **2022** *Cell* — Human organoids: New strategies and methods for analyzing human development and disease.
+- `35757811` **2022** *Front Bioeng Biotechnol* — Platforms for Optogenetic Stimulation and Feedback Control.
+- `35517048` **2022** *Front Aging Neurosci* — The Roles of Optogenetics and Technology in Neurobiology: A Review.
+- `34348631` **2022** *Curr Stem Cell Res Ther* — Advances and Challenges in Kidney Organoids.
+- `33064858` **2021** *New Phytol* — Optogenetics in plants.
+- `32383519` **2021** *Genes Brain Behav* — Category learning in rodents using touchscreen-based tasks.
+- `34837731` **2021** *Curr Opin Neurobiol* — Neural architectures in the light of comparative connectomics.
+- `33815261` **2021** *Front Neurol* — New Ethical Issues in Cerebral Palsy.
+- `32669685` **2020** *Nat Rev Neurol* — Applications of machine learning to diagnosis and treatment of neurodegenerative diseases.
+- `32839584` **2020** *Nat Rev Neurol* — Artificial intelligence for decision support in acute stroke - current roles and potential.
+- `31699521` **2020** *Trends Plant Sci* — Structural Basis of Design and Engineering for Advanced Plant Optogenetics.
+- `30843293` **2020** *Dev Dyn* — Kidney organoids in translational medicine: Disease modeling and regenerative medicine.
+- `32344649` **2020** *Molecules* — Induced Pluripotent Stem Cell (iPSC)-Based Neurodegenerative Disease Models for Phenotype Recapitulation and Drug Screening.
+- `30368037` **2019** *Curr Opin Neurobiol* — Connectomics and function of a memory network: the mushroom body of larval Drosophila.
+- `31494779` **2019** *J Mammary Gland Biol Neoplasia* — The Eleventh ENBDC Workshop: Advances in Technology Help to Unveil Mechanisms of Mammary Gland Development and Cancerogenesis.
+- `28874078` **2018** *Neuroscientist* — Behavioral Manipulation by Optogenetics in the Nonhuman Primate.
+- `28823531` **2018** *J Insect Physiol* — Odor-taste learning in Drosophila larvae.
+- `29512463` **2018** *Curr Gene Ther* — Application of Optogenetics in Gene Therapy.
+- `29542090` **2018** *Adv Exp Med Biol* — Morphology and Physiology of the Ascidian Nervous Systems and the Effectors.
+- `29155296` **2018** *Life Sci* — Optogenetic manipulation of ENS - The brain in the gut.
+- `28726577` **2017** *Pain Manag* — Will optogenetics be used to treat chronic pain patients?
+- `28506694` **2017** *Prog Biophys Mol Biol* — Optogenetics gets to the heart: A guiding light beyond defibrillation.
+- `27871856` **2017** *Biochem Biophys Res Commun* — Will cardiac optogenetics find the way through the obscure angles of heart physiology?
+- `27063107` **2016** *Nat Rev Neurol* — Neuropsychiatric sequelae of stroke.
+- `26308981` **2015** *Nat Neurosci* — Optogenetics: 10 years after ChR2 in neurons--views from the community.
+- `26240427` **2015** *Philos Trans R Soc Lond B Biol Sci* — Illuminating neural circuits and behaviour in Caenorhabditis elegans with optogenetics.
+- `26155665` **2015** *Usp Fiziol Nauk* — [Optogenetics in Investigations of Brain Mechanisms of Behavior].
+- `25402855` **2014** *Nat Neurosci* — Pathological circuit function underlying addiction and anxiety disorders.
+- `24570656` **2014** *Front Cell Neurosci* — Impaired activity-dependent neural circuit assembly and refinement in autism spectrum disorder genetic models.
+- `22497943` **2012** *Curr Biol* — The ancient and evolving roles of cohesin in gene expression and DNA repair.
+- `22145158` **2011** *Curr Biol* — Shining new light on the brain.
+
+## 原典
+
+- `12991237` **1952** *J Physiol* — A quantitative description of membrane current and its application to conduction and excitation in nerve.  
+  > Hodgkin & Huxley 1952，动作电位的数学模型。数学密度最高，可以留到最后当作硬骨头啃。
+- `14403679` **1959** *J Physiol* — Receptive fields of single neurones in the cat's striate cortex.  
+  > Hubel & Wiesel 1959，猫视觉皮层单个神经元的感受野。
+- `4727084` **1973** *J Physiol* — Long-lasting potentiation of synaptic transmission in the dentate area of the anaesthetized rabbit following stimulation of the perforant path.  
+  > Bliss & Lømo 1973，LTP 的首次报道。读之前先看 M06 的 LTP 综述。
+- `5124915` **1971** *Brain Res* — The hippocampus as a spatial map. Preliminary evidence from unit activity in the freely-moving rat.  
+  > O'Keefe & Dostrovsky 1971，位置细胞。
+- `13406589` **1957** *J Neurol Neurosurg Psychiatry* — Loss of recent memory after bilateral hippocampal lesions.  
+  > Scoville & Milner 1957，H.M. 病例：记忆与海马的双分离。
+- `13233369` **1954** *J Comp Physiol Psychol* — Positive reinforcement produced by electrical stimulation of septal area and other regions of rat brain.  
+  > Olds & Milner 1954，颅内自我刺激，奖赏回路的起点。
+- `9054347` **1997** *Science* — A neural substrate of prediction and reward.  
+  > Schultz, Dayan & Montague 1997，多巴胺与奖励预测误差。
+- `16116447` **2005** *Nat Neurosci* — Millisecond-timescale, genetically targeted optical control of neural activity.  
+  > Boyden et al. 2005，光遗传学奠基。
+- `18421835` **1949** *Electroencephalogr Clin Neurophysiol* — Brain stem reticular formation and activation of the EEG.  
+  > Moruzzi & Magoun 1949，网状激活系统与觉醒。
