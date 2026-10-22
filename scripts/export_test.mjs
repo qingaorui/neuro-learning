@@ -49,7 +49,9 @@ await page.route("**/api.deepseek.com/**", async (route) => {
   return route.fulfill({ status: 200, contentType: "application/json", body: JSON.stringify({ choices: [{ message: { content: "{}" } }] }) });
 });
 
-await page.goto("http://127.0.0.1:8899/", { waitUntil: "networkidle" });
+const BASE = process.argv[2] || "http://127.0.0.1:8899/";
+console.log("目标:", BASE);
+await page.goto(BASE, { waitUntil: "networkidle", timeout: 60000 });
 await page.evaluate(() => {
   const s = JSON.parse(localStorage.getItem("ns.settings") || "{}");
   Object.assign(s, { apiKey: "sk-x", baseUrl: "https://api.deepseek.com", model: "deepseek-chat", mock: false });
